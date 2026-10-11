@@ -4,7 +4,7 @@
     <title>博主更新追踪 (Instagram + 小红书 + 微博)</title>
     <link>https://www.instagram.com/</link>
     <description>Dayou 追踪的 Instagram、小红书与微博博主更新</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 10:32:19 +0000</lastBuildDate>
     <item>
       <title>上海交通大学: 志不立，天下无可成之事💪</title>
       <link>https://www.xiaohongshu.com/explore/6aa8a5f8000000001e02f8c1</link>
@@ -208,7 +208,10 @@
       <pubDate>Sun, 11 Oct 2026 09:11:19 +0000</pubDate>
       <author>小白哥乌拉诺斯</author>
       <category>微博</category>
-      <description>Mezco one: 12 发布新品预告 僵尸</description>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/617cb95e1c22b93c.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/617cb95e1c22b93c.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/330c4d36a4899089.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/617cb95e1c22b93c.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/330c4d36a4899089.jpg"/><br/>Mezco one: 12 发布新品预告 僵尸</description>
     </item>
     <item>
       <title>评述员詹俊: 感谢 @中网ChinaOpen ，昨晚英超直播录完节目后回到家接近四点了，躺了一</title>
