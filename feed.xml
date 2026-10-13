@@ -4,7 +4,72 @@
     <title>博主更新追踪 (Instagram + 小红书 + 微博)</title>
     <link>https://www.instagram.com/</link>
     <description>Dayou 追踪的 Instagram、小红书与微博博主更新</description>
-    <lastBuildDate>Tue, 13 Oct 2026 15:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:33:18 +0000</lastBuildDate>
+    <item>
+      <title>评述员詹俊: #欧冠[超话]# 巴萨队史首次开季10场各项赛事全胜！亚马尔"彩虹式"过人赏心悦目，单场两助攻帮助巴萨客场逆转加拉塔萨雷。新赛季包括国家队在内这位西班牙边锋已经</title>
+      <link>https://weibo.com/1664207987/RmznfmlEY</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1664207987/RmznfmlEY</guid>
+      <pubDate>Tue, 13 Oct 2026 23:20:59 +0000</pubDate>
+      <author>评述员詹俊</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9e1ebc38660173ce.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9e1ebc38660173ce.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/266fd8b798880b03.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c91ecb3d9d5be1b4.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a87944eee5a69d28.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a47b2906ccd539f2.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a746103882a5024c.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9e1ebc38660173ce.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/266fd8b798880b03.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c91ecb3d9d5be1b4.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a87944eee5a69d28.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a47b2906ccd539f2.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a746103882a5024c.jpg"/><br/>#欧冠[超话]# 巴萨队史首次开季10场各项赛事全胜！亚马尔"彩虹式"过人赏心悦目，单场两助攻帮助巴萨客场逆转加拉塔萨雷。新赛季包括国家队在内这位西班牙边锋已经打进12球并有10个助攻。</description>
+    </item>
+    <item>
+      <title>梁斌penny: 《挖出一个 627G 的"遗留数据库"》</title>
+      <link>https://weibo.com/1497035431/RmwNjwFEf</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RmwNjwFEf</guid>
+      <pubDate>Tue, 13 Oct 2026 23:20:59 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>《挖出一个 627G 的"遗留数据库"》<br/>今天处理机器发现一块遗留SSD。。上面有个目录：一个 3MB 的二进制文件、两个配置文件，加一个数据目录。是一个 SSDB，一个基于 LevelDB、兼容 Redis 协议的开源 KV 数据库。今晚花了一个多小时把它跑了起来，过程比想象中曲折：<br/>老二进制在新系统上直接报 GLIBCXX 版本错误，只好从源码重新编译。<br/>配置里绑定的是一台早已不存在的机器的 IP，改掉。<br/>一启动，1 核 1G 的机器直接被 OOM 干掉。一看数据目录：627G，10.8 万个 sst 文件，光加载文件元信息就要好几个 G 内存。只好把云盘卸下来，挂到一台 8 核 32G 的新机器上。<br/>终于启动成功，可所有查询命令都返回空。原来当年的人改过 SSDB 源码，自定义了数据类型，标准命令根本看不到这些数据。<br/>用 Python 直接遍历 LevelDB，结果卡死了。原因是库的开头堆着上亿条"删除标记"，迭代器要一条条跳过。<br/>最后干脆绕过数据库，自己写了个 C++ 小工具，逐个解析 sst 文件的二进制格式，把 key 和 value 的每个字段都逆向出来：数据从 2020 年一直记到今年。那上亿条被删除的数据，其实是 SSDB 自己的同步日志在自动滚动清理，真正的业务数据一条都没丢。<br/>再利用"sst 文件写完就不再修改"的特性，只挑出 4 月以后生成的 1940 个文件来读，8 线程几分钟就导出了 2830 万条明细，压缩后 397M。<br/>3点体会：<br/>1）LevelDB 的删除只是打个标记，数据其实还在，被删的东西有时能找回来；<br/>2）绕过上层系统、直接读底层存储格式，往往是最快的路；<br/>3）还是AI牛逼，一路都是拷贝粘贴，提需求。。</description>
+    </item>
+    <item>
+      <title>sniper-china: 我对汽车不懂 我还一直以为懂车帝是一个自媒体，原来是一家大公司！</title>
+      <link>https://weibo.com/2215128543/RmxtLaR5s</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RmxtLaR5s</guid>
+      <pubDate>Tue, 13 Oct 2026 23:20:59 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>我对汽车不懂 我还一直以为懂车帝是一个自媒体，原来是一家大公司！<br/><br/>懂车帝 概况<br/><br/>1、估值<br/>2024年独立分拆后完成Pre-IPO A轮融资，投后估值30亿美元（折合人民币约217亿元），投资方：红杉中国、泛大西洋General Atlantic、KKR、高榕资本，本轮募资约6亿美元。<br/>背景：懂车帝2023年底从字节跳动内部业务线分拆为独立法人主体，字节保留大股东身份，引入外部PE，为赴港IPO做准备。目前还没有正式上市，所以没有二级市场市值，这个是一级市场私募交易估值。<br/><br/>2、员工数量<br/>工商年报的参保人数只是壳公司，不能代表真实全职员工。<br/>• 市场调研/融资材料口径：全职员工大约1500人左右（2024-2025），企查查披露主体懂车族科技填报人数1570人，和这个口径吻合。<br/>区分：早年属于字节内部业务时，大量产品、算法、审核人员是字节共享人力；分拆独立之后，相关人员逐步转入懂车帝独立主体。不含大量外包、探店内容创作者。<br/>对标：汽车之家上市公司员工约4200人，懂车帝体量明显更小。<br/><br/>3、业务规模<br/>用户 移动端DAU（日活）&gt;1000万；全平台汽车兴趣用户累计5亿+（含抖音内汽车内容流量，懂车帝承接抖音汽车内容运营）。<br/>业务三块<br/>1）汽车媒体广告（基本盘，盈利主力）：车企、经销商广告投放；<br/>2）新车线索业务：卖销售线索给4S店；<br/>3）二手车交易、新车零售：交易业务，尚在投入期。<br/>行业格局：国内垂直汽车平台第二，仅次于汽车之家，强于易车。<br/>收入特点：已经整体盈利，广告+线索是现金流来源；交易业务还在烧钱。<br/><br/>4、关键补充<br/>1. 估值对比：融资当时，美股上市的汽车之家市值大约33亿美元，懂车帝一级估值几乎追上汽车之家。<br/>2. 潜在风险：<br/>◦ 高度依赖车企广告，汽车行业下行会直接冲击广告收入；<br/>◦ 抖音流量是双刃剑：懂车帝很大一部分流量来自抖音，未来流量分成存在变数；<br/>◦ 二手车、新车交易业务竞争激烈，短期很难贡献大额利润。</description>
+    </item>
+    <item>
+      <title>sniper-china: 转发 @蓝鲸新闻：</title>
+      <link>https://weibo.com/2215128543/Rmx2BF6zl</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rmx2BF6zl</guid>
+      <pubDate>Tue, 13 Oct 2026 23:20:59 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/72c4d4ea68bf715f.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/72c4d4ea68bf715f.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/72c4d4ea68bf715f.jpg"/><br/>有天某人问我,认识梅总吗？！我说不认识啊，人家那么大一老板。对方笑笑说，大学期间你俩肯定见过，隔壁和我一年，有些交集。//@桌总:据说有1万律师还是10万律师的律所？。。。#桌总# 。。。<br/>转发 @蓝鲸新闻：<br/>据上海市人民检察院第二分院10月12日发布的《被害人诉讼权利义务告知书》，“犯罪嫌疑人梅向荣非法吸收公众存款、集资诈骗案一案，上海市静安区人民检察院于2026年10月12日报送本院审查起诉”。<br/><br/>今年初，北京市盈科律师事务所（下称“盈科律所”）陷入融资担保兑付风波。3月11日，盈科律所发布公告，对网传该所创始人梅向荣涉融资担保方面的情况作出说明，称梅向荣已辞去在本所担任的一切职务，“该事件系其家人开办公司产生的问题，与本所执业活动无关联。”同时，“本所各项经营活动正常有序开展，将依法依规及时披露合规信息，接受社会与行业监督。”<br/><br/>盈科律所成立于 2001 年，是全球注册律师人数最多的律所之一。梅向荣掌舵盈科律所多年，曾任盈科律所创始人、主任、全球董事会主任、党委书记等职务。<br/>（第一财经） <a href="https://weibo.com/1885454921/RmvWCd3iR">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/72c4d4ea68bf715f.jpg"/></description>
+    </item>
+    <item>
+      <title>sniper-china: 转发 @财新网：</title>
+      <link>https://weibo.com/2215128543/RmwVcz2bx</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RmwVcz2bx</guid>
+      <pubDate>Tue, 13 Oct 2026 23:20:59 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/8ad6973894f48cae.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/8ad6973894f48cae.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/8ad6973894f48cae.jpg"/><br/>这个我略知一二。很多股票其实发不出去，只能找人来托来认。里面涉及复杂的资金往来和桌底协议。<br/>转发 @财新网：[网页链接]香港证监会重拳出手查IPO包盘 冻结46亿涉案资产破纪录 香港证监会发起近年力度罕见的IPO操纵专项执法行动，向31家券商发出限制通知，冻结与12名个人与公司相关、合共超过46.6亿港元的涉案资产。此次行动矛头直指两个涉嫌在港股新股发行的国际配售环节实施“包盘”团伙，涉及金额为历来同类案件中规模最大。 <a href="https://weibo.com/1663937380/RmwBa0pqE">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/8ad6973894f48cae.jpg"/></description>
+    </item>
+    <item>
+      <title>sniper-china: 转发 @游识猷：不同学科的人底层思维真是太不一样了……</title>
+      <link>https://weibo.com/2215128543/RmwUcefpb</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RmwUcefpb</guid>
+      <pubDate>Tue, 13 Oct 2026 23:20:59 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>转发 @泼墨C：<br/>转发 @游识猷：<br/>转发 @游识猷：不同学科的人底层思维真是太不一样了……<br/>数学家陶哲轩刚讲了一个思想实验，如果AI搞出了一个癌症新药，通过了严格的临床试验，数据非常好。但是没有任何人类真正理解这个配方为什么能治好癌症，或者它是通过什么底层生物学机制实现的。那么，在将这种化学混合物注入自己身体之前，你是否希望至少有一位人类癌症专家真正理解它的作用机制？<br/>生物医学新药开发者：？？？？？完全搞不清机制，但有用，快用！这不是我们一直在干的事情吗？[允悲] <a href="https://weibo.com/1783475181/RmrhN7nqW">原微博</a></description>
+    </item>
     <item>
       <title>梁斌penny: 这个打官司，基本没法打，法官哪有这个辨别力。。目测只能自然倒霉了。</title>
       <link>https://weibo.com/1497035431/RmvHbFgEM</link>
@@ -1453,7 +1518,11 @@ A huge thank you to @quahkm for c</title>
       <pubDate>Sun, 11 Oct 2026 09:11:19 +0000</pubDate>
       <author>评述员詹俊</author>
       <category>微博</category>
-      <description>#中网2026# @中网ChinaOpen @高峻微博 [二哈] 现在把奖品拿出来竞猜，评论中最快猜对今晚女单决赛比分（例如:郑钦文7:6，4:6，7:6胜）的朋友将得到图片中的所有纪念品。[坏笑]</description>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9bfd79e0e231a713.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9bfd79e0e231a713.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/8c1fc2095365426c.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ca2a7f503a62d35b.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9bfd79e0e231a713.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/8c1fc2095365426c.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ca2a7f503a62d35b.jpg"/><br/>#中网2026# @中网ChinaOpen @高峻微博 [二哈] 现在把奖品拿出来竞猜，评论中最快猜对今晚女单决赛比分（例如:郑钦文7:6，4:6，7:6胜）的朋友将得到图片中的所有纪念品。[坏笑]</description>
     </item>
     <item>
       <title>梁斌penny: 以前没有AI的时候，只有牛人才配有高标准，高输出。。现在有了AI一切都变了，只要</title>
@@ -1636,64 +1705,6 @@ A huge thank you to @quahkm for c</title>
       <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ed9746de62e605cc.jpg" type="image/jpeg"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ed9746de62e605cc.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ed9746de62e605cc.jpg"/><br/>表演这么重要吗[允悲]<br/>转发 @梁斌penny：表演这么重要吗[允悲]<br/>转发 @庆丰：（无评语，仅转发）<br/>转发 @来去之间：转发微博<br/>转发 @清月已经不困了：约700字长文，见 orig_text<br/>转发 @清月已经不困了：约700字长文，转述 Alexandr Wang 观点：企业级市场中认知比现实更真实，Palantir 给新员工发即兴表演书；傻逼的共识也是共识，技术价值需被感知才能转化为商业价值。话题 #微博新知# #热点聚焦# #微博视频精选大赏# <a href="https://weibo.com/5706092637/Rm3XlAxC8">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ed9746de62e605cc.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: 星星之火 可以燎原。</title>
-      <link>https://weibo.com/2215128543/Rm9DtdKmy</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rm9DtdKmy</guid>
-      <pubDate>Sun, 11 Oct 2026 12:16:55 +0800</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>星星之火 可以燎原。<br/>转发 @sniper-china：星星之火 可以燎原。<br/>转发 @牛叔：（仅 [流汗] 表情）<br/>转发 @野狐巉：（仅 [泪奔] 表情）<br/>转发 @峰哥亡命天涯：见 orig_text<br/>转发 @峰哥亡命天涯：前面劝返回来5万诈骗犯，后面又抓回来5万诈骗犯，关了1-3年，现在应该全部流入社会了吧？这10万人现在干什么呢？还能老老实实上班吗？挺好奇这个群体的。 <a href="https://weibo.com/2397417584/Rm0jCvZPg">原微博</a></description>
-    </item>
-    <item>
-      <title>sniper-china: 我女孩挺干净利索，挺好的，不就是黄牛票贵了点么。</title>
-      <link>https://weibo.com/2215128543/Rm9iY1rw0</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rm9iY1rw0</guid>
-      <pubDate>Sun, 11 Oct 2026 12:16:55 +0800</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/09e7ae2004174733.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/09e7ae2004174733.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/09e7ae2004174733.jpg"/><br/>我女孩挺干净利索，挺好的，不就是黄牛票贵了点么。<br/>转发 @sniper-china：我女孩挺干净利索，挺好的，不就是黄牛票贵了点么。<br/>转发 @桌总：看到明星真人就高潮了<br/>转发 @桂曙光：（附图 t.cn 短链，未解析出直接图片地址）<br/>转发 @皇城根下刀笔吏：我以前有次吃中饭（在类似大排档的地方），听到坐我边上的两个女生聊追星的事，一年加上购买爱豆的周边，花掉几十万，听得我眼珠子都快掉了。<br/>转发 @黄西炮：见 orig_text<br/>转发 @黄西炮：11400块两张超远看台票！怪不得都说女人和孩子的钱最好挣，不是孩子傻，是孩子的钱也是女人花的…… #微博二创视频创作季##微博视频号续航计划# <a href="https://weibo.com/5384771805/Rm4AA2TFm">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/09e7ae2004174733.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: 约250字辣椒炒肉随笔：做法没有标准答案；子曰民可使由之不可使知之；不要迷信权威；子在川上曰逝者如斯夫。</title>
-      <link>https://weibo.com/2215128543/Rm8Y87UJU</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rm8Y87UJU</guid>
-      <pubDate>Sun, 11 Oct 2026 12:16:55 +0800</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/28a7a3147f68824d.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/28a7a3147f68824d.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/28a7a3147f68824d.jpg"/><br/>约250字辣椒炒肉随笔：做法没有标准答案；子曰民可使由之不可使知之；不要迷信权威；子在川上曰逝者如斯夫。</description>
-    </item>
-    <item>
-      <title>sniper-china: 约200字：在浙江开朋友的老车，刹车提示您踩刹车可以用力些；紧急制动建议全力踩到底。</title>
-      <link>https://weibo.com/2215128543/Rm8Q22aNE</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rm8Q22aNE</guid>
-      <pubDate>Sun, 11 Oct 2026 12:16:55 +0800</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>约200字：在浙江开朋友的老车，刹车提示您踩刹车可以用力些；紧急制动建议全力踩到底。</description>
-    </item>
-    <item>
-      <title>sniper-china: 约150字：早餐煮粉，煎蛋煮汤、鱼丸肉丸、海参；儿子吃了海参不再说难吃，国足专用同款；王老师转中医信滋阴。</title>
-      <link>https://weibo.com/2215128543/Rm8LnCZgh</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rm8LnCZgh</guid>
-      <pubDate>Sun, 11 Oct 2026 12:16:55 +0800</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>约150字：早餐煮粉，煎蛋煮汤、鱼丸肉丸、海参；儿子吃了海参不再说难吃，国足专用同款；王老师转中医信滋阴。</description>
-    </item>
-    <item>
-      <title>LoneSchicksal: 很喜欢这句, 以前没有说的对象, 现在当然是转给还迷糊的老婆, 给她醒个神儿… [doge][doge]</title>
-      <link>https://weibo.com/1645776681/Rm8l31rbT</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rm8l31rbT</guid>
-      <pubDate>Sun, 11 Oct 2026 12:16:55 +0800</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <description>很喜欢这句, 以前没有说的对象, 现在当然是转给还迷糊的老婆, 给她醒个神儿… [doge][doge]<br/>转发 @中囻文学bot：而我总是想起你，你比宇宙璀璨，你比时间具体<br/><br/>曹韵《你比时间具体》<br/>#我在微博当bot# <a href="https://weibo.com/6551068885/Rm88xnuh3">原微博</a></description>
     </item>
   </channel>
 </rss>
