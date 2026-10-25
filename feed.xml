@@ -4,7 +4,60 @@
     <title>博主更新追踪 (Instagram + 小红书 + 微博)</title>
     <link>https://www.instagram.com/</link>
     <description>Dayou 追踪的 Instagram、小红书与微博博主更新</description>
-    <lastBuildDate>Sun, 25 Oct 2026 05:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:50:51 +0000</lastBuildDate>
+    <item>
+      <title>评述员詹俊: #利物浦[超话]# 海鸥凶猛，红军防冷！英国方面的消息，利物浦vs布莱顿的比赛不会受到风暴影响延期，只是估计届时有大雨强</title>
+      <link>https://weibo.com/1664207987/RojAYwbbE</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1664207987/RojAYwbbE</guid>
+      <pubDate>Sun, 25 Oct 2026 09:47:02 +0000</pubDate>
+      <author>评述员詹俊</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/590bf338e86e139b.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/590bf338e86e139b.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/bd2a81cf1e6bff8e.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/590bf338e86e139b.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/bd2a81cf1e6bff8e.jpg"/><br/>#利物浦[超话]# 海鸥凶猛，红军防冷！英国方面的消息，利物浦vs布莱顿的比赛不会受到风暴影响延期，只是估计届时有大雨强风。从另外一个层面来说，布莱顿这个赛季刮起的“海鸥风暴”已经席卷英超，目前的联赛四连胜一球没丢打进15球，本赛季欧洲五大联赛中只有巴萨进球比他们更多。红军本季英超主场不胜，防线很容易被打穿，只有期待进攻端的众将能挺身而出，用雷电压制这狂风猛风！今晚21：30搭档张指在@咪咕视频 解说利物浦vs布莱顿。</description>
+    </item>
+    <item>
+      <title>梁斌penny: 机房里有台老服务器，内存有960G，整整齐齐。没人打开数过，大家都默认它就这么多。
+
+今天排查别的问题，顺手翻了一下 B</title>
+      <link>https://weibo.com/1497035431/Roj4u1nZU</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/Roj4u1nZU</guid>
+      <pubDate>Sun, 25 Oct 2026 09:47:02 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>机房里有台老服务器，内存有960G，整整齐齐。没人打开数过，大家都默认它就这么多。<br/><br/>今天排查别的问题，顺手翻了一下 BMC 日志，发现了一件怪事：每次开机都会记下两条 “Memory Device Disabled”（内存设备已禁用）。一次都没落下，每次开机准时记一对。<br/><br/>再查插槽表，发现这是一块 32 槽的主板：2 颗 CPU，每颗 8 个通道，每个通道 2 根。其中 CPU1 的 P 通道，两个槽都显示 “No Module Installed”（未安装）。<br/><br/>可是空插槽是不会被"禁用"的。BIOS 只有检测到槽里有东西，才会去训练和初始化，失败了才会把它关掉。日志里被点名的，正好是同一通道的 0 号槽和 1 号槽。<br/><br/>我怀疑是其中一根内存出了问题，BIOS 一怒之下把整个通道都封了，同通道那根好好的兄弟也跟着被连坐，一起关了禁闭。<br/><br/>还有一个旁证：BMC 把内存分成 4 组测温度，其他三组都是 44～45°C，只有 DIMMG2 是 39°C，凉了足足 5 度。而温度低的一组里恰好有两根被禁用的内存躺着不干活，温度当然低一点。<br/><br/>所以现在的情况是：系统说有 30 根，日志暗示有 32 根，温度传感器也在旁边小声嘀咕"这里有人在偷懒"。<br/><br/>64G 内存可能就这样在机箱里默默躺了很久，不报错、不罢工，只在 BMC 日志里每天打一次卡："我在，但我被禁用了。"<br/><br/>明天开箱验证：争取找到这两根"失踪"的内存。。。就算是槽子坏了，内存拿出来也能用在其他地方，也不少钱了。</description>
+    </item>
+    <item>
+      <title>梁斌penny: 我真羡慕你，可以大大方方说用了哪个哪个模型。。</title>
+      <link>https://weibo.com/1497035431/RoiQXxDNe</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RoiQXxDNe</guid>
+      <pubDate>Sun, 25 Oct 2026 09:47:02 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>我真羡慕你，可以大大方方说用了哪个哪个模型。。<br/>转发 @agentzh：最近我烧 AI token 最多的一天，烧了 35 B 的 token（即 350 亿），最近最忙的一周烧了 163 B（也就是 1630 亿）。其中 99.2% 的 token 使用的是 Claude Opus 模型，0.7% 是 GPT-6.1 Sol，剩下的则可以忽略不计……<br/><br/>争取下面能把 token 用量再翻倍一下……要多快好省地烧 token 也是一门大学问 [笑cry] <a href="https://weibo.com/1833449124/5357886088938431">原微博</a></description>
+    </item>
+    <item>
+      <title>青祙素: 我朋友的女儿，在加州那个农场/硅谷黄埔军校读的数学博士，毕业时年景不好工作找很久，去年才进了大厂，一年30多万美元[期待</title>
+      <link>https://weibo.com/2109928873/RojorloE7</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2109928873/RojorloE7</guid>
+      <pubDate>Sun, 25 Oct 2026 09:47:02 +0000</pubDate>
+      <author>青祙素</author>
+      <category>微博</category>
+      <description>我朋友的女儿，在加州那个农场/硅谷黄埔军校读的数学博士，毕业时年景不好工作找很久，去年才进了大厂，一年30多万美元[期待]。<br/><br/>在我顶礼膜拜的时候，我朋友说，也不算多…。<br/><br/>本想说她凡尔赛，突然意识到她对标的人跟我不一样[泪奔]；<br/><br/>不用说前两年进这个厂怎么也能拿个四五十万；<br/><br/>她女儿中学的同班同学，早3年进的金融行业，80万。两人成绩差不多，她后来读了美高。<br/><br/>成绩差不多的另外三人上的姚班……<br/><br/>真不是凡人。<br/><br/>可见成绩就是钱啊，如果不是，说明这成绩还不够好（不是）[捂嘴哭]。<br/><br/>而且人家还结婚。<br/><br/>真·别人家的孩子。</description>
+    </item>
+    <item>
+      <title>LoneSchicksal: Ken Griffin亲自发表看空言论… 不知道盯上谁的组合了…</title>
+      <link>https://weibo.com/1645776681/RoiGq8i5E</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RoiGq8i5E</guid>
+      <pubDate>Sun, 25 Oct 2026 09:47:02 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0ec9123e6cd30035.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0ec9123e6cd30035.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c94e759e5ccc2aa1.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0ec9123e6cd30035.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c94e759e5ccc2aa1.jpg"/><br/>Ken Griffin亲自发表看空言论… 不知道盯上谁的组合了…<br/>转发 @LoneSchicksal：诚心学习中文的中学生…（自转2026-08-06帖，见原帖） <a href="https://weibo.com/1645776681/5328809046836103">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c94e759e5ccc2aa1.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0ec9123e6cd30035.jpg"/></description>
+    </item>
     <item>
       <title>小白哥乌拉诺斯: TFcon Orlando 2026 Big Toy BIG-01 Bigmacbase – Fortress Maximus 巨无霸福特 #变形金刚#</title>
       <link>https://weibo.com/1918541453/Roh59ygH0</link>
@@ -1696,63 +1749,6 @@ Jean Grey -</title>
       <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7f5b32a4a3465977.jpg" type="image/jpeg"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7f5b32a4a3465977.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7f5b32a4a3465977.jpg"/><br/>不要做这样的人设。看微博上很多人自觉自愿想做这样的人设而不可得，更可怜。</description>
-    </item>
-    <item>
-      <title>sniper-china: 左边这一块你们认识吗？</title>
-      <link>https://weibo.com/2215128543/RnQmlpPrU</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RnQmlpPrU</guid>
-      <pubDate>Thu, 22 Oct 2026 10:34:35 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4d350ef19e079a65.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4d350ef19e079a65.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4d350ef19e079a65.jpg"/><br/>左边这一块你们认识吗？</description>
-    </item>
-    <item>
-      <title>青祙素: 跟着香港人出来吃饭。
-
-这边的餐厅，不管贵的不贵的，午市全都以牛马套餐为主。
-
-做东的明示人均不能超过600，标准是不是</title>
-      <link>https://weibo.com/2109928873/RnQlJDFPL</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2109928873/RnQlJDFPL</guid>
-      <pubDate>Thu, 22 Oct 2026 10:34:35 +0000</pubDate>
-      <author>青祙素</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/93a3ec5e31430466.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/93a3ec5e31430466.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/db1382e8161dde8a.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3d860bb3c8777da5.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/93a3ec5e31430466.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/db1382e8161dde8a.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3d860bb3c8777da5.jpg"/><br/>跟着香港人出来吃饭。<br/><br/>这边的餐厅，不管贵的不贵的，午市全都以牛马套餐为主。<br/><br/>做东的明示人均不能超过600，标准是不是参考了公务员的《公务酬酢指引》。<br/><br/>有意思的是这个标准不算低，大家还是选择每个人点套餐，而不是点菜共享，就很香港。<br/><br/>更有意思的是，每个人也都努力点够600，不吃亏。所以有人点了整盘海胆饭。笑死。<br/><br/>我也点错了，松叶蟹真不能吃熟的 [淡淡的] ，柴。应该吃刺身或三成熟碳烤。<br/><br/>#开饭啦# #料酒去腥的惊天骗局#</description>
-    </item>
-    <item>
-      <title>LoneSchicksal: Repost</title>
-      <link>https://weibo.com/1645776681/RnQQQ0BXC</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RnQQQ0BXC</guid>
-      <pubDate>Thu, 22 Oct 2026 10:34:35 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <description>Repost<br/>转发 @华尔街见闻APP：【CoreWeave资金缺口有多大？高盛做了详细测算】高盛测算，CoreWeave消化1290亿美元积压订单需高达600亿美元资本支出，但客户预付款（占合同价值20%）是核心减压阀——引入预付款后，实际新增债务可压缩至230亿美元；若激活全部4.2GW电力储备支撑2630亿潜在订单，则需380亿美元新债。市场对融资风险过度悲观，12个月目标价106美元，较当前股价有71.5%的上行空间。网页链接 <a href="https://weibo.com//RnQFub1uu">原微博</a></description>
-    </item>
-    <item>
-      <title>LoneSchicksal: Technology and Labor Markets: Past, Present, and Future; Evi</title>
-      <link>https://weibo.com/1645776681/RnQLkBcz7</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RnQLkBcz7</guid>
-      <pubDate>Thu, 22 Oct 2026 10:34:35 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <description>Technology and Labor Markets: Past, Present, and Future; Evidence from Two Centuries of Innovation | NBER 网页链接</description>
-    </item>
-    <item>
-      <title>LoneSchicksal: 3个多月之前</title>
-      <link>https://weibo.com/1645776681/RnQgs08KN</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RnQgs08KN</guid>
-      <pubDate>Thu, 22 Oct 2026 10:34:35 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7eaa4d09a72880f5.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7eaa4d09a72880f5.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7eaa4d09a72880f5.jpg"/><br/>3个多月之前<br/>转发 @LoneSchicksal：昨天和客户聊近期科技股的波动, 我说对于AI的发展前景可以谨慎乐观一点儿, 但是正因如此, 才需要对AI Capex链条上的各个行业/公司的估值保持谨慎小心, 最好按照"轮动"的逻辑, 动态调整科技股敞口. 反倒是对于AI不置可否, 或者押注AI Capex物理约束, 更可能导向对于特定行业/公司的估值充满信仰, 因为它实际上把大宗商品的供需逻辑, 直接拿到AI半导体, 忽视了后者通过提高算法架构, 或优化技术架构, 压缩需求的能力. <a href="https://weibo.com//R75EJajva">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7eaa4d09a72880f5.jpg"/></description>
     </item>
   </channel>
 </rss>
