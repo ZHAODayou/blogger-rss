@@ -4,7 +4,99 @@
     <title>博主更新追踪 (Instagram + 小红书 + 微博)</title>
     <link>https://www.instagram.com/</link>
     <description>Dayou 追踪的 Instagram、小红书与微博博主更新</description>
-    <lastBuildDate>Fri, 06 Nov 2026 14:28:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:46:51 +0000</lastBuildDate>
+    <item>
+      <title>小白哥乌拉诺斯: TakaraTOMY 变形金刚 MISSING LINK 铁皮 变形视频来自gdam429mk2 #变形金刚#</title>
+      <link>https://weibo.com/1918541453/RqdF0AaGT</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1918541453/RqdF0AaGT</guid>
+      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
+      <author>小白哥乌拉诺斯</author>
+      <category>微博</category>
+      <description>TakaraTOMY 变形金刚 MISSING LINK 铁皮 变形视频来自gdam429mk2 #变形金刚#</description>
+    </item>
+    <item>
+      <title>梁斌penny: sonnet性价比高。。又快又便宜，价格是opus一半，而且输出还快，编程神器。//@agentzh:Google 官方在 DeepSWE v1.1 上给 Ge</title>
+      <link>https://weibo.com/1497035431/Rqe8O3BUG</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/Rqe8O3BUG</guid>
+      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>sonnet性价比高。。又快又便宜，价格是opus一半，而且输出还快，编程神器。<br/>转发 @梁斌penny：sonnet性价比高。。又快又便宜，价格是opus一半，而且输出还快，编程神器。<br/>转发 @agentzh：Google 官方在 DeepSWE v1.1 上给 Gemini 4 Argon 的成绩是 77.9%，高于 GPT-6 Astra 和 Claude Opus 5.5。这里比较的是 Astra，并非 GPT-6.1 Sol，其他编程项目也并非全赢。我们这次的私有 Coding Evals 里，Argon high 只有 70.2%，Sol xhigh 是 87.6%；平均用时都差不多，14.5 分钟对 14.2 分钟。修 bug 的评分倒是接近，84.0% 对 84.4%，但 Argon 要 36.3 分钟，Sol xhigh 是 12.1 分钟。至少对我自己的真实任务，这次表现确实有些失望。公开跑分再亮眼，也还是得拿自己的任务验证一下呀 [笑cry] Google 官方数据：https://deepmind.google/models/model-cards/gemini-4-argon/<br/>转发 @agentzh：最新的中美大模型完整榜单来了！（见 orig_text）<br/>转发 @agentzh：最新的中美大模型完整榜单来了！Claude Sonnet 5.5 模型的 xhigh 档这次有点抢戏…… 更新了我司内部私有的 OpenResty Coding Evals 和更难的 Bug-Hunting Evals 的完整榜单，把中美多款模型的质量评分和平均用例延时放在一起对比。下面的数字均以这次更新后的榜单为准。几个挺有意思的结论：<br/>1. Sonnet 5.5 xhigh 以 91.8% 拿到 Coding 榜首，Bug-Hunting 也有 88.0%，平均用例延时分别是 9.7 和 18.0 分钟。它的 max 档两项反而只有 90.2% 和 86.1%，用时却增加到至少 49.5 分钟和 109.5 分钟。开到 max，这次还真没占到便宜。<br/>2. Bug-Hunting 总榜第一是 Claude Fable 5.1 max，90.5%；GPT-6.1 Sol ultra 与 Claude Opus 5.5 max 均为 88.1%。GPT-6 Astra xhigh 则以 9.8 分钟拿到 87.4%，这个质量和用时的组合也很亮眼。<br/>3. 图中的国产模型，写新代码和修 bug 分别是两家领先：<br/>3.1 Coding 里 Kimi K3.1 Pro high 是 82.1%，在它前面的配置均来自 Claude、GPT 和 Grok；略高于 GLM 5.3 high 的 81.7%，而平均用时是 6.3 分钟，对方是 26.5 分钟。<br/>3.2 Bug-Hunting 则是 GLM 5.3 high 以 84.8% 在中国国产模型中领先，Qwen3.8 Max xhigh 的 83.5% 紧随其后。<br/>4. DeepSeek V4.1 Flash 1017 更突出的优势是快：high 档在两项里的平均用时是 2.8 和 4.2 分钟，都是各自榜单最快。但评分分别只有 72.3% 和 71.5%；max 档也只有 77.4% 和 79.4%，还没挤进评分第一梯队。<br/>5. 推理强度并不是越高越好。除了 Sonnet，GLM 5.3 从 high 调到 max，两项分数都下降，用时还更长；Kimi 在 Coding 里也是 high 比 max 分高且更快。另外，Gemini 4 Argon 修 bug 有 84.0%，写新代码却只有 70.2%，任务一换，榜单位置也很不一样。<br/>至少在我们这两套私有评测里，选模型还真得带着具体任务和时间预算。分高、跑得快、推理开得大，未必是同一回事呀 [笑cry] #大模型评测# #AI编程# #国产模型#</description>
+    </item>
+    <item>
+      <title>sniper-china: 我是反对“全员营销”的，但都经历过，我也在科研单位干过，正常摊派任务而已。白老师太老实了，换个角度，他愿意吃市场饭吗？市场经济自然会给口饭吃（咸菜还是海鲜看能力</title>
+      <link>https://weibo.com/2215128543/RqcPPhQRH</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqcPPhQRH</guid>
+      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>我是反对“全员营销”的，但都经历过，我也在科研单位干过，正常摊派任务而已。白老师太老实了，换个角度，他愿意吃市场饭吗？市场经济自然会给口饭吃（咸菜还是海鲜看能力和运气）<br/>转发 @sniper-china：我是反对“全员营销”的，但都经历过，我也在科研单位干过，正常摊派任务而已。白老师太老实了，换个角度，他愿意吃市场饭吗？市场经济自然会给口饭吃（咸菜还是海鲜看能力和运气）<br/>转发 @八大山债人：哎。。。<br/>转发 @搜狐新闻：（见 orig_text）<br/>转发 @搜狐新闻：11月2日，一封疑似延安大学鲁迅艺术学院副教授白保国“绝笔信”的长文在网络流传，引发关注。11月5日晚，《中国新闻周刊》联系上了“绝笔信”的发布者曹骏，他是白保国的学生，小学期间跟着白保国学了6年钢琴。曹骏证实，“绝笔信”的内容确为白保国本人所写。曹骏一家与白保国私交较好，“绝笔信”由白保国家属提供，并经家属同意后发布。<br/>前述“绝笔信”中提到，延安大学现行聘期考核制度对教授设置了横向科研经费到账额度、论文发表数量硬性指标。在实际执行中，绝大部分教师为完成上述考核指标，自筹资金，通过合作公司转账至学校，再由学校财务渠道将资金回流至本人，配套不实账务材料完成横向科研经费任务。<br/>《中国新闻周刊》从受访者处获取了一份延安大学政法与公共管理学院《2025年教师科研经费任务清单》。依据该清单，2025年学校下达科研经费总任务为340万元。该学院制定的教师个人经费任务标准为：副教授和近3年新入职的博士（学校按照副教授待遇人员）不少于5.5万元/年。该清单提到，未完成学院年度科研经费任务的教师，按照本人年度任务额的5%扣减津贴。<br/>曹骏表示，事情发酵后，多名延安大学教师匿名联系他，证实校内虚报横向科研经费是较为普遍的情况。据了解，近日，延安大学要求校内教师签署《横向科研经费承诺书》。依据该承诺书，教师本人要保证向学校提交的全部项目材料真实、准确、完整，如经查存在虚假申报、合同造假、经费不实等情形，本人自愿承担由此产生的一切责任。<br/>高校教师获得科研经费，有纵向和横向两种方式。同济大学教育评估研究中心主任樊秀娣介绍，目前不少高校通过攀比科研经费，证明办学水平。纵向经费来自政府部门，“往往集中在头部高校，普通地方高校想争取更多经费，只能从横向课题上想办法。”教师承接企业等单位委托的横向科研项目，可以获得横向科研经费。<br/>樊秀娣介绍，横向科研项目可以促进产学研合作，让高校教师了解并解决社会需求。但有些教师为了评职称，自己掏钱转给企业，再由企业以项目经费的名义转入学校账户。她认为，这种做法在理论上属于学术不端，学校若知情……高校制定指标时应考虑学科特点，考核周期也不宜过短。<br/>曹骏透露，一两年前，白保国就已患有抑郁症，还曾因抑郁症住过院。“在白老师离世的前几个月，他开始在纸上写‘苍天我该怎么办，救救我’这样的话，他身边的亲朋好友知道他有这个念头，都在劝他。”曹骏称，10月20日中午，趁家人午睡时，白保国将银行卡等物品放在妻子枕边，随后孤身一人打车前往陕西延安市的万花山，投湖自尽。这一天，陕西省气象台发布霜冻黄色预警，延安市最低气温降至0℃以下。更多详细内容请查看原文&gt;&gt; 网页链接 http://t.cn/AXYqMmNE</description>
+    </item>
+    <item>
+      <title>sniper-china: 实践是检验真理的唯一标准。尽管去啊！//@齐都督:想成为谁，就去扮演谁</title>
+      <link>https://weibo.com/2215128543/RqcMuq1pR</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqcMuq1pR</guid>
+      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>实践是检验真理的唯一标准。尽管去啊！<br/>转发 @齐都督：想成为谁，就去扮演谁</description>
+    </item>
+    <item>
+      <title>sniper-china: 喝多了 没法睡觉 让我缓缓
+说起张国焘
+我去川西自驾时经历过两河口，夹金山，那个啥土司城堡（张红四开会的地方）
+我的老同事迄今会笑谈我的酒后言论，“他就是事业心</title>
+      <link>https://weibo.com/2215128543/RqcIC6wb8</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqcIC6wb8</guid>
+      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>喝多了 没法睡觉 让我缓缓<br/>说起张国焘<br/>我去川西自驾时经历过两河口，夹金山，那个啥土司城堡（张红四开会的地方）<br/>我的老同事迄今会笑谈我的酒后言论，“他就是事业心太强，没了平台还想东山再起！”<br/>这段话对应的是，他离开延安情有可原，毕竟许世友等还准备拖枪出走被判刑呢。<br/>但是，恩来武汉和他谈判，一 出国、给一笔钱； 二 找个大学当教授、给一笔钱。（回忆录）<br/>够仁义了！包括事后把他妻子（也曾是坚定革命者）孩子送回武汉。<br/>他投靠了蒋。一事无成外，将军一跳身命裂！此众所皆知！<br/>他是富家子弟，是北大students领袖，是李大钊钦命弟子。历届会议（三大除外）都是排名前几名大人物。D内排名优先你们懂的<br/>他能力强不强？两大根据地他是创立和壮大者，尤其入川后队伍扩大五倍以上！<br/>红四将领们包括徐对他服气不？服的。红四即便南下成都失利，西路军惨烈牺牲，残余依旧将星云集！许世友，王建安，韩先楚，陈再道，太多了，没法一一列举。<br/>他观察能力强不强？<br/>遵义会议当时排陈云去莫斯科汇报。并没有内部传达。<br/>他一眼看出来遵义会议改变了领导层格局，并马上调研。<br/>兵力，资历，人心，他占了上风。遵义会议是下克上临时CEO。王某是亚太区兼任南美区非洲区Ceo，中国CEO是谁呢？<br/>怎么办<br/>历史没法说了<br/>多写也被封。<br/>教员很多年后承认，这是我至暗时刻。<br/>睡觉！</description>
+    </item>
+    <item>
+      <title>sniper-china: 马列学院！ 马克思和列宁是哪国人！ 这么简单的逻辑还需要解释，全国都是文盲</title>
+      <link>https://weibo.com/2215128543/RqcwgARdR</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqcwgARdR</guid>
+      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>马列学院！ 马克思和列宁是哪国人！ 这么简单的逻辑还需要解释，全国都是文盲</description>
+    </item>
+    <item>
+      <title>sniper-china: 有两个领域是比较公平的
+
+一个是竞技体育
+
+一个是合法赚钱（二十年内乃至五十年内经得起法律和政府审查）
+
+我说我是普通人，这两领域都是最普通。
+
+比如某沿海城市</title>
+      <link>https://weibo.com/2215128543/Rqctsx5Ha</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqctsx5Ha</guid>
+      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>有两个领域是比较公平的<br/><br/>一个是竞技体育<br/><br/>一个是合法赚钱（二十年内乃至五十年内经得起法律和政府审查）<br/><br/>我说我是普通人，这两领域都是最普通。<br/><br/>比如某沿海城市地产职业经理人，是当地业余网球前电三<br/><br/>比如深圳清华围棋队很多高手，生意场也是高手。我去年去清远打比赛被赞助（商务座往返），我迄今都不知道感谢谁。<br/><br/>很多领域我不熟悉就不鸣声了。<br/><br/>感谢，感恩很多比我们优秀百倍万倍的同胞，让社会更美好。</description>
+    </item>
+    <item>
+      <title>LoneSchicksal: 转发微博//@财联社APP:财联社11月6日电，特朗普称，100%支持人工智能，将与那些希望通过发展人工智能而致富的美国多州合作。</title>
+      <link>https://weibo.com/1645776681/Rqehn1mQ0</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rqehn1mQ0</guid>
+      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <description>转发 @财联社APP：财联社11月6日电，特朗普称，100%支持人工智能，将与那些希望通过发展人工智能而致富的美国多州合作。</description>
+    </item>
+    <item>
+      <title>LoneSchicksal: 醒醒神儿… 完全睡不醒… [doge] [doge]</title>
+      <link>https://weibo.com/1645776681/RqegLrjyO</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RqegLrjyO</guid>
+      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <description>醒醒神儿… 完全睡不醒… [doge] [doge]</description>
+    </item>
     <item>
       <title>评述员詹俊: #曼联[超话]# “时代”这两个字分量很重，个人轻易不会用。四十年前的今天，弗格森从苏格兰南下执教曼联，尽管开始的几年不</title>
       <link>https://weibo.com/1664207987/Rq9eyqa0e</link>
@@ -39,19 +131,6 @@
       <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/cdbab5aa3b46b598.jpg" type="image/jpeg"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/cdbab5aa3b46b598.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/cdbab5aa3b46b598.jpg"/><br/>哦啊<br/>转发 @经理人杂志：[#美光300亿工厂被迫停摆##美股黑色星期四恐慌指数狂飙#]<br/>11月6日，据快科技报道，存储大厂美光已暂停其位于中国台湾地区桃园市、价值45亿美元（约302亿元）的存储芯片工厂建设。<br/>据悉，项目停摆的核心诱因是持续发酵的劳资纠纷。<br/>受益于AI服务器需求旺盛，全球DRAM、HBM行情向好，美光业绩回暖，员工对利润分配的诉求随之升温。10月7日，美光桃园员工工会完成罢工授权投票，1994名会员中99%支持罢工。工会要求建立长期制度化的利润分享机制，将营业利益的15%分配给全球员工，不接受企业仅发放一次性奖金（100万新台币）的方案。<br/>10月21日，美光虽与台中工会达成协议，但桃园工会坚持原有立场，管理层担忧协议被推翻，不得不冻结施工。<br/>在AI算力拉动内存价格狂飙的当下，这处百亿级新厂建设停摆，使本就紧缺的DRAM与HBM市场雪上加霜，恐将继续支撑内存价格维持高位。<br/>值得注意的是，存储产能受阻之际，资本市场的AI狂热也正经历剧烈降温。<br/>受监管担忧与拥挤交易平仓等因素影响，近日美股AI概念股遭遇大举抛售。<br/>当地时间周四，纳斯达克100指数单日暴跌6.4%，科技股市值蒸发2.5万亿美元，“恐慌指数”（VIX）狂飙75%，大量资金正从AI产业链撤出，转而涌入美债避险。（快科技、财联社）<br/>转发 @经理人杂志：[#美光300亿工厂被迫停摆##美股黑色星期四恐慌指数狂飙#]<br/>11月6日，据快科技报道，存储大厂美光已暂停其位于中国台湾地区桃园市、价值45亿美元（约302亿元）的存储芯片工厂建设。<br/>据悉，项目停摆的核心诱因是持续发酵的劳资纠纷。<br/>受益于AI服务器需求旺盛，全球DRAM、HBM行情向好，美光业绩回暖，员工对利润分配的诉求随之升温。10月7日，美光桃园员工工会完成罢工授权投票，1994名会员中99%支持罢工。工会要求建立长期制度化的利润分享机制，将营业利益的15%分配给全球员工，不接受企业仅发放一次性奖金（100万新台币）的方案。<br/>10月21日，美光虽与台中工会达成协议，但桃园工会坚持原有立场，管理层担忧协议被推翻，不得不冻结施工。<br/>在AI算力拉动内存价格狂飙的当下，这处百亿级新厂建设停摆，使本就紧缺的DRAM与HBM市场雪上加霜，恐将继续支撑内存价格维持高位。<br/>值得注意的是，存储产能受阻之际，资本市场的AI狂热也正经历剧烈降温。<br/>受监管担忧与拥挤交易平仓等因素影响，近日美股AI概念股遭遇大举抛售。<br/>当地时间周四，纳斯达克100指数单日暴跌6.4%，科技股市值蒸发2.5万亿美元，“恐慌指数”（VIX）狂飙75%，大量资金正从AI产业链撤出，转而涌入美债避险。（快科技、财联社） <a href="https://weibo.com/1279746217/Rq68zyjJf">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/cdbab5aa3b46b598.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: 魅惑与尊重
-
-之前写过，大学同学一号女生，大一后去了哈佛。我从小是“天下武功 唯快不破”，第一次见比我还快的。
-
-大一结</title>
-      <link>https://weibo.com/2215128543/RqayRwKjj</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqayRwKjj</guid>
-      <pubDate>Fri, 06 Nov 2026 14:22:35 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>魅惑与尊重<br/><br/>之前写过，大学同学一号女生，大一后去了哈佛。我从小是“天下武功 唯快不破”，第一次见比我还快的。<br/><br/>大一结束（不含军训），总成绩排名，她第一名，我第三名，这个我可以吹一辈子。<br/><br/>她出名不是成绩好，是，现在说说无妨吧，青春的浪花而已。我们在图书馆上课，有人说你看窗外，窗外是两个同学kissing！男生是奥运奖牌得主。<br/><br/>这有啥！这才是青春<br/><br/>大四有机小课，她回来和我们上课，我问她，我们难还是哈佛难？<br/><br/>她说各有千秋，不要这样评比。<br/><br/>听说她哈佛第一次考试，满分150，她考了六十多分！<br/><br/>这么看？<br/><br/>哈佛化学系全系第一名。<br/><br/>你说哈佛化学系厉害不厉害呢？<br/><br/>第二个案例以后写，我喝酒了。</description>
     </item>
     <item>
       <title>sniper-china: 我身边一堆这样的人，挺好的。我替他（她）们感谢新加坡。//@tombkeeper:这是典型的李氏精英主义。//@出版人周</title>
@@ -208,6 +287,20 @@
       <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7480eb51312b2211.jpg" type="image/jpeg"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7480eb51312b2211.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7480eb51312b2211.jpg"/><br/>中午吃盒饭，一个160。在千两app下单自取，没有平台赚差价。走过去一看，这么贵的盒饭生意好的不得了，要等。负责取餐的服务员大姐忙到飞起，窜来窜去满堂都是她的身影。我一眼就认出来了，这就是那种员工啊，动作特别多频率也很快，就是不出活。我用白眼/眼刀狠狠剜了她三遍才拿到我的盒饭。从下单起耗时50分钟。期间有个小哥很沉稳，淡定地说帮我看看，去了厨房告诉我，单太多了至少再等5分钟。话音未落大姐就把盒饭地给我了。这两个职场技能我都没有：假装忙到飞起；假装帮你看看。太惨了。觉得香港人民关于内地人很凶的刻板印象帮到我了。如果我讲广东话他们根本不会搭理我，只能接着干等。 #社畜日常# #2027放假 上二休一上二休二#</description>
+    </item>
+    <item>
+      <title>quahkm: Remember to grab this. 😌 
+
+VAMPIRE: THE MASQUERADE: WAKE IN HATE #2
+CVR D ALAN Q</title>
+      <link>https://www.instagram.com/p/DfZy1JtPpJk/</link>
+      <guid isPermaLink="false">ig:18648936922052368</guid>
+      <pubDate>Fri, 06 Nov 2026 06:13:09 +0000</pubDate>
+      <author>Alan Quah</author>
+      <category>Instagram</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d440a023de34d55f.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d440a023de34d55f.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d440a023de34d55f.jpg"/><br/>Remember to grab this. 😌 <br/><br/>VAMPIRE: THE MASQUERADE: WAKE IN HATE #2<br/>CVR D ALAN QUAH FOIL <br/>Final Order Cutoff: November 9<br/>Order code: 1026TN1168<br/>On sale in comic shops: December 16 <br/>Pre-order now from your local comic shop. <br/>For UK &amp; Europe: <br/>https://forbiddenplanet.com/515321-vampire-the-masquerade-wake-in-hate-2-cover-d-alan-quah-foil-variant/<br/><br/>Art and colors by Alan Quah Studio</description>
     </item>
     <item>
       <title>梁斌penny: 没有想到这个局面//@李成东:实在是找不到人去了。都躲着了。//@互联网的那点事:忆往昔</title>
@@ -1622,152 +1715,6 @@ BLADE RUNNER: TOKYO NEXUS: DIE WITH HONOR #2 hits Final Order Cutof</title>
       <author>Mia</author>
       <category>Instagram</category>
       <description>(无配文)</description>
-    </item>
-    <item>
-      <title>小白哥乌拉诺斯: DNA Design 发布 DK-103 变形金刚 Studio Series 86 Shockwave 震荡波升级包 </title>
-      <link>https://weibo.com/1918541453/RpImr4jnU</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1918541453/RpImr4jnU</guid>
-      <pubDate>Tue, 03 Nov 2026 23:54:27 +0000</pubDate>
-      <author>小白哥乌拉诺斯</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3d90f662e3d67810.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3d90f662e3d67810.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ecdfbe57aa154259.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/08e380d3eabd21ed.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/2922ce9ae45d218e.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7f1bb114995ab1eb.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/409363807ca220ab.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f6a355afd03d0cf2.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/98741db93411863e.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0965e6d16472a3f2.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/999cf1a73ad94df2.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/efd59b4cf2a3e108.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3d90f662e3d67810.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ecdfbe57aa154259.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/08e380d3eabd21ed.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/2922ce9ae45d218e.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7f1bb114995ab1eb.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/409363807ca220ab.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f6a355afd03d0cf2.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/98741db93411863e.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0965e6d16472a3f2.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/999cf1a73ad94df2.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/efd59b4cf2a3e108.jpg"/><br/>DNA Design 发布 DK-103 变形金刚 Studio Series 86 Shockwave 震荡波升级包 #变形金刚#</description>
-    </item>
-    <item>
-      <title>小白哥乌拉诺斯: TAKARA TOMY 2026年11月5日公布 以下三款变形金刚发售詳情 #变形金刚#</title>
-      <link>https://weibo.com/1918541453/RpIkzy2FJ</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1918541453/RpIkzy2FJ</guid>
-      <pubDate>Tue, 03 Nov 2026 23:54:27 +0000</pubDate>
-      <author>小白哥乌拉诺斯</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/80d8dc2f99511b26.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/80d8dc2f99511b26.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/20df56a8c7cebda0.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/693ecfddb3164625.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/80d8dc2f99511b26.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/20df56a8c7cebda0.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/693ecfddb3164625.jpg"/><br/>TAKARA TOMY 2026年11月5日公布 以下三款变形金刚发售詳情 #变形金刚#</description>
-    </item>
-    <item>
-      <title>小白哥乌拉诺斯: TAKARA TOMY 2026年11月5日公布发售詳情：TOYRISE 系列《魔神英雄傳》龙神丸，这个复古瓦塔诺搞事情</title>
-      <link>https://weibo.com/1918541453/RpIk8lUYq</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1918541453/RpIk8lUYq</guid>
-      <pubDate>Tue, 03 Nov 2026 23:54:27 +0000</pubDate>
-      <author>小白哥乌拉诺斯</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3e09b8b078b128cc.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3e09b8b078b128cc.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/337b23dc154438ab.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3e09b8b078b128cc.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/337b23dc154438ab.jpg"/><br/>TAKARA TOMY 2026年11月5日公布发售詳情：TOYRISE 系列《魔神英雄傳》龙神丸，这个复古瓦塔诺搞事情啊</description>
-    </item>
-    <item>
-      <title>小白哥乌拉诺斯: Newage NA H78B Gittes  吉特斯  蓝霹雳，H77EX Doyle  多伊尔 警车，H78EX Gi</title>
-      <link>https://weibo.com/1918541453/RpIiMowCn</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1918541453/RpIiMowCn</guid>
-      <pubDate>Tue, 03 Nov 2026 23:54:27 +0000</pubDate>
-      <author>小白哥乌拉诺斯</author>
-      <category>微博</category>
-      <enclosure url="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc967xvc8j21kw1kwjy2.jpg" type="image/jpeg"/>
-      <media:content url="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc967xvc8j21kw1kwjy2.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc968dt74j21kw1kwgr1.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc969dbgtj21kw1kwj3c.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc969qsvrj21kw1kwm3r.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc96a6kfej21kw1kwmhm.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc96am5c1j21kw1kwf3q.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc96bchopj21kw1kwq7v.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc96bv7imj21kw1kwl4z.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc96c85tpj21kw1kwb8l.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx4.sinaimg.cn/large/725a9e8dgy1iipc46zgqrj21kw1kw9r9.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc447ebnjj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx4.sinaimg.cn/large/725a9e8dgy1iipc448axoyj21kw1kwg0c.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx4.sinaimg.cn/large/725a9e8dgy1iipc448sxbij21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx3.sinaimg.cn/large/725a9e8dgy1iipc4497wx3j21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc449mvebj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc967xvc8j21kw1kwjy2.jpg"/><br/><img src="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc968dt74j21kw1kwgr1.jpg"/><br/><img src="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc969dbgtj21kw1kwj3c.jpg"/><br/><img src="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc969qsvrj21kw1kwm3r.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc96a6kfej21kw1kwmhm.jpg"/><br/><img src="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc96am5c1j21kw1kwf3q.jpg"/><br/><img src="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc96bchopj21kw1kwq7v.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc96bv7imj21kw1kwl4z.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc96c85tpj21kw1kwb8l.jpg"/><br/><img src="https://wx4.sinaimg.cn/large/725a9e8dgy1iipc46zgqrj21kw1kw9r9.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc447ebnjj21kw1kwb2u.jpg"/><br/><img src="https://wx4.sinaimg.cn/large/725a9e8dgy1iipc448axoyj21kw1kwg0c.jpg"/><br/><img src="https://wx4.sinaimg.cn/large/725a9e8dgy1iipc448sxbij21kw1kwb2u.jpg"/><br/><img src="https://wx3.sinaimg.cn/large/725a9e8dgy1iipc4497wx3j21kw1kwb2u.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc449mvebj21kw1kwb2u.jpg"/><br/>Newage NA H78B Gittes  吉特斯  蓝霹雳，H77EX Doyle  多伊尔 警车，H78EX Gittes  吉特斯  灰霹雳，官图公布 #变形金刚#</description>
-    </item>
-    <item>
-      <title>小白哥乌拉诺斯: Newage NA 飞天虎 飞虎队 汽车大师和封锁 公布官图 #变形金刚#</title>
-      <link>https://weibo.com/1918541453/RpIhT9dKT</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1918541453/RpIhT9dKT</guid>
-      <pubDate>Tue, 03 Nov 2026 23:54:27 +0000</pubDate>
-      <author>小白哥乌拉诺斯</author>
-      <category>微博</category>
-      <enclosure url="https://wx4.sinaimg.cn/large/725a9e8dgy1iipc449yp5xj21kw1kwb2u.jpg" type="image/jpeg"/>
-      <media:content url="https://wx4.sinaimg.cn/large/725a9e8dgy1iipc449yp5xj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc44ajha0j21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc44b0sqdj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iipbvsexmmj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iipbvtghgmj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx3.sinaimg.cn/large/725a9e8dgy1iipbvs8dw1j21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iipbvvgn8jj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx3.sinaimg.cn/large/725a9e8dgy1iipbvvsonbj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iipbvvfgoqj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx1.sinaimg.cn/large/725a9e8dgy1iip54lft4bj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx4.sinaimg.cn/large/725a9e8dgy1iip54mfw5wj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/725a9e8dgy1iip54lxeqzj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx4.sinaimg.cn/large/725a9e8dgy1iip54nacqjj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx3.sinaimg.cn/large/725a9e8dgy1iip4qvz9nrj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx3.sinaimg.cn/large/725a9e8dgy1iip4qwjdtjj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx4.sinaimg.cn/large/725a9e8dgy1iip4qwg3gmj21kw1kwb2u.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://wx4.sinaimg.cn/large/725a9e8dgy1iipc449yp5xj21kw1kwb2u.jpg"/><br/><img src="https://wx1.sinaimg.cn/large/725a9e8dgy1iipc44ajha0j21kw1kwb2u.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iipc44b0sqdj21kw1kwb2u.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iipbvsexmmj21kw1kwb2u.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iipbvtghgmj21kw1kwb2u.jpg"/><br/><img src="https://wx3.sinaimg.cn/large/725a9e8dgy1iipbvs8dw1j21kw1kwb2u.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iipbvvgn8jj21kw1kwb2u.jpg"/><br/><img src="https://wx3.sinaimg.cn/large/725a9e8dgy1iipbvvsonbj21kw1kwb2u.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iipbvvfgoqj21kw1kwb2u.jpg"/><br/><img src="https://wx1.sinaimg.cn/large/725a9e8dgy1iip54lft4bj21kw1kwb2u.jpg"/><br/><img src="https://wx4.sinaimg.cn/large/725a9e8dgy1iip54mfw5wj21kw1kwb2u.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/725a9e8dgy1iip54lxeqzj21kw1kwb2u.jpg"/><br/><img src="https://wx4.sinaimg.cn/large/725a9e8dgy1iip54nacqjj21kw1kwb2u.jpg"/><br/><img src="https://wx3.sinaimg.cn/large/725a9e8dgy1iip4qvz9nrj21kw1kwb2u.jpg"/><br/><img src="https://wx3.sinaimg.cn/large/725a9e8dgy1iip4qwjdtjj21kw1kwb2u.jpg"/><br/><img src="https://wx4.sinaimg.cn/large/725a9e8dgy1iip4qwg3gmj21kw1kwb2u.jpg"/><br/>Newage NA 飞天虎 飞虎队 汽车大师和封锁 公布官图 #变形金刚#</description>
-    </item>
-    <item>
-      <title>评述员詹俊: #曼联3比2罗马# 戏剧性拉满的‘惨胜’：令人窒息的上半场，找回血性的下半场。曼联结束9场不胜先成一场久违的大逆转，也付</title>
-      <link>https://weibo.com/1664207987/RpLGfuhzV</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1664207987/RpLGfuhzV</guid>
-      <pubDate>Tue, 03 Nov 2026 23:54:27 +0000</pubDate>
-      <author>评述员詹俊</author>
-      <category>微博</category>
-      <enclosure url="https://wx2.sinaimg.cn/large/0010CQwjly1iipqxfwigj60xc15o49f02.jpg" type="image/jpeg"/>
-      <media:content url="https://wx2.sinaimg.cn/large/0010CQwjly1iipqxfwigj60xc15o49f02.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/0010CQwjly1iipqnpoo25vj60u011i1m02.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/0010CQwjly1iipqpja40qj60u011ijwy02.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/0010CQwjly1iipqxneivj60u011itg602.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/0010CQwjly1iipr0nazw3j60u0140tg102.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://wx2.sinaimg.cn/large/0010CQwjly1iipr05destj60u0140tfb02.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://wx2.sinaimg.cn/large/0010CQwjly1iipqxfwigj60xc15o49f02.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/0010CQwjly1iipqnpoo25vj60u011i1m02.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/0010CQwjly1iipqpja40qj60u011ijwy02.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/0010CQwjly1iipqxneivj60u011itg602.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/0010CQwjly1iipr0nazw3j60u0140tg102.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/0010CQwjly1iipr05destj60u0140tfb02.jpg"/><br/>#曼联3比2罗马# 戏剧性拉满的‘惨胜’：令人窒息的上半场，找回血性的下半场。曼联结束9场不胜先成一场久违的大逆转，也付出了巴莱巴、马奎尔受伤库尼亚红牌的代价。卡里克缓解了下课压力，但周日对阵维拉后防线还要大幅度调整，进攻端则要考虑库尼亚的位置是否与姆伯莫互换？莱茵应该取得阿玛德首发了</description>
-    </item>
-    <item>
-      <title>评述员詹俊: #曼联vs罗马# 他们配得上曼联的球衣么？灾难性的左路防守，达洛特是左后卫？海文怎么入队的？差点就0:3了！进攻组织也没</title>
-      <link>https://weibo.com/1664207987/RpKX0cXXs</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1664207987/RpKX0cXXs</guid>
-      <pubDate>Tue, 03 Nov 2026 23:54:27 +0000</pubDate>
-      <author>评述员詹俊</author>
-      <category>微博</category>
-      <enclosure url="https://wx3.sinaimg.cn/large/0010CQwjly1iipnrjejgtj61jk2bc7wh02.jpg" type="image/jpeg"/>
-      <media:content url="https://wx3.sinaimg.cn/large/0010CQwjly1iipnrjejgtj61jk2bc7wh02.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://wx3.sinaimg.cn/large/0010CQwjly1iipnrjejgtj61jk2bc7wh02.jpg"/><br/>#曼联vs罗马# 他们配得上曼联的球衣么？灾难性的左路防守，达洛特是左后卫？海文怎么入队的？差点就0:3了！进攻组织也没有明确思路，一旦两个后腰被针对，只能起长传了……</description>
-    </item>
-    <item>
-      <title>评述员詹俊: 曼联 梅努认为或许一场胜利就能扭转目前球队的不利局面。前面几场比赛不好说，但上周末客战切尔西上半场如果能先进球，形势的发</title>
-      <link>https://weibo.com/1664207987/RpHTruZfO</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1664207987/RpHTruZfO</guid>
-      <pubDate>Tue, 03 Nov 2026 23:54:27 +0000</pubDate>
-      <author>评述员詹俊</author>
-      <category>微博</category>
-      <enclosure url="https://wx4.sinaimg.cn/large/0010CQwjly1iipa5hed1zj60u011ijxv02.jpg" type="image/jpeg"/>
-      <media:content url="https://wx4.sinaimg.cn/large/0010CQwjly1iipa5hed1zj60u011ijxv02.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://wx4.sinaimg.cn/large/0010CQwjly1iipa5hed1zj60u011ijxv02.jpg"/><br/>曼联 梅努认为或许一场胜利就能扭转目前球队的不利局面。前面几场比赛不好说，但上周末客战切尔西上半场如果能先进球，形势的发展会不一样。今晚主场对罗马，能否首开记录是关键，毕竟曼联眼下不善打逆风球。此前红魔主场对罗马四战全胜，看看今晚能否延续这个记录找到反弹节点。</description>
-    </item>
-    <item>
-      <title>梁斌penny: 惨啊</title>
-      <link>https://weibo.com/1497035431/RpHwjCq7y</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RpHwjCq7y</guid>
-      <pubDate>Tue, 03 Nov 2026 23:54:27 +0000</pubDate>
-      <author>梁斌penny</author>
-      <category>微博</category>
-      <enclosure url="https://wx4.sinaimg.cn/large/0084LMrUglyiioz1itqjij30xi18nq75.jpg" type="image/jpeg"/>
-      <media:content url="https://wx4.sinaimg.cn/large/0084LMrUglyiioz1itqjij30xi18nq75.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://wx4.sinaimg.cn/large/0084LMrUglyiioz1itqjij30xi18nq75.jpg"/><br/>惨啊<br/>转发 @红星资本局：【#长鑫科技股价逼近新低#】#长鑫科技跌至40元下方#11月3日午后，A股延续弱势调整。AI硬件产业链持续下跌，半导体、芯片、CPO、PCB等板块走弱。长鑫科技跌超6%，股价跌至40元下方，截至发稿报39.10元/股，逼近新低。（上海证券报） <a href="https://weibo.com/7399555658/RpFjBiktk">原微博</a><br/><img src="https://wx4.sinaimg.cn/large/0084LMrUglyiioz1itqjij30xi18nq75.jpg"/></description>
     </item>
   </channel>
 </rss>
