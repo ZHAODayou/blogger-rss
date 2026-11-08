@@ -4,7 +4,280 @@
     <title>博主更新追踪 (Instagram + 小红书 + 微博)</title>
     <link>https://www.instagram.com/</link>
     <description>Dayou 追踪的 Instagram、小红书与微博博主更新</description>
-    <lastBuildDate>Sun, 08 Nov 2026 10:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:53:56 +0000</lastBuildDate>
+    <item>
+      <title>小白哥乌拉诺斯: Hoho [笑哈哈][笑哈哈][笑哈哈] 26-27 Como 科莫 Nico Paz 尼克.帕斯 球衣入手，帅[dog</title>
+      <link>https://weibo.com/1918541453/Rqtrx7WeZ</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1918541453/Rqtrx7WeZ</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>小白哥乌拉诺斯</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4a23ec6965f52a88.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4a23ec6965f52a88.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5318835638736857.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4a23ec6965f52a88.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5318835638736857.jpg"/><br/>Hoho [笑哈哈][笑哈哈][笑哈哈] 26-27 Como 科莫 Nico Paz 尼克.帕斯 球衣入手，帅[doge]<br/>这款国内不发售，但是阿迪达斯门店版没有胸前广告[笑cry] 意大利·罗马</description>
+    </item>
+    <item>
+      <title>评述员詹俊: #中超# 中超大戏悬念直到最后补时四分钟才终结，太奇幻了！ 祝贺大连英博！成都蓉城可惜了，吸取教训，明年再战！ #大连英</title>
+      <link>https://weibo.com/1664207987/RqrM5CnW9</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1664207987/RqrM5CnW9</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>评述员詹俊</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f7dfdcadb82798e2.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f7dfdcadb82798e2.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f7dfdcadb82798e2.jpg"/><br/>#中超# 中超大戏悬念直到最后补时四分钟才终结，太奇幻了！ 祝贺大连英博！成都蓉城可惜了，吸取教训，明年再战！ #大连英博夺得中超冠军#</description>
+    </item>
+    <item>
+      <title>梁斌penny: 难过这么多路由器被黑了呢。。//@bnu_chenshuo:歪打正着//@tombkeeper:OpenSSH 刚刚发布</title>
+      <link>https://weibo.com/1497035431/RqtphcXSq</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RqtphcXSq</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>难过这么多路由器被黑了呢。。//@bnu_chenshuo:歪打正着<br/>转发 @tombkeeper：OpenSSH 刚刚发布版本 10.6p2，修复了一个愚蠢的漏洞。发现者把这个漏洞命名为 SSHole。漏洞影响使用 musl libc 且未启用 PAM 的 OpenSSH 服务。已知 Alpine Linux 和 OpenWrt 等都受影响。<br/><br/>Linux 使用 /etc/shadow 保存密码哈希。当密码字段为 “*” 时，表示禁止该账户使用密码登录。默认情况下，为了安全，root 用户是不允许用密码登录的。<br/><br/>musl libc 的 crypt() 在某些密码计算失败的情况下会返回字符串 “*”。比如，当使用 SHA-512 计算密码哈希时，如果输入长度大于 256（且小于 1024），就会导致返回 “*”。<br/><br/>所以，对于本来不允许用密码登录的 root 账号，如果输入长度大于 256 的任意字符串，就会导致 crypt() 返回 “*”，然后 OpenSSH 用这个 “*” 去和 /etc/shadow 里那个原本用来表示不允许密码登录的 “*” 对比，发现完全相同，就认为用户输入了正确的密码，于是让用户成功登录。<br/><br/>这个漏洞已经存在了 10 年。<br/>转发 @tombkeeper：OpenSSH 刚刚发布版本 10.6p2，修复了一个愚蠢的漏洞。发现者把这个漏洞命名为 SSHole。漏洞影响使用 musl libc 且未启用 PAM 的 OpenSSH 服务。已知 Alpine Linux 和 OpenWrt 等都受影响。<br/><br/>Linux 使用 /etc/shadow 保存密码哈希。当密码字段为 “*” 时，表示禁止该账户使用密码登录。默认情况下，为了安全，root 用户是不允许用密码登录的。<br/><br/>musl libc 的 crypt() 在某些密码计算失败的情况下会返回字符串 “*”。比如，当使用 SHA-512 计算密码哈希时，如果输入长度大于 256（且小于 1024），就会导致返回 “*”。<br/><br/>所以，对于本来不允许用密码登录的 root 账号，如果输入长度大于 256 的任意字符串，就会导致 crypt() 返回 “*”，然后 OpenSSH 用这个 “*” 去和 /etc/shadow 里那个原本用来表示不允许密码登录的 “*” 对比，发现完全相同，就认为用户输入了正确的密码，于是让用户成功登录。<br/><br/>这个漏洞已经存在了 10 年。 <a href="https://weibo.com/1401527553/Rq1dNgVA9">原微博</a></description>
+    </item>
+    <item>
+      <title>梁斌penny: 今年这个毕业季，我准备捞一点年轻学生回来，张雪一个月1万，我一个月5千，差不多了。专门招那些能吃苦的，学历经验性别什么的</title>
+      <link>https://weibo.com/1497035431/RqtcoDQBy</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RqtcoDQBy</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>今年这个毕业季，我准备捞一点年轻学生回来，张雪一个月1万，我一个月5千，差不多了。专门招那些能吃苦的，学历经验性别什么的都不重要，能吃苦的里面，脑子灵活的干白领，脑子不灵活的干蓝领。就干2年，就毕业，向社会大量输送人才，来了就用AI创作，脑子灵活的写剧本，写AI剧。脑子不灵活的就干运维，搭环境，做基础设施。。。</description>
+    </item>
+    <item>
+      <title>梁斌penny: 不到5万。//@文光围脖1:回复@青青虫的微博:估计7万左右？5500应该是真的可以//@青青虫的微博:5090魔改96</title>
+      <link>https://weibo.com/1497035431/Rqt0kiSAt</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/Rqt0kiSAt</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>不到5万。//@文光围脖1:回复@青青虫的微博:估计7万左右？5500应该是真的可以//@青青虫的微博:5090魔改96G，价格多少？RTX PRO 6000，4月份6.2万，现在14万出头。魔改版能便宜多少？//@文光围脖1:训练小模型也行，可以训个7B的<br/>转发 @梁斌penny：我有个朋友做5090魔改96GB显存的卡，这个东西市场有需求吗？ 插个8张卡搞电视剧制作蛮好的，我感觉啊。<br/>转发 @梁斌penny：我有个朋友做5090魔改96GB显存的卡，这个东西市场有需求吗？ 插个8张卡搞电视剧制作蛮好的，我感觉啊。 <a href="https://weibo.com/1497035431/RqjQHvpR8">原微博</a></description>
+    </item>
+    <item>
+      <title>梁斌penny: 转发微博//@庆丰:南京·玄武湖，清晨和@梁斌penny 梁博畅聊5km[嘻嘻] 南京·玄武湖公园-解放门</title>
+      <link>https://weibo.com/1497035431/Rqt096lQx</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/Rqt096lQx</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6dc8c19fd727b562.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6dc8c19fd727b562.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ea3b2bbe5da8652a.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/96011c4ac8ac1fb1.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://wx2.sinaimg.cn/large/6909da67ly1iiuj21s8ohj24eo3b0e82.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3647407d69f962af.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6d3588e9b357bef6.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/87d4971cc31ad5b9.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/caee2be822d81832.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/45f05eee09a6e0a6.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6dc8c19fd727b562.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ea3b2bbe5da8652a.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/96011c4ac8ac1fb1.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/6909da67ly1iiuj21s8ohj24eo3b0e82.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3647407d69f962af.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6d3588e9b357bef6.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/87d4971cc31ad5b9.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/caee2be822d81832.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/45f05eee09a6e0a6.jpg"/><br/>转发微博<br/>转发 @庆丰：南京·玄武湖，清晨和@梁斌penny 梁博畅聊5km[嘻嘻] 南京·玄武湖公园-解放门<br/>转发 @庆丰：南京·玄武湖，清晨和@梁斌penny 梁博畅聊5km[嘻嘻] 南京·玄武湖公园-解放门 <a href="https://weibo.com/1762253415/RqoDzxpEW">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/45f05eee09a6e0a6.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/caee2be822d81832.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/87d4971cc31ad5b9.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6d3588e9b357bef6.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3647407d69f962af.jpg"/><br/><img src="https://wx2.sinaimg.cn/large/6909da67ly1iiuj21s8ohj24eo3b0e82.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/96011c4ac8ac1fb1.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ea3b2bbe5da8652a.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6dc8c19fd727b562.jpg"/></description>
+    </item>
+    <item>
+      <title>梁斌penny: 招了个大二实习生做的动画，感觉还可以，下面要做好lora，用自己环境干了，加油 梁斌penny的微博视频</title>
+      <link>https://weibo.com/1497035431/RqsVLaJlN</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RqsVLaJlN</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e12931141fbfe782.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e12931141fbfe782.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e12931141fbfe782.jpg"/><br/>招了个大二实习生做的动画，感觉还可以，下面要做好lora，用自己环境干了，加油 梁斌penny的微博视频</description>
+    </item>
+    <item>
+      <title>梁斌penny: 我教你一招，都放到screen里面，每天过一遍，和agent打个招呼，刷新下上下文[允悲]//@于Kerwin:梁博还是</title>
+      <link>https://weibo.com/1497035431/RqsMmeM6l</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RqsMmeM6l</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>我教你一招，都放到screen里面，每天过一遍，和agent打个招呼，刷新下上下文[允悲]//@于Kerwin:梁博还是厉害，我感觉也就同时能并行5个工作面[允悲]因为不是常规业务，而是科研算法仿真什么的，每个编程细节算法正确性都要盯着看，四五个小时下来感觉大脑严重超载，人已经虚脱了[二哈]<br/>转发 @梁斌penny：最近高强度许愿式编程，终于撞到瓶颈了，就是一个人的注意力是瓶颈，最多20个工作面，再多就照顾不过来了。这个感觉一个人能管理多少人一样，每个工作面的来龙去脉，进展，需求，结果，都要很清楚，上去就能推进。这个记忆压力太大了。<br/><br/>有了Agent，各种花样的各种工作都能搞，技术，经验都不重要了，重要的注意力，这个是非常稀缺的资源。。如果这个成立的话，理论上工作岗位至少能压缩到原来的十分之一，以后就招那种记忆力要的，能驾驭多个工作面的员工就可以了，记忆力差的就危险了。。<br/>转发 @梁斌penny：最近高强度许愿式编程，终于撞到瓶颈了，就是一个人的注意力是瓶颈，最多20个工作面，再多就照顾不过来了。这个感觉一个人能管理多少人一样，每个工作面的来龙去脉，进展，需求，结果，都要很清楚，上去就能推进。这个记忆压力太大了。<br/><br/>有了Agent，各种花样的各种工作都能搞，技术，经验都不重要了，重要的注意力，这个是非常稀缺的资源。。如果这个成立的话，理论上工作岗位至少能压缩到原来的十分之一，以后就招那种记忆力要的，能驾驭多个工作面的员工就可以了，记忆力差的就危险了。。 <a href="https://weibo.com/1497035431/RqsHSk7ro">原微博</a></description>
+    </item>
+    <item>
+      <title>梁斌penny: 这个不是抢东西嘛。。//@新浪财经:【#4000多元商用冰柜被平台仅退款# 买家：“箱内温度不达标，冰柜已就地销毁”】#</title>
+      <link>https://weibo.com/1497035431/RqsKGq5NR</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RqsKGq5NR</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5980e2738a707c35.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5980e2738a707c35.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5980e2738a707c35.jpg"/><br/>这个不是抢东西嘛。。<br/>转发 @新浪财经：【#4000多元商用冰柜被平台仅退款# 买家：“箱内温度不达标，冰柜已就地销毁”】#数千元冰柜被仅退款买家称已就地销毁# 秦先生在山东滨州博兴县经营商用制冷设备，通过直播和电商渠道把商用冰柜销往全国。今年5月，一位上海买家在他的网店购买了两台四门商用冰柜，总价4070元。收货后，买家以"箱内温度不达标"为由发起退款申请。商家第一次上门排查后，为买家补发了温控配件并安排师傅更换。商家认为设备正常，但买家坚持冰柜温度与承诺不符。今年8月初，平台按照他们的售后规则支持先行退款，将4070元货款全额退还买家，并让商家联系买家协商货物处理方案。秦先生随即联系买家要求收回设备，对方先是称"冰柜已就地销毁"，后又改口说门店已转让、自己不再负责。秦先生专程赶到上海买家门店实地查看，发现两台冰柜还在店里正常运转。http://t.cn/AXYJQVI7<br/>转发 @新浪财经：【#4000多元商用冰柜被平台仅退款# 买家：“箱内温度不达标，冰柜已就地销毁”】#数千元冰柜被仅退款买家称已就地销毁# 秦先生在山东滨州博兴县经营商用制冷设备，通过直播和电商渠道把商用冰柜销往全国。今年5月，一位上海买家在他的网店购买了两台四门商用冰柜，总价4070元。收货后，买家以"箱内温度不达标"为由发起退款申请。商家第一次上门排查后，为买家补发了温控配件并安排师傅更换。商家认为设备正常，但买家坚持冰柜温度与承诺不符。今年8月初，平台按照他们的售后规则支持先行退款，将4070元货款全额退还买家，并让商家联系买家协商货物处理方案。秦先生随即联系买家要求收回设备，对方先是称"冰柜已就地销毁"，后又改口说门店已转让、自己不再负责。秦先生专程赶到上海买家门店实地查看，发现两台冰柜还在店里正常运转。http://t.cn/AXYJQVI7 <a href="https://weibo.com/1638782947/Rqr9Lw0F0">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5980e2738a707c35.jpg"/></description>
+    </item>
+    <item>
+      <title>梁斌penny: 最近高强度许愿式编程，终于撞到瓶颈了，就是一个人的注意力是瓶颈，最多20个工作面，再多就照顾不过来了。这个感觉一个人能管</title>
+      <link>https://weibo.com/1497035431/RqsHSk7ro</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RqsHSk7ro</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>最近高强度许愿式编程，终于撞到瓶颈了，就是一个人的注意力是瓶颈，最多20个工作面，再多就照顾不过来了。这个感觉一个人能管理多少人一样，每个工作面的来龙去脉，进展，需求，结果，都要很清楚，上去就能推进。这个记忆压力太大了。<br/><br/>有了Agent，各种花样的各种工作都能搞，技术，经验都不重要了，重要的注意力，这个是非常稀缺的资源。。如果这个成立的话，理论上工作岗位至少能压缩到原来的十分之一，以后就招那种记忆力要的，能驾驭多个工作面的员工就可以了，记忆力差的就危险了。。</description>
+    </item>
+    <item>
+      <title>梁斌penny: 我把基础设施拉起来以后，就开始学员来搞了。。边学边干//@每日经济新闻:#大三男生做AI漫剧营收超300万# 【大三男生</title>
+      <link>https://weibo.com/1497035431/RqsFk63EL</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RqsFk63EL</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3894d51eac4bfaf8.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3894d51eac4bfaf8.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3894d51eac4bfaf8.jpg"/><br/>我把基础设施拉起来以后，就开始学员来搞了。。边学边干<br/>转发 @每日经济新闻：#大三男生做AI漫剧营收超300万# 【大三男生在宿舍靠一台电脑，凭制作AI漫剧营收超300万，“团队5人7天曾一口气做3部漫剧”；有爆款播放破15亿，单剧创收200多万元】#大学生7天手搓3部漫剧有1部爆了# “他在宿舍靠着一台电脑，凭制作AI漫剧营收超300万！”近日，苏州大学未来校区机械电子工程专业大三学生肖天乐的创业故事在网上走红，引发众多网友感慨。不到一年时间，他带领团队创作了数百部漫剧，其中一部爆款更是收获15亿次播放，单剧创收200多万元。<br/><br/>记者见到肖天乐时，他正忙着与资方进行商务洽谈。结束后，他有些不好意思地笑了笑，对记者说：“最近项目排得满，一边上课，一边对接项目，有时候晚上还要连着开线上会。”<br/><br/>很难想象，这些在各大平台跑出千万级乃至亿级播放量的AI漫剧，最早的起点，只是宿舍里那一方小小的电脑屏幕。<br/><br/>肖天乐向记者回忆，自己和影像创作的缘分，埋得很早。高中时，他就迷上了微电影创作，课余时间总拿着相机到处拍，镜头怎么摆、故事怎么讲、情绪怎么铺垫，都是他反复琢磨的事。<br/><br/>进入大学之后，虽然读的是机械电子工程专业，但他没有放下藏在心底的影像爱好。大学之后他主动自学视频剪辑，一有空就泡在剪辑软件里，练习调色、转场、配乐，一点点攒下剪辑的基本功。<br/><br/>去年11月，AI 生图、AI 配音、AI 视频工具快速兴起，AI 漫剧赛道悄悄升温，敏锐的肖天乐嗅到了机会：能不能用AI把自己一直想做的短剧内容做起来？“当时就觉得这是一个好机会，就想试一试。”正是这个决定，从此改写了他大学生活的节奏。身边不少同学课余泡图书馆、准备竞赛，而他的课余时间，开始分给脚本、提示词、分镜和成片调试。<br/><br/>一次学徒经历让他遇到一家愿意带新人做视频的公司，带着他参与真实短剧项目。在这里，他跳出单纯做画面的局限。<br/><br/>“以前只会闷头做画面，只盯着好不好看，后来慢慢知道，怎么选题、怎么抓开头前三秒的钩子、怎么把控节奏、怎么把它变成一门可持续的生意。”肖天乐说，短剧的逻辑和传统微电影不一样，它对节奏、悬念、情绪起伏的要求更高。跟着前辈学习的日子里，他从只能负责单帧画面、调整提示词的学徒，慢慢成长为能够统筹整部短剧、把控全流程的人。<br/><br/>能力攒够了，机会也随之而来——有人把一整个项目交到他手上，要求一周做完一部120分钟的剧。为了守住这个来之不易的合作机会，他一个人扛下了整条链路：从脚本梳理、提示词撰写、画面生成，到配音校对、剪辑调整、镜头衔接，所有环节都自己完成。<br/><br/>那段时间，肖天乐几乎天天熬夜到凌晨，“放假在家时，父母看我夜里还在电脑前，经常问我‘怎么这个点还不睡觉’？”<br/><br/>在很多人眼里，AI 短剧不过是敲几句提示词、一键生成的流水线内容，门槛低、复制快，拼的就是谁量产更快。但在肖天乐看来，这个行业远没那么简单。“AI 给的剧本，很多时候节奏太平、冲突不够，我们要先梳理，再拆成分镜；AI 生成的画面经常出现肢体错误、表情违和，每一帧的生成、每一个镜头的过渡，大家都要在线上反复沟通、反复调整，一点点校准，才最终呈现出观众看到的成片。”<br/><br/>“5个人，7天时间，我们一口气做了3部漫剧，有一部就爆了。”肖天乐回忆，那部作品带来了20多万元的营收。此后，肖天乐和前辈、团队又推出数百部漫剧。近期，惊喜再次发生，一部剧斩获15亿次播放量，创收200多万元。<br/><br/>爆款有偶然性，稳定的内容判断力才是团队长久走下去的底气。肖天乐清晰地明白，AI 能省下大量重复劳动，快速出画面、出配音、出初稿，但替代不了讲故事的人。<br/><br/>他对记者说：“决定一部剧能不能留住观众的，从来不是模型有多强，而是故事的内核、叙事的节奏、镜头的语言，这些都需要人的审美去判断、去把关。AI 是趁手的工具，但真正稀缺的，永远是会讲故事、肯打磨细节的人。”他表示，自己不想只做快消内容——“观众看多了流水线爽剧，慢慢会审美疲劳。”<br/><br/>随着业务拓展，今年8月末，肖天乐在吴江注册公司。未来，他决定毕业后就定居苏州，计划学导演和编剧、招纳人才，带团队用AI创作震撼人心的影视剧，盼作品拿到“龙标”登上大银幕。“我很期待跳出短平快的爽剧赛道，去打磨一部有深度、有质感、能在银幕上留下来的作品。”（扬子晚报，泽塔）http://t.cn/AXYfgS4p<br/>转发 @每日经济新闻：#大三男生做AI漫剧营收超300万# 【大三男生在宿舍靠一台电脑，凭制作AI漫剧营收超300万，“团队5人7天曾一口气做3部漫剧”；有爆款播放破15亿，单剧创收200多万元】#大学生7天手搓3部漫剧有1部爆了# “他在宿舍靠着一台电脑，凭制作AI漫剧营收超300万！”近日，苏州大学未来校区机械电子工程专业大三学生肖天乐的创业故事在网上走红，引发众多网友感慨。不到一年时间，他带领团队创作了数百部漫剧，其中一部爆款更是收获15亿次播放，单剧创收200多万元。<br/><br/>记者见到肖天乐时，他正忙着与资方进行商务洽谈。结束后，他有些不好意思地笑了笑，对记者说：“最近项目排得满，一边上课，一边对接项目，有时候晚上还要连着开线上会。”<br/><br/>很难想象，这些在各大平台跑出千万级乃至亿级播放量的AI漫剧，最早的起点，只是宿舍里那一方小小的电脑屏幕。<br/><br/>肖天乐向记者回忆，自己和影像创作的缘分，埋得很早。高中时，他就迷上了微电影创作，课余时间总拿着相机到处拍，镜头怎么摆、故事怎么讲、情绪怎么铺垫，都是他反复琢磨的事。<br/><br/>进入大学之后，虽然读的是机械电子工程专业，但他没有放下藏在心底的影像爱好。大学之后他主动自学视频剪辑，一有空就泡在剪辑软件里，练习调色、转场、配乐，一点点攒下剪辑的基本功。<br/><br/>去年11月，AI 生图、AI 配音、AI 视频工具快速兴起，AI 漫剧赛道悄悄升温，敏锐的肖天乐嗅到了机会：能不能用AI把自己一直想做的短剧内容做起来？“当时就觉得这是一个好机会，就想试一试。”正是这个决定，从此改写了他大学生活的节奏。身边不少同学课余泡图书馆、准备竞赛，而他的课余时间，开始分给脚本、提示词、分镜和成片调试。<br/><br/>一次学徒经历让他遇到一家愿意带新人做视频的公司，带着他参与真实短剧项目。在这里，他跳出单纯做画面的局限。<br/><br/>“以前只会闷头做画面，只盯着好不好看，后来慢慢知道，怎么选题、怎么抓开头前三秒的钩子、怎么把控节奏、怎么把它变成一门可持续的生意。”肖天乐说，短剧的逻辑和传统微电影不一样，它对节奏、悬念、情绪起伏的要求更高。跟着前辈学习的日子里，他从只能负责单帧画面、调整提示词的学徒，慢慢成长为能够统筹整部短剧、把控全流程的人。<br/><br/>能力攒够了，机会也随之而来——有人把一整个项目交到他手上，要求一周做完一部120分钟的剧。为了守住这个来之不易的合作机会，他一个人扛下了整条链路：从脚本梳理、提示词撰写、画面生成，到配音校对、剪辑调整、镜头衔接，所有环节都自己完成。<br/><br/>那段时间，肖天乐几乎天天熬夜到凌晨，“放假在家时，父母看我夜里还在电脑前，经常问我‘怎么这个点还不睡觉’？”<br/><br/>在很多人眼里，AI 短剧不过是敲几句提示词、一键生成的流水线内容，门槛低、复制快，拼的就是谁量产更快。但在肖天乐看来，这个行业远没那么简单。“AI 给的剧本，很多时候节奏太平、冲突不够，我们要先梳理，再拆成分镜；AI 生成的画面经常出现肢体错误、表情违和，每一帧的生成、每一个镜头的过渡，大家都要在线上反复沟通、反复调整，一点点校准，才最终呈现出观众看到的成片。”<br/><br/>“5个人，7天时间，我们一口气做了3部漫剧，有一部就爆了。”肖天乐回忆，那部作品带来了20多万元的营收。此后，肖天乐和前辈、团队又推出数百部漫剧。近期，惊喜再次发生，一部剧斩获15亿次播放量，创收200多万元。<br/><br/>爆款有偶然性，稳定的内容判断力才是团队长久走下去的底气。肖天乐清晰地明白，AI 能省下大量重复劳动，快速出画面、出配音、出初稿，但替代不了讲故事的人。<br/><br/>他对记者说：“决定一部剧能不能留住观众的，从来不是模型有多强，而是故事的内核、叙事的节奏、镜头的语言，这些都需要人的审美去判断、去把关。AI 是趁手的工具，但真正稀缺的，永远是会讲故事、肯打磨细节的人。”他表示，自己不想只做快消内容——“观众看多了流水线爽剧，慢慢会审美疲劳。”<br/><br/>随着业务拓展，今年8月末，肖天乐在吴江注册公司。未来，他决定毕业后就定居苏州，计划学导演和编剧、招纳人才，带团队用AI创作震撼人心的影视剧，盼作品拿到“龙标”登上大银幕。“我很期待跳出短平快的爽剧赛道，去打磨一部有深度、有质感、能在银幕上留下来的作品。”（扬子晚报，泽塔）http://t.cn/AXYfgS4p <a href="https://weibo.com/1649173367/RqpRvpM3r">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3894d51eac4bfaf8.jpg"/></description>
+    </item>
+    <item>
+      <title>梁斌penny: 现在卖是对的，再不卖以后更不值钱。//@霜叶:啊？？？//@北京人不知道的北京事儿:励骏酒店要成为历史了</title>
+      <link>https://weibo.com/1497035431/RqsEzAKZ8</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RqsEzAKZ8</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a609905f3f116415.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a609905f3f116415.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/15c9a02dfda8f4ea.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7a1faba8452d0a29.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/59d246379dcf36c6.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/90e6ad3af888d8ec.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7fd1cc39ccda1665.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a609905f3f116415.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/15c9a02dfda8f4ea.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7a1faba8452d0a29.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/59d246379dcf36c6.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/90e6ad3af888d8ec.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7fd1cc39ccda1665.jpg"/><br/>现在卖是对的，再不卖以后更不值钱。//@霜叶:啊？？？<br/>转发 @北京人不知道的北京事儿：励骏酒店要成为历史了<br/>转发 @北京人不知道的北京事儿：励骏酒店要成为历史了 <a href="https://weibo.com/1662214194/Rq6yQFyhb">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7fd1cc39ccda1665.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/90e6ad3af888d8ec.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/59d246379dcf36c6.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7a1faba8452d0a29.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/15c9a02dfda8f4ea.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a609905f3f116415.jpg"/></description>
+    </item>
+    <item>
+      <title>sniper-china: 寻儿子不遇，见繁华是时。</title>
+      <link>https://weibo.com/2215128543/Rqt7zbaMD</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqt7zbaMD</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0eba38a5d6e81bb4.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0eba38a5d6e81bb4.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e938efb3003ecc81.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0eba38a5d6e81bb4.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e938efb3003ecc81.jpg"/><br/>寻儿子不遇，见繁华是时。</description>
+    </item>
+    <item>
+      <title>sniper-china: 问这个问题幼儿园到了小学阶段了。慢慢成长吧。//@爱笑的w2w21:历史的真实？//@sniper-china:杨奎松先</title>
+      <link>https://weibo.com/2215128543/RqtdVAzGd</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqtdVAzGd</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7e3dfe1379e827e6.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7e3dfe1379e827e6.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4170269807b7f404.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/70233bc443175c08.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/683484883777796f.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6b42d42389ab3881.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7e3dfe1379e827e6.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4170269807b7f404.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/70233bc443175c08.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/683484883777796f.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6b42d42389ab3881.jpg"/><br/>问这个问题幼儿园到了小学阶段了。慢慢成长吧。//@爱笑的w2w21:历史的真实？<br/>转发 @sniper-china：杨奎松先生很简单的，即第二页内容，描述了这个事情。就是这么简单，怎么我说你们就不明白呢。<br/>转发 @sniper-china：杨奎松先生很简单的，即第二页内容，描述了这个事情。就是这么简单，怎么我说你们就不明白呢。 <a href="https://weibo.com/2215128543/Rqr1qBuHX">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6b42d42389ab3881.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/683484883777796f.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/70233bc443175c08.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4170269807b7f404.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7e3dfe1379e827e6.jpg"/></description>
+    </item>
+    <item>
+      <title>sniper-china: 爱人不见了 找谁去喊冤！ 深圳·深圳书城(中心城店) sniper-china的微博视频</title>
+      <link>https://weibo.com/2215128543/RqthGddJs</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqthGddJs</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/17993a3f589581f5.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/17993a3f589581f5.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/17993a3f589581f5.jpg"/><br/>爱人不见了 找谁去喊冤！ 深圳·深圳书城(中心城店) sniper-china的微博视频</description>
+    </item>
+    <item>
+      <title>sniper-china: 回复@老马的平凡生活:这一段是真历史 这种片子不是一般文艺 可以看作历史纪录片。虚构歌颂下普通战士可以，大人物每一句话都</title>
+      <link>https://weibo.com/2215128543/Rqtjs7wN2</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqtjs7wN2</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>回复@老马的平凡生活:这一段是真历史 这种片子不是一般文艺 可以看作历史纪录片。虚构歌颂下普通战士可以，大人物每一句话都要反复斟酌考证的并得到中央文献部门同意。//@老马的平凡生活:电视剧可能与历史不尽相同<br/>转发 @sniper-china：#伟大的长征##伟大的长征# 48集<br/><br/>中央恩来明码电报发给二六军团<br/><br/>贺龙任弼时关向应大喜又迷惑，真的吗<br/><br/>回了密码电报<br/><br/>果不其然被张国焘收到。贺龙等只能把朱张来电视为中央命令。（朱是被裹挟或冒名）<br/><br/>“中央的密码为啥在张国焘手里？”<br/><br/>你们谁有这能力给我讲讲？<br/><br/>你们都看不懂！别和我讨论<br/>转发 @sniper-china：#伟大的长征##伟大的长征# 48集<br/><br/>中央恩来明码电报发给二六军团<br/><br/>贺龙任弼时关向应大喜又迷惑，真的吗<br/><br/>回了密码电报<br/><br/>果不其然被张国焘收到。贺龙等只能把朱张来电视为中央命令。（朱是被裹挟或冒名）<br/><br/>“中央的密码为啥在张国焘手里？”<br/><br/>你们谁有这能力给我讲讲？<br/><br/>你们都看不懂！别和我讨论 <a href="https://weibo.com/2215128543/RqsX6xBGA">原微博</a></description>
+    </item>
+    <item>
+      <title>sniper-china: 我在外面，否则可以去单翻彭德怀自述以及其他书。
+
+#伟大的长征# 电视剧44-45集（？），关于草地分兵，这是个中性词我</title>
+      <link>https://weibo.com/2215128543/Rqtopq5XF</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqtopq5XF</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>我在外面，否则可以去单翻彭德怀自述以及其他书。<br/><br/>#伟大的长征# 电视剧44-45集（？），关于草地分兵，这是个中性词我用的。<br/><br/>电视剧表述如下<br/><br/>叶送来电报，说他们还是要南下，陈在做报告和准备。<br/><br/>毛看了眼写了几个字在电报上，说，要保密<br/><br/>彭说，要不扣押人质？<br/><br/>毛，摇头！不可以我们不是军阀。<br/><br/>之后毛提出 我要见见陈徐 <br/><br/>在院子里见了徐，徐说，我主张一起北上，但是（），红四分开也不行。毛点头认可。<br/><br/>陈在开会讨论粮食。毛进去打断，两人寒暄，不说别的。<br/><br/>之后 这边秘密部署当晚撤离。<br/><br/>早上六点多，陈徐都在睡觉！警卫报告，他们跑了！<br/><br/>何畏拐杖来的，说红军大学走了，包括我们的人！<br/><br/>李特说，我去追回来我们的人<br/><br/>这时候电话响了，没说是谁打来的，是下面的人，级别不高的。<br/><br/>陈接了问徐，“打不打？”<br/><br/>徐说，不能打！<br/><br/>此后李特去追人，彭德怀和毛 李德被追上，辩论，毛同意红四的人回去。<br/><br/>这个过程处理得很好，很完美。看懂了自然看懂了。<br/><br/>高级的团队，不，最顶级的团队，处理问题当如此。<br/><br/>所以我用<br/><br/>草原分兵</description>
+    </item>
+    <item>
+      <title>sniper-china: 回复@我不想打星际:八个口岸都可以去啊 海陆空都可以去啊 常用 罗湖和福田口岸东铁 深圳湾口岸大巴 皇岗口岸 大巴 其他</title>
+      <link>https://weibo.com/2215128543/RqtpLljXX</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqtpLljXX</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>回复@我不想打星际:八个口岸都可以去啊 海陆空都可以去啊 常用 罗湖和福田口岸东铁 深圳湾口岸大巴 皇岗口岸 大巴 其他还有很多 这几个常见 最便宜是皇岗大巴而且24小时。//@我不想打星际:除了高铁，怎么去比较方便？<br/>转发 @sniper-china：晚上在家吃烤肉，他吃了估计七百克。我让他继续吃水果。<br/><br/>刚才，儿子进我房间说，我走了。<br/><br/>我正处理点事儿，说 嗯<br/><br/>一根烟不到我出来找他，人已经走了。<br/><br/>我下楼往地铁走。<br/><br/>远远看见地铁入口处有个男生在整理行李，光腿，我喜出望外！<br/><br/>跑进近一看，不是他。<br/><br/>其实我和他说了，注册个12306，随时买高铁福田站去Hk。贵二三十块钱而已。<br/><br/>不过我觉得自己选更好。其实我一般也选东铁地铁。<br/>转发 @sniper-china：晚上在家吃烤肉，他吃了估计七百克。我让他继续吃水果。<br/><br/>刚才，儿子进我房间说，我走了。<br/><br/>我正处理点事儿，说 嗯<br/><br/>一根烟不到我出来找他，人已经走了。<br/><br/>我下楼往地铁走。<br/><br/>远远看见地铁入口处有个男生在整理行李，光腿，我喜出望外！<br/><br/>跑进近一看，不是他。<br/><br/>其实我和他说了，注册个12306，随时买高铁福田站去Hk。贵二三十块钱而已。<br/><br/>不过我觉得自己选更好。其实我一般也选东铁地铁。 <a href="https://weibo.com/2215128543/Rqt5ZAVbx">原微博</a></description>
+    </item>
+    <item>
+      <title>sniper-china: 草原分兵
+
+#伟大的长征# 电视剧44-45集这段剧情，剧中的人物全部替换为A、B、C、D、E、F、G。
+
+A送来一份电</title>
+      <link>https://weibo.com/2215128543/RqtrabDPc</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqtrabDPc</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>草原分兵<br/><br/>#伟大的长征# 电视剧44-45集这段剧情，剧中的人物全部替换为A、B、C、D、E、F、G。<br/><br/>A送来一份电报，内容表明对方坚持南下，B正在会场做报告、安排相关准备。<br/><br/>C浏览电报，在上面写下寥寥几字，叮嘱此事务必保密。<br/>有人提议，可否扣押人质。<br/>C轻轻摇头：不可，我们不是军阀。<br/><br/>C提出，希望当面见一见B与D<br/>小院之中见到D。D坦言自己本主张一同北上，但存在现实难处，部队一旦拆分，会生出巨大问题。C点头，表示理解。<br/><br/>B正在开会讨论粮草补给的问题，C走进会场，简单寒暄，不深入争论分歧。<br/><br/>这边开始秘密部署，计划当夜撤离。<br/><br/>清晨六点多，B、D尚在休息，警卫匆忙来报：队伍已经连夜出发了。<br/>拄拐杖的F赶来通报，红军大学的队伍已经动身，其中还包含不少本方人员。<br/>G当即表态：我去把我们的人追回来。<br/><br/>此时电话响起，来电的是一名基层部队人员。<br/>B接起电话，转头问D：打不打？<br/>D回答：不能打！<br/><br/>随后G带人策马追赶。追上队伍后，两方发生辩论。C表态，愿意让属于对方的人员自行返回。<br/><br/>这段叙事处理克制得体。危急关头，顶级团队处理重大路线分歧，守住底线。看懂的人，自然能体会其中千钧一发的重量。</description>
+    </item>
+    <item>
+      <title>sniper-china: 跟随右路军的红四序列部队就是红四军和前面我反复说的红30
+
+红4军：军长许世友，政委王建安；10师师长王友均（牺牲）/查</title>
+      <link>https://weibo.com/2215128543/RqtwebupG</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqtwebupG</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>跟随右路军的红四序列部队就是红四军和前面我反复说的红30<br/><br/>红4军：军长许世友，政委王建安；10师师长王友均（牺牲）/查玉升，政委叶道志；11师师长周世元，政委陈锡联<br/><br/>红30军：军长程世才，政委李先念；88师师长熊厚发，政委郑维山；89师师长邵烈坤，政委张文德。<br/><br/>前面那一条讨论电视剧 伟大的长征<br/><br/>我倾向于是导演的文艺创作 电话响了里面是焦急的请求，“他们要跑了 打不打”<br/><br/>我认为这个选择了电话方式处理复原历史。但历史上，大概率肯定有人问过打不打？<br/><br/>如果联系到军纪，能打电话给陈和徐的，那就是前面两个军级领导了，当然这电视剧，不可能每个细节都有历史细节对应。</description>
+    </item>
+    <item>
+      <title>sniper-china: 徐向前《历史的回顾》（解放军出版社1988年版，第452—453页）
+
+那天早晨，我刚刚起床，底下就来报告，说叶剑英同志</title>
+      <link>https://weibo.com/2215128543/RqtxqcIS6</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqtxqcIS6</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>徐向前《历史的回顾》（解放军出版社1988年版，第452—453页）<br/><br/>那天早晨，我刚刚起床，底下就来报告，说叶剑英同志不见了，指挥部的军用地图也不见了。我和陈昌浩大吃一惊。接着，前面的部队打来电话，说中央红军已经连夜出走，还放了警戒哨。何畏当时在红军大学，他跑来问：是不是有命令叫走？陈昌浩说：我们没下命令，赶紧叫他们回来！<br/><br/>发生了如此重大的意外事件，使我愣了神，坐在床板上，半个钟头说不出话来。心想这是怎么搞的呀，走也不告诉我们一声呀，我们毫无思想准备呀，感到心情沉重，很受刺激，脑袋麻木得很。<br/><br/>前面有人不明真相，打电话请示：中央红军走了，还对我们警戒，打不打？陈昌浩拿着电话筒，问我怎么办？我说：哪有红军打红军的道理！叫他们听指挥，无论如何不能打！<br/><br/>陈昌浩不错，当时完全同意我的意见，作了答复，避免了事态的进一步恶化。他是政治委员，有最后决定权，假如他感情用事，下决心打，我是很难阻止的。在这点上，不能否认陈昌浩同志维护团结的作用。那天上午，前敌指挥部开了锅，人来人往，乱哄哄的。我心情极坏，躺在床板上，蒙起头来，不想说一句话。陈昌浩十分激动，说了些难听的话。中央派人送来指令，要我们率队北进；陈昌浩写了复信，还给张国焘写了报告。<br/><br/>随后，李特带了一些骑兵赶来，追上中央北上的队伍。李特在队伍前面喊话，要四方面军的人回去。彭德怀、杨尚昆等人在场，气氛非常紧张。毛泽东耐心向李特解释北上的决定，告诉李特：你们愿意回去的，可以回去；我们是要北上抗日。</description>
+    </item>
+    <item>
+      <title>sniper-china: 回复@需要动态的昵称:马克思主义的中国化的历程。七大奠定坚实基础并对建党以来若干历史问题作出决议。张国焘这个事情算很小的</title>
+      <link>https://weibo.com/2215128543/Rqtztqi6c</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqtztqi6c</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>回复@需要动态的昵称:马克思主义的中国化的历程。七大奠定坚实基础并对建党以来若干历史问题作出决议。张国焘这个事情算很小的事情，小说理论上，都进不了决议。//@需要动态的昵称:回复@从不披马甲:因为那时候很多人还是认为莫斯科就是共产主义，王明就是他的代言人，所以后面要有整风运动。真正建立牢固的秩序，可不是一件容易的事情。观念的改变是很难的，要反对本本主义教条主义。另一方面这个观念本身就是维护集体的一个强大的东西，也不能简单的否定，你必须要有新的更好的东西代替。<br/>转发 @sniper-china：陈云到达莫斯科，向王明汇报，问了情况，三件事<br/><br/>1 安排你去见季米特洛夫（共产国际负责人）<br/>2 原则同意遵义会议。说到这，王明问，梨子甜吗？陈云即可回答，我觉得家乡的梨子更甜！（这个情商智商表态 学会了没？）<br/>3 我毛周张四人当选共产国际执行委员，同时我写了八一宣言并获通过。<br/><br/>王明说，派林育英同志回国传达。<br/><br/>拍真好，这几分钟信息含量巨大，不过，看懂需要读一些书。<br/><br/>#伟大的长征#  46集<br/>转发 @sniper-china：陈云到达莫斯科，向王明汇报，问了情况，三件事<br/><br/>1 安排你去见季米特洛夫（共产国际负责人）<br/>2 原则同意遵义会议。说到这，王明问，梨子甜吗？陈云即可回答，我觉得家乡的梨子更甜！（这个情商智商表态 学会了没？）<br/>3 我毛周张四人当选共产国际执行委员，同时我写了八一宣言并获通过。<br/><br/>王明说，派林育英同志回国传达。<br/><br/>拍真好，这几分钟信息含量巨大，不过，看懂需要读一些书。<br/><br/>#伟大的长征#  46集 <a href="https://weibo.com/2215128543/RqsBsq9D7">原微博</a></description>
+    </item>
+    <item>
+      <title>青祙素: 对 Monroe Trout 的访谈，Trout是哈佛毕业的。
+
+关于学界大部分人信奉的有效市场假说。
+
+Trout说：</title>
+      <link>https://weibo.com/2109928873/Rqs4dnRHt</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2109928873/Rqs4dnRHt</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>青祙素</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/bc5038f5038aefdc.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/bc5038f5038aefdc.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/bc5038f5038aefdc.jpg"/><br/>对 Monroe Trout 的访谈，Trout是哈佛毕业的。<br/><br/>关于学界大部分人信奉的有效市场假说。<br/><br/>Trout说：市场显然不是随机游走，更谈不上有效[比耶]。有效市场的话就没有人可以持续拿到超额收益。既然确实有人做到了，那这个假设就站不住脚。<br/><br/>至于相信有效市场的教授，或许这就是为什么他们只能当教授，不能靠交易赚钱[黄鸡大笑]。<br/><br/>真金白银压上去的时候，人的思路会打开很多。<br/>在象牙塔里做研究的人，自以为已经把所有交易系统都测遍了；可一旦拿真钱去冒险，你会迸发出非常多有创意的想法，永远还有新东西可以回测检验。<br/><br/>在他看来，学术界漏掉了大量实际上可行的思路。<br/><br/>#读书少# 《新金融怪杰》（The New Market Wizards）</description>
+    </item>
+    <item>
+      <title>LoneSchicksal: [摊手][摊手][摊手]//@阑夕:意思就是，如果你有办法稳定诱导Claude吐出完整思维链，这个方法的市场价就能值8位</title>
+      <link>https://weibo.com/1645776681/Rqs54z6gd</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rqs54z6gd</guid>
+      <pubDate>Sun, 08 Nov 2026 14:46:36 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/347f79673846f470.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/347f79673846f470.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/347f79673846f470.jpg"/><br/>[摊手][摊手][摊手]<br/>转发 @阑夕：意思就是，如果你有办法稳定诱导Claude吐出完整思维链，这个方法的市场价就能值8位数。<br/>转发 @阑夕：意思就是，如果你有办法稳定诱导Claude吐出完整思维链，这个方法的市场价就能值8位数。 <a href="https://weibo.com/1560906700/Rqrb033kv">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/347f79673846f470.jpg"/></description>
+    </item>
     <item>
       <title>小白哥乌拉诺斯: 小杨今天生涯之夜啊！12分10板，NBA生涯第一次两双！计划</title>
       <link>https://weibo.com/1918541453/RqqjtD8qp</link>
@@ -53,45 +326,6 @@
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/bd9c0359c2d78de4.jpg"/><br/>“防守为王”是阿森纳队近年来的建队思路，这也是他们上赛季重夺英超冠军、如今又一马当先的主要原因。热刺本轮遭遇争议判罚，连胜势头告一段落。曼城中后场失误太多，不仅仅是球员状态低迷，马雷斯卡的冒进打法也要改变才行。</description>
     </item>
     <item>
-      <title>sniper-china: 电视剧#伟大的长征##包座战役#
-右路军，主力红30军程世才</title>
-      <link>https://weibo.com/2215128543/RqrGZqM3t</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqrGZqM3t</guid>
-      <pubDate>Sun, 08 Nov 2026 18:10:00 +0800</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>电视剧#伟大的长征##包座战役#<br/>右路军，主力红30军程世才，在弹药不足背景下，打垮了胡宗南的一个师。<br/>红四战斗力岂可等闲视之！（电视剧原话）<br/>后来红30军奉命南下，重回红四，参加了南下打成都。<br/>之后编入西路军，血溅黄沙，全军覆没。唯独程世才和李先念（军政委）几百残兵打到了新疆。<br/>陈昌浩化妆逃回老家。<br/>徐向前一路乞讨回到延安。革命斗志坚贞。<br/>但也可见程世才李先念之危难之处显身手的才华出众。<br/>#包座战役##程世才中将#</description>
-    </item>
-    <item>
-      <title>sniper-china: 我认为胡锡进应该捐出所有兼职收入，身后捐出自己所有资产，他是</title>
-      <link>https://weibo.com/2215128543/Rqrw0fRPb</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqrw0fRPb</guid>
-      <pubDate>Sun, 08 Nov 2026 18:10:00 +0800</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>我认为胡锡进应该捐出所有兼职收入，身后捐出自己所有资产，他是党培养的人才，应该有这个默契。<br/>转发 @胡锡进：袁钧瑛的事情近日引爆互联网，主要争论是：这位早已加入美国籍、但2020年归国的科学家究竟是回国效力，还是早年背弃公派留学归国默契，晚年又回国蹭养老、沽名钓誉？<br/>不能不说这是近些年围绕海外归国人才极具代表性的争议。<br/>先把袁钧瑛的履历简单说说。1958年生在上海，早年当过棉纺厂女工。1977年恢复高考，她凭自学考出上海理科第一名，进入复旦大学生化系就读。1982年毕业，通过CUSBEA中美联合招生项目赴美。这一项目由国家组织选拔人才，赴美后主要依靠美方高校奖学金完成学业，国家承担选拔组织与部分差旅开销。当年赴美人员普遍有一项不成文的默契：学成之后回国。<br/><br/>在哈佛和MIT求学期间，袁钧瑛师从后来斩获诺贝尔奖的霍维茨，作为核心参与者，证实细胞死亡是基因调控下的程序化过程。之后进一步阐明人类细胞凋亡的运行机制，相关成果写入全球生物学教科书。完成博士研究之后，她没有按当年默契回国，而是留在美国发展，在哈佛医学院一路做到正教授并执掌冠名讲席，2007年当选美国艺术与科学院院士，2017年当选美国科学院院士，后续加入美国国籍。<br/><br/>在数十年的科研历程中，她开辟出第二大重要研究方向：2005年前后，其团队定义“程序性坏死”概念，找到调控开关RIPK1，研制出先导化合物Nec-1，搭建起细胞坏死、炎症反应与阿尔茨海默病、渐冻症、脑卒中、肠炎等疾病的关联通路。目前多款靶向该靶点的抑制剂已经进入全球临床试验阶段。<br/><br/>2020年，袁钧瑛辞去哈佛全部教职，全职回国，担任中科院上海有机所生物与化学交叉研究中心主任，依托平台组建团队，推进原创新药转化落地。2023年当选中科院外籍院士，2026年与王晓东、邵峰、Dixit共同获得世界顶尖科学家协会奖（生命科学或医学奖），该项1000万元奖金由四位获奖人共享。<br/><br/>引爆舆论的是，2026年10月31日上海顶科论坛期间她接受采访。深圳卫视科创类访谈节目播出的片段里，她表达的核心意思是：不以国籍划分身份，自己还是上海人，血是中国的血。11月初这段视频经过各大自媒体持续转发，引爆了对她的激烈批评。<br/><br/>很多人不满，首先针对她的留学毕业不归的那次选择。当年国家把稀缺珍贵的公派机会交到她手上，她在项目结束后却留在海外，没有兑现归国默契，这属于她道德层面的污点，针对这一点提出批评，我认为完全没有问题。<br/><br/>但是对她回国任职这件事，我认为不应该做情绪化的价值判断，而要多一些冷静和实事求是。不排除袁钧瑛心中有落叶归根的想法，同时回国发展也更利于她延续自身的科研事业。但如果简单武断地下结论，这个人已经没有价值，她回国只为蹭取国内资源养老，上海相关单位被她骗了、把重要岗位给她这个外籍人士，挤占本土青年科研人员的发展空间，这就太情绪化了，也欠缺公允。<br/><br/>事实上早在2020年正式回国之前，袁钧瑛已经和国内科研机构保持稳定联系，2012年起参与交叉研究中心的筹建工作，并非空降摘取现成成果。2020年她正式辞去哈佛全部工作全职归国，当时62岁，对于国际顶尖科学家群体而言，这个年纪远谈不上失去科研能力。她的学术视野、国际行业资源、重大疾病药物研发经验，都是国内急需的稀缺资源。倘若回国之后毫无实质产出，单纯挂名领薪，上海相关部门也不可能以高规格予以接纳。<br/><br/>我们不应轻易看低上海相关部门的专业性和责任心，事实上，目前批评声里，多数来自不直接从事生命科学研究的网上人，缘起又是拿了美国籍的她说“血是中国血”这句话，是纯舆论事件，而非严肃的学术批判。<br/><br/>纵观袁钧瑛的人生轨迹，恰好贯穿中国改革开放的各个发展阶段。在我看来，她就是一个道德意义上的普通人，在时代浪潮中，每一步都选择对自身发展有利、风险低的道路。她并非甘愿牺牲个人利益、坚决以国家需求为先的道德完人，早年的弃约行为客观存在。不过，她归国的选择，恰好契合当下国内科研发展的现实需求。她深耕的细胞死亡与神经退行性疾病领域，是国内相对薄弱的研究方向。她带回的技术经验、国际合作渠道，能够助力国内相关领域补齐短板，客观有助于本土科研与药研产业的进步。<br/><br/>如果一直揪住数十年前的弃约行为、以及加入美国国籍的事情，用过往旧事作为评判她当下所有选择的唯一标尺，我认为这对我们的国家并不有利。时代背景不断变化，国家发展诉求也在更新，上海引进这样的人才，是基于当下产业与科研发展的现实考量。袁钧瑛能够获得国际顶尖科学奖项，本身就是最有说服力的证明：奖项由国际同行评审，依靠扎实的研究成果角逐，不是看护照身份发放的人情奖励。<br/><br/>对于袁钧瑛这类海归学者，我们既不能一味拔高赞美，刻意美化，也不能仅仅因为一句言论触碰大众情绪，就全盘否定她的实际价值。我非常理解当下青年科研人员普遍存在的职业焦虑：科研经费有限、岗位竞争激烈，高端海归带着履历资源回国，确实容易让人产生资源被挤压的落差感。但将现实层面的结构性焦虑，集中宣泄到袁钧瑛个体身上，其实是严重的错位。经费分配制度、科研评价体系、人才录用机制等深层问题，才是真正需要反思优化的方向。把个体当成情绪靶子，无助于解决青年科研人员面临的困境，只会进一步激化舆论中的各种对立。<br/><br/>最后总结来说，我们应当尊重上海在人才引进上做出的选择，避免高度情绪化地评判海外归国群体，不能因为个别个案，就为归国人才群体贴上负面标签。看待袁钧瑛事件，最合适的态度是分清两本账：早年违约弃约的问题是历史，该批评就批评；全职回国之后是否有科研成绩、以及是否带来产业价值，要由权威部门认定，大众可以理性探讨，不宜仅凭情绪呼吁将她“撵走”。我们的社会需要有这样的胸怀和大气。 <a href="https://weibo.com/1989660417/RqocKwLT3">原微博</a></description>
-    </item>
-    <item>
-      <title>sniper-china: //@聆雨子:我没去过朝鲜，也没接触过朝鲜人。 但是，当一茬</title>
-      <link>https://weibo.com/2215128543/RqruZoWJg</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqruZoWJg</guid>
-      <pubDate>Sun, 08 Nov 2026 18:10:00 +0800</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/941777c167129fe8.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/941777c167129fe8.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/941777c167129fe8.jpg"/><br/>转发 @我们何曾现代过：这位脱北者在十七岁初尝自由时，第一反应竟然是想回到朝鲜。<br/>“我以为ATM里有人在递钱”——这绝不是一个笑话，而是一套世界观的活体标本。在她潜意识的底层逻辑里：机器背后必有人，机器前面必有令。“我”唯一的功能，就是接收命令。<br/>她丧失了自我授权的能力。自由是需要极高成本的，不仅意味着要做出选择，还意味着要为选择承担失败的风险。对于一个从未受过独立判断训练的灵魂，选择首先酿成的是恐慌。托克维尔在一个半世纪前的判词，在此得到最赤裸的印证：当自主令人疲惫时，人对主人的渴望，是真实的，且极其廉价。<br/>极权主义的毒素，经由代际传承与制度规训，深深刻进几代人的认知结构。推翻一个政权或许只需一夜，但治愈被剥夺了思考能力的灵魂、重塑被碾碎的独立人格，往往需要几代人的教育与漫长的心理重建。<br/>她最终选择留在韩国，去笨拙地学习使用ATM，去学着决定自己今天穿哪条裤子——这就是她重新长出独立人格的起点。<br/>自由的第一课，是发现没有人在替你做主，包括替你选裤子。 <a href="https://weibo.com/7809403623/RqfRlASAL">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/941777c167129fe8.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: #伟大的长征# 四十集，毛儿盖会议（这些回会议程序上都是政治</title>
-      <link>https://weibo.com/2215128543/Rqr7B354i</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqr7B354i</guid>
-      <pubDate>Sun, 08 Nov 2026 18:10:00 +0800</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>#伟大的长征# 四十集，毛儿盖会议（这些回会议程序上都是政治局扩大会议，扩大两字包罗万象）。恩来重病。<br/><br/>这时候国民党旧军医王斌（建国后卫生部副部长）拿出了珍藏的衣米丁，这种药可以排脓排血后消炎，陈庚瘸腿带警卫员们不顾生死爬上雪山取冰物理降温，往返几十里。真是有史以来最伟大的创业团队。<br/><br/>这据复原程度较高。难得。</description>
-    </item>
-    <item>
       <title>sniper-china: 杨奎松先生很简单的，即第二页内容，描述了这个事情。就是这么简</title>
       <link>https://weibo.com/2215128543/Rqr1qBuHX</link>
       <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqr1qBuHX</guid>
@@ -105,6 +339,45 @@
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/683484883777796f.jpg" type="image/jpeg" medium="image"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6b42d42389ab3881.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7e3dfe1379e827e6.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4170269807b7f404.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/70233bc443175c08.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/683484883777796f.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6b42d42389ab3881.jpg"/><br/>杨奎松先生很简单的，即第二页内容，描述了这个事情。就是这么简单，怎么我说你们就不明白呢。</description>
+    </item>
+    <item>
+      <title>sniper-china: #伟大的长征# 四十集，毛儿盖会议（这些回会议程序上都是政治</title>
+      <link>https://weibo.com/2215128543/Rqr7B354i</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqr7B354i</guid>
+      <pubDate>Sun, 08 Nov 2026 18:10:00 +0800</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>#伟大的长征# 四十集，毛儿盖会议（这些回会议程序上都是政治局扩大会议，扩大两字包罗万象）。恩来重病。<br/><br/>这时候国民党旧军医王斌（建国后卫生部副部长）拿出了珍藏的衣米丁，这种药可以排脓排血后消炎，陈庚瘸腿带警卫员们不顾生死爬上雪山取冰物理降温，往返几十里。真是有史以来最伟大的创业团队。<br/><br/>这据复原程度较高。难得。</description>
+    </item>
+    <item>
+      <title>sniper-china: //@聆雨子:我没去过朝鲜，也没接触过朝鲜人。 但是，当一茬</title>
+      <link>https://weibo.com/2215128543/RqruZoWJg</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqruZoWJg</guid>
+      <pubDate>Sun, 08 Nov 2026 18:10:00 +0800</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/941777c167129fe8.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/941777c167129fe8.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/941777c167129fe8.jpg"/><br/>转发 @我们何曾现代过：这位脱北者在十七岁初尝自由时，第一反应竟然是想回到朝鲜。<br/>“我以为ATM里有人在递钱”——这绝不是一个笑话，而是一套世界观的活体标本。在她潜意识的底层逻辑里：机器背后必有人，机器前面必有令。“我”唯一的功能，就是接收命令。<br/>她丧失了自我授权的能力。自由是需要极高成本的，不仅意味着要做出选择，还意味着要为选择承担失败的风险。对于一个从未受过独立判断训练的灵魂，选择首先酿成的是恐慌。托克维尔在一个半世纪前的判词，在此得到最赤裸的印证：当自主令人疲惫时，人对主人的渴望，是真实的，且极其廉价。<br/>极权主义的毒素，经由代际传承与制度规训，深深刻进几代人的认知结构。推翻一个政权或许只需一夜，但治愈被剥夺了思考能力的灵魂、重塑被碾碎的独立人格，往往需要几代人的教育与漫长的心理重建。<br/>她最终选择留在韩国，去笨拙地学习使用ATM，去学着决定自己今天穿哪条裤子——这就是她重新长出独立人格的起点。<br/>自由的第一课，是发现没有人在替你做主，包括替你选裤子。 <a href="https://weibo.com/7809403623/RqfRlASAL">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/941777c167129fe8.jpg"/></description>
+    </item>
+    <item>
+      <title>sniper-china: 我认为胡锡进应该捐出所有兼职收入，身后捐出自己所有资产，他是</title>
+      <link>https://weibo.com/2215128543/Rqrw0fRPb</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqrw0fRPb</guid>
+      <pubDate>Sun, 08 Nov 2026 18:10:00 +0800</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>我认为胡锡进应该捐出所有兼职收入，身后捐出自己所有资产，他是党培养的人才，应该有这个默契。<br/>转发 @胡锡进：袁钧瑛的事情近日引爆互联网，主要争论是：这位早已加入美国籍、但2020年归国的科学家究竟是回国效力，还是早年背弃公派留学归国默契，晚年又回国蹭养老、沽名钓誉？<br/>不能不说这是近些年围绕海外归国人才极具代表性的争议。<br/>先把袁钧瑛的履历简单说说。1958年生在上海，早年当过棉纺厂女工。1977年恢复高考，她凭自学考出上海理科第一名，进入复旦大学生化系就读。1982年毕业，通过CUSBEA中美联合招生项目赴美。这一项目由国家组织选拔人才，赴美后主要依靠美方高校奖学金完成学业，国家承担选拔组织与部分差旅开销。当年赴美人员普遍有一项不成文的默契：学成之后回国。<br/><br/>在哈佛和MIT求学期间，袁钧瑛师从后来斩获诺贝尔奖的霍维茨，作为核心参与者，证实细胞死亡是基因调控下的程序化过程。之后进一步阐明人类细胞凋亡的运行机制，相关成果写入全球生物学教科书。完成博士研究之后，她没有按当年默契回国，而是留在美国发展，在哈佛医学院一路做到正教授并执掌冠名讲席，2007年当选美国艺术与科学院院士，2017年当选美国科学院院士，后续加入美国国籍。<br/><br/>在数十年的科研历程中，她开辟出第二大重要研究方向：2005年前后，其团队定义“程序性坏死”概念，找到调控开关RIPK1，研制出先导化合物Nec-1，搭建起细胞坏死、炎症反应与阿尔茨海默病、渐冻症、脑卒中、肠炎等疾病的关联通路。目前多款靶向该靶点的抑制剂已经进入全球临床试验阶段。<br/><br/>2020年，袁钧瑛辞去哈佛全部教职，全职回国，担任中科院上海有机所生物与化学交叉研究中心主任，依托平台组建团队，推进原创新药转化落地。2023年当选中科院外籍院士，2026年与王晓东、邵峰、Dixit共同获得世界顶尖科学家协会奖（生命科学或医学奖），该项1000万元奖金由四位获奖人共享。<br/><br/>引爆舆论的是，2026年10月31日上海顶科论坛期间她接受采访。深圳卫视科创类访谈节目播出的片段里，她表达的核心意思是：不以国籍划分身份，自己还是上海人，血是中国的血。11月初这段视频经过各大自媒体持续转发，引爆了对她的激烈批评。<br/><br/>很多人不满，首先针对她的留学毕业不归的那次选择。当年国家把稀缺珍贵的公派机会交到她手上，她在项目结束后却留在海外，没有兑现归国默契，这属于她道德层面的污点，针对这一点提出批评，我认为完全没有问题。<br/><br/>但是对她回国任职这件事，我认为不应该做情绪化的价值判断，而要多一些冷静和实事求是。不排除袁钧瑛心中有落叶归根的想法，同时回国发展也更利于她延续自身的科研事业。但如果简单武断地下结论，这个人已经没有价值，她回国只为蹭取国内资源养老，上海相关单位被她骗了、把重要岗位给她这个外籍人士，挤占本土青年科研人员的发展空间，这就太情绪化了，也欠缺公允。<br/><br/>事实上早在2020年正式回国之前，袁钧瑛已经和国内科研机构保持稳定联系，2012年起参与交叉研究中心的筹建工作，并非空降摘取现成成果。2020年她正式辞去哈佛全部工作全职归国，当时62岁，对于国际顶尖科学家群体而言，这个年纪远谈不上失去科研能力。她的学术视野、国际行业资源、重大疾病药物研发经验，都是国内急需的稀缺资源。倘若回国之后毫无实质产出，单纯挂名领薪，上海相关部门也不可能以高规格予以接纳。<br/><br/>我们不应轻易看低上海相关部门的专业性和责任心，事实上，目前批评声里，多数来自不直接从事生命科学研究的网上人，缘起又是拿了美国籍的她说“血是中国血”这句话，是纯舆论事件，而非严肃的学术批判。<br/><br/>纵观袁钧瑛的人生轨迹，恰好贯穿中国改革开放的各个发展阶段。在我看来，她就是一个道德意义上的普通人，在时代浪潮中，每一步都选择对自身发展有利、风险低的道路。她并非甘愿牺牲个人利益、坚决以国家需求为先的道德完人，早年的弃约行为客观存在。不过，她归国的选择，恰好契合当下国内科研发展的现实需求。她深耕的细胞死亡与神经退行性疾病领域，是国内相对薄弱的研究方向。她带回的技术经验、国际合作渠道，能够助力国内相关领域补齐短板，客观有助于本土科研与药研产业的进步。<br/><br/>如果一直揪住数十年前的弃约行为、以及加入美国国籍的事情，用过往旧事作为评判她当下所有选择的唯一标尺，我认为这对我们的国家并不有利。时代背景不断变化，国家发展诉求也在更新，上海引进这样的人才，是基于当下产业与科研发展的现实考量。袁钧瑛能够获得国际顶尖科学奖项，本身就是最有说服力的证明：奖项由国际同行评审，依靠扎实的研究成果角逐，不是看护照身份发放的人情奖励。<br/><br/>对于袁钧瑛这类海归学者，我们既不能一味拔高赞美，刻意美化，也不能仅仅因为一句言论触碰大众情绪，就全盘否定她的实际价值。我非常理解当下青年科研人员普遍存在的职业焦虑：科研经费有限、岗位竞争激烈，高端海归带着履历资源回国，确实容易让人产生资源被挤压的落差感。但将现实层面的结构性焦虑，集中宣泄到袁钧瑛个体身上，其实是严重的错位。经费分配制度、科研评价体系、人才录用机制等深层问题，才是真正需要反思优化的方向。把个体当成情绪靶子，无助于解决青年科研人员面临的困境，只会进一步激化舆论中的各种对立。<br/><br/>最后总结来说，我们应当尊重上海在人才引进上做出的选择，避免高度情绪化地评判海外归国群体，不能因为个别个案，就为归国人才群体贴上负面标签。看待袁钧瑛事件，最合适的态度是分清两本账：早年违约弃约的问题是历史，该批评就批评；全职回国之后是否有科研成绩、以及是否带来产业价值，要由权威部门认定，大众可以理性探讨，不宜仅凭情绪呼吁将她“撵走”。我们的社会需要有这样的胸怀和大气。 <a href="https://weibo.com/1989660417/RqocKwLT3">原微博</a></description>
+    </item>
+    <item>
+      <title>sniper-china: 电视剧#伟大的长征##包座战役#
+右路军，主力红30军程世才</title>
+      <link>https://weibo.com/2215128543/RqrGZqM3t</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqrGZqM3t</guid>
+      <pubDate>Sun, 08 Nov 2026 18:10:00 +0800</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>电视剧#伟大的长征##包座战役#<br/>右路军，主力红30军程世才，在弹药不足背景下，打垮了胡宗南的一个师。<br/>红四战斗力岂可等闲视之！（电视剧原话）<br/>后来红30军奉命南下，重回红四，参加了南下打成都。<br/>之后编入西路军，血溅黄沙，全军覆没。唯独程世才和李先念（军政委）几百残兵打到了新疆。<br/>陈昌浩化妆逃回老家。<br/>徐向前一路乞讨回到延安。革命斗志坚贞。<br/>但也可见程世才李先念之危难之处显身手的才华出众。<br/>#包座战役##程世才中将#</description>
     </item>
     <item>
       <title>青祙素: 黄仁勋这事，我觉得是他们想多了。</title>
@@ -148,17 +421,39 @@
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e4fb0b77aa8508e9.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b7970bcfce384e81.jpg"/><br/>#阿森纳# 他来自挪威，近两个月来的首个入球，一锤定音！稳扎稳打，持续的一周双赛要的就是这种“节奏式”的胜利。<br/><br/>#曼城# 蓝月军团英超两连败了，这个客场也不好打的，关键看进攻端的效率。稍后在@咪咕视频 搭档张指解说森林VS曼城。 </description>
     </item>
     <item>
-      <title>sniper-china: 手痒做了个烧冬瓜，马马虎虎。</title>
-      <link>https://weibo.com/2215128543/RqpLXsB6w</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqpLXsB6w</guid>
+      <title>sniper-china: “妖韶女，老自有馀态”还是“妖韶女老，自有馀态”
+
+终于把古文观止复读了一遍。每日一篇睡前。
+
+徐文长传（《古文观止》）</title>
+      <link>https://weibo.com/2215128543/Rqp7oeZzk</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqp7oeZzk</guid>
       <pubDate>Sun, 08 Nov 2026 04:41:02 +0000</pubDate>
       <author>sniper-china</author>
       <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0a3920085a176343.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0a3920085a176343.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/26708ec1ef3ef8ea.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7721e55bdeb953b8.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0a3920085a176343.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/26708ec1ef3ef8ea.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7721e55bdeb953b8.jpg"/><br/>手痒做了个烧冬瓜，马马虎虎。</description>
+      <description>“妖韶女，老自有馀态”还是“妖韶女老，自有馀态”<br/><br/>终于把古文观止复读了一遍。每日一篇睡前。<br/><br/>徐文长传（《古文观止》）<br/><br/>徐渭，字文长，为山阴诸生，声名籍甚。薛公蕙校越时，奇其才，有国士之目。然数奇，乡试辄蹶。中丞胡公宗宪闻之，客诸幕。文长每见，则葛衣乌巾，纵谈天下事，胡公大喜。是时，公方数发兵，威震东南；介胄之士，膝语蛇行，不敢举头，而文长以部下一诸生傲之；谅者方之刘真长、杜少陵云。会得白鹿，属文长作表。表上，永陵喜。公以是益奇之，一切疏记，皆出其手。文长自负才略，好奇计，谈兵多中，视一世士无可当意者，然竟不偶。<br/><br/>文长既已不得志于有司，遂乃放浪曲糵，恣情山水，走齐、鲁、燕、赵之地，穷览朔漠。其所见山奔海立，沙起云行，雨鸣树偃，幽谷大都，人物鱼鸟，一切可惊可愕之状，一一皆达之于诗。其胸中又有勃然不可磨灭之气，英雄失路、托足无门之悲，故其为诗，如嗔如笑，如水鸣峡，如种出土，如寡妇之夜哭，嫠人之寒起。虽其体格时有卑者，然匠心独出，有王者气，非彼龌龊辈所敢望也。文有卓识，气沉而法严，不以模拟损才，不以议论伤格，韩、曾之流亚也。文长既雅不与时俗合，当时所谓骚坛主盟者，文长皆叱而奴之，故其名不出于越，悲夫！<br/><br/>喜作书，笔意奔放如其诗，苍劲中姿媚跃出，欧阳公所谓“妖韶女，老自有馀态”者也。间以其余，旁溢为花鸟，皆超诣有致。<br/><br/>晚以疑杀其继室，下狱论死。张太史元汴力解，乃得出。晚年愤益深，佯狂益甚。显者至门，或拒不纳。时携钱至酒肆，呼下隶与饮。或自持斧击破其头，血流被面，头骨皆折，揉之有声；或以利锥锥其两耳，深入寸余，竟不得死。周望言：晚岁诗文益奇，无刻本，集藏于家。余同年有官越者，托以钞录，今未至。余所见者，《徐文长集》、《阙编》二种而已。然文长竟以不得志于时，抱愤而卒。<br/><br/>石公曰：先生数奇不已，遂为狂疾；狂疾不已，遂为囹圄。古今文人牢骚困苦，未有若先生者也。虽然，胡公间世豪杰，永陵英主；幕中礼数异等，是胡公知有先生矣；表上，人主悦，是人主知有先生矣。独身未贵耳。先生诗文崛兴，一扫近代芜秽之习，百世而下，自有定论，胡为不遇哉？梅客生尝寄余书云：“文长吾老友，病奇于人，人奇于诗。”余谓文长无之而不奇者也。无之而不奇，斯无之而不奇也。悲夫！</description>
+    </item>
+    <item>
+      <title>sniper-china: 推荐我小时候单位食堂一年一次的水晶包子，肥肉碎+冰糖，顶级食品。//@水獭otter:我们小时候生病，来探病的很多都是送</title>
+      <link>https://weibo.com/2215128543/RqpaIcuBj</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqpaIcuBj</guid>
+      <pubDate>Sun, 08 Nov 2026 04:41:02 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/47f4dc41b703de64.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/47f4dc41b703de64.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/47f4dc41b703de64.jpg"/><br/>推荐我小时候单位食堂一年一次的水晶包子，肥肉碎+冰糖，顶级食品。<br/>转发 @水獭otter：我们小时候生病，来探病的很多都是送糖。还有送葡萄糖粉的。<br/>转发 @薇薇一品兰：<br/>转发 @幻想狂劈先生：醍醐灌顶嗡嗡。拿现代工业制糖法制造的糖去和肉价比，然后反推古代的情况，这智商也是没谁了。实际上中国古代大多数时候糖都比肉贵。<br/>转发 @笑部长：很多东西在这个时代醍醐灌顶  <a href="https://weibo.com/2862532004/RqkI8f0Bw">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/47f4dc41b703de64.jpg"/></description>
+    </item>
+    <item>
+      <title>sniper-china: 中纪委同志进去了多少？彼此彼此。//@枭总:当年搞天风，也是真成功。。。//@刘旷的超级鹅鹅公：//@专业戳轮胎熊律师:</title>
+      <link>https://weibo.com/2215128543/RqpfF0gA2</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqpfF0gA2</guid>
+      <pubDate>Sun, 08 Nov 2026 04:41:02 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4b93fb09c9c38f97.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4b93fb09c9c38f97.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4b93fb09c9c38f97.jpg"/><br/>中纪委同志进去了多少？彼此彼此。<br/>转发 @枭总：当年搞天风，也是真成功。。。<br/>转发 @刘旷的超级鹅鹅公：<br/>转发 @专业戳轮胎熊律师：笑了<br/>转发 @史老柒：哈哈哈哈哈哈<br/>转发 @唯有自由i：[允悲][允悲][允悲]艹<br/>转发 @Mourinholic：这场辩论赛，坐在他右边四辩队友是周玄毅[并不简单]<br/>转发 @迈克鸭唐：屠龙少年终成恶龙，20多年前的世界大学生专业辩论赛上，武汉大学法学院辩论队的队长余喆激情辩论，在台上痛斥金钱害人挥斥方遒，结果2025年因涉案向原湖北省委书记蒋超良输送巨额利益，被采取留置措施...... <a href="https://weibo.com/7519706333/RqgVzcb87">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4b93fb09c9c38f97.jpg"/></description>
     </item>
     <item>
       <title>sniper-china: 1 炒面炒饭炒面包都可以，也可以直接当酱油使用。青菜海鲜白灼后可淋一勺。2 上古版本李锦记蚝油。海天都是便宜货，3 泡发</title>
@@ -175,39 +470,17 @@
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f5dafef1f2860a13.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/cd6e7f13a09a75e2.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/753bd532eaf046cb.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b332b03cb4117dbe.jpg"/><br/>1 炒面炒饭炒面包都可以，也可以直接当酱油使用。青菜海鲜白灼后可淋一勺。2 上古版本李锦记蚝油。海天都是便宜货，3 泡发了与红烧肉搭配最佳 类似笋干 也可以炒配五花肉。<br/>转发 @绍兴黄酒：亲人们，今天又好不容易挤到一次空，去了我们这边的越南店，又有一些发现！<br/><br/>首先，在辅料区那边发现了这个葱油，虽然我不知道这葱油能做什么，但是觉得挺稀罕的，所以还是买了。瓶子上面说是拌面，但是拌面碳水太多了，请问还有什么别的用法么？<br/><br/>第二个，上次蚝油上瘾，大家不是说买挤的蚝油么，这次居然被我在架子的最下层发现了！当时有这个海天蚝油，还有一个李锦记蚝油，李锦记的瓶子比较小，我觉得可能比较便宜吧(这几个蚝油都没有标价），就拿了那个，谁知道check out的时候发现居然7.99！！惊讶，我这蚝油其实也不是非吃不可啊[允悲][允悲]<br/><br/>然后又发现了这个干的嫩豌豆。我们这里是极少能买不到新鲜豌豆的，请问这种嫩豌豆怎么吃？泡发一下可以炒菜吗？从暑假回来，已经再也没有吃过豌豆了[笑cry][笑cry] <a href="https://weibo.com/1650194867/Rqgbfznyr">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b332b03cb4117dbe.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/753bd532eaf046cb.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/cd6e7f13a09a75e2.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f5dafef1f2860a13.jpg"/></description>
     </item>
     <item>
-      <title>sniper-china: 中纪委同志进去了多少？彼此彼此。//@枭总:当年搞天风，也是真成功。。。//@刘旷的超级鹅鹅公：//@专业戳轮胎熊律师:</title>
-      <link>https://weibo.com/2215128543/RqpfF0gA2</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqpfF0gA2</guid>
+      <title>sniper-china: 手痒做了个烧冬瓜，马马虎虎。</title>
+      <link>https://weibo.com/2215128543/RqpLXsB6w</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqpLXsB6w</guid>
       <pubDate>Sun, 08 Nov 2026 04:41:02 +0000</pubDate>
       <author>sniper-china</author>
       <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4b93fb09c9c38f97.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4b93fb09c9c38f97.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4b93fb09c9c38f97.jpg"/><br/>中纪委同志进去了多少？彼此彼此。<br/>转发 @枭总：当年搞天风，也是真成功。。。<br/>转发 @刘旷的超级鹅鹅公：<br/>转发 @专业戳轮胎熊律师：笑了<br/>转发 @史老柒：哈哈哈哈哈哈<br/>转发 @唯有自由i：[允悲][允悲][允悲]艹<br/>转发 @Mourinholic：这场辩论赛，坐在他右边四辩队友是周玄毅[并不简单]<br/>转发 @迈克鸭唐：屠龙少年终成恶龙，20多年前的世界大学生专业辩论赛上，武汉大学法学院辩论队的队长余喆激情辩论，在台上痛斥金钱害人挥斥方遒，结果2025年因涉案向原湖北省委书记蒋超良输送巨额利益，被采取留置措施...... <a href="https://weibo.com/7519706333/RqgVzcb87">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4b93fb09c9c38f97.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: 推荐我小时候单位食堂一年一次的水晶包子，肥肉碎+冰糖，顶级食品。//@水獭otter:我们小时候生病，来探病的很多都是送</title>
-      <link>https://weibo.com/2215128543/RqpaIcuBj</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqpaIcuBj</guid>
-      <pubDate>Sun, 08 Nov 2026 04:41:02 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/47f4dc41b703de64.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/47f4dc41b703de64.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/47f4dc41b703de64.jpg"/><br/>推荐我小时候单位食堂一年一次的水晶包子，肥肉碎+冰糖，顶级食品。<br/>转发 @水獭otter：我们小时候生病，来探病的很多都是送糖。还有送葡萄糖粉的。<br/>转发 @薇薇一品兰：<br/>转发 @幻想狂劈先生：醍醐灌顶嗡嗡。拿现代工业制糖法制造的糖去和肉价比，然后反推古代的情况，这智商也是没谁了。实际上中国古代大多数时候糖都比肉贵。<br/>转发 @笑部长：很多东西在这个时代醍醐灌顶  <a href="https://weibo.com/2862532004/RqkI8f0Bw">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/47f4dc41b703de64.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: “妖韶女，老自有馀态”还是“妖韶女老，自有馀态”
-
-终于把古文观止复读了一遍。每日一篇睡前。
-
-徐文长传（《古文观止》）</title>
-      <link>https://weibo.com/2215128543/Rqp7oeZzk</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rqp7oeZzk</guid>
-      <pubDate>Sun, 08 Nov 2026 04:41:02 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>“妖韶女，老自有馀态”还是“妖韶女老，自有馀态”<br/><br/>终于把古文观止复读了一遍。每日一篇睡前。<br/><br/>徐文长传（《古文观止》）<br/><br/>徐渭，字文长，为山阴诸生，声名籍甚。薛公蕙校越时，奇其才，有国士之目。然数奇，乡试辄蹶。中丞胡公宗宪闻之，客诸幕。文长每见，则葛衣乌巾，纵谈天下事，胡公大喜。是时，公方数发兵，威震东南；介胄之士，膝语蛇行，不敢举头，而文长以部下一诸生傲之；谅者方之刘真长、杜少陵云。会得白鹿，属文长作表。表上，永陵喜。公以是益奇之，一切疏记，皆出其手。文长自负才略，好奇计，谈兵多中，视一世士无可当意者，然竟不偶。<br/><br/>文长既已不得志于有司，遂乃放浪曲糵，恣情山水，走齐、鲁、燕、赵之地，穷览朔漠。其所见山奔海立，沙起云行，雨鸣树偃，幽谷大都，人物鱼鸟，一切可惊可愕之状，一一皆达之于诗。其胸中又有勃然不可磨灭之气，英雄失路、托足无门之悲，故其为诗，如嗔如笑，如水鸣峡，如种出土，如寡妇之夜哭，嫠人之寒起。虽其体格时有卑者，然匠心独出，有王者气，非彼龌龊辈所敢望也。文有卓识，气沉而法严，不以模拟损才，不以议论伤格，韩、曾之流亚也。文长既雅不与时俗合，当时所谓骚坛主盟者，文长皆叱而奴之，故其名不出于越，悲夫！<br/><br/>喜作书，笔意奔放如其诗，苍劲中姿媚跃出，欧阳公所谓“妖韶女，老自有馀态”者也。间以其余，旁溢为花鸟，皆超诣有致。<br/><br/>晚以疑杀其继室，下狱论死。张太史元汴力解，乃得出。晚年愤益深，佯狂益甚。显者至门，或拒不纳。时携钱至酒肆，呼下隶与饮。或自持斧击破其头，血流被面，头骨皆折，揉之有声；或以利锥锥其两耳，深入寸余，竟不得死。周望言：晚岁诗文益奇，无刻本，集藏于家。余同年有官越者，托以钞录，今未至。余所见者，《徐文长集》、《阙编》二种而已。然文长竟以不得志于时，抱愤而卒。<br/><br/>石公曰：先生数奇不已，遂为狂疾；狂疾不已，遂为囹圄。古今文人牢骚困苦，未有若先生者也。虽然，胡公间世豪杰，永陵英主；幕中礼数异等，是胡公知有先生矣；表上，人主悦，是人主知有先生矣。独身未贵耳。先生诗文崛兴，一扫近代芜秽之习，百世而下，自有定论，胡为不遇哉？梅客生尝寄余书云：“文长吾老友，病奇于人，人奇于诗。”余谓文长无之而不奇者也。无之而不奇，斯无之而不奇也。悲夫！</description>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0a3920085a176343.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0a3920085a176343.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/26708ec1ef3ef8ea.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7721e55bdeb953b8.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0a3920085a176343.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/26708ec1ef3ef8ea.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7721e55bdeb953b8.jpg"/><br/>手痒做了个烧冬瓜，马马虎虎。</description>
     </item>
     <item>
       <title>青祙素: #周末时光# 开看《喜鹊谋杀案》的第二部/月光花谋杀案，好看</title>
@@ -400,6 +673,15 @@
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a3720e1b97ef5ffd.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/698d34e0266b0548.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/70635e2a767c0be8.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9d85c74becb24cd2.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/75e070eaf7baef49.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/aa2aae87fd550ce0.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b443b08f83cd4c6f.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0e370656ebea26e3.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/358dd13f6219d128.jpg"/><br/>二十多年前去，免费公交和公园免费烧烤炉子（天然气）印象深刻。当地华人很多中餐出品可以。<br/>转发 @sniper-china：二十多年前去，免费公交和公园免费烧烤炉子（天然气）印象深刻。当地华人很多中餐出品可以。<br/>转发 @翼尖小翅：墨尔本游客的街溜子生活🚶<br/>喂了袋鼠🦘摸了考拉🐨坐了蒸汽火车🚂开了大洋路🚗吃了南半球排名第一的牛排店🥩在酒店见证了坐着幻影V来办婚礼的新婚夫妻💒还体验了墨尔本的免费电车🚃 澳大利亚·The Ritz-Carlton<br/>转发 @翼尖小翅：墨尔本游客的街溜子生活🚶<br/>喂了袋鼠🦘摸了考拉🐨坐了蒸汽火车🚂开了大洋路🚗吃了南半球排名第一的牛排店🥩在酒店见证了坐着幻影V来办婚礼的新婚夫妻💒还体验了墨尔本的免费电车🚃 澳大利亚·The Ritz-Carlton <a href="https://weibo.com/7443374926/Rqimi3UXJ">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/358dd13f6219d128.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0e370656ebea26e3.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b443b08f83cd4c6f.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/aa2aae87fd550ce0.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/75e070eaf7baef49.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9d85c74becb24cd2.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/70635e2a767c0be8.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/698d34e0266b0548.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a3720e1b97ef5ffd.jpg"/></description>
     </item>
     <item>
+      <title>LoneSchicksal: 一年以前 现在看更觉得有趣… [摊手][摊手][摊手]</title>
+      <link>https://weibo.com/1645776681/RqiZp2neG</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RqiZp2neG</guid>
+      <pubDate>Sat, 07 Nov 2026 14:34:18 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <description>一年以前 现在看更觉得有趣… [摊手][摊手][摊手]<br/>转发 @LoneSchicksal：一年以前 现在看更觉得有趣… [摊手][摊手][摊手]<br/>转发 @LoneSchicksal：如果上下游之间互相投资就是💊💊 那么下游长期占用上游的资金就是good business? [doge][doge] 没有盈利闭环的投资是泡沫, 那么靠补贴形成盈利闭环的投资就不是泡沫? [求饶][求饶]其实都是靠财政, 支撑企业预算软约束的游戏而已.[吃瓜]<br/>转发 @LoneSchicksal：如果上下游之间互相投资就是💊💊 那么下游长期占用上游的资金就是good business? [doge][doge] 没有盈利闭环的投资是泡沫, 那么靠补贴形成盈利闭环的投资就不是泡沫? [求饶][求饶]其实都是靠财政, 支撑企业预算软约束的游戏而已.[吃瓜] <a href="https://weibo.com/1645776681/QcKP5oSTT">原微博</a></description>
+    </item>
+    <item>
       <title>LoneSchicksal: Repost</title>
       <link>https://weibo.com/1645776681/RqjhafMiM</link>
       <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RqjhafMiM</guid>
@@ -409,15 +691,6 @@
       <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f2cc8bf3b47436cc.jpg" type="image/jpeg"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f2cc8bf3b47436cc.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f2cc8bf3b47436cc.jpg"/><br/>Repost<br/>转发 @LoneSchicksal：Repost<br/>转发 @宝玉xp：METR 独立评估：Anthropic 模型能力的进步速度大约翻了一倍，大部分可能要归功于 AI 参与研发<br/>AI 安全评估机构 METR 11 月 5 日发布报告，判断截至 2026 年 10 月，Anthropic 在“目标明确的任务”上提升模型能力的速度，大约是 2024 年 3 月到 2025 年 10 月的 2 倍。METR 说这个判断很不确定，实际是 1.3 倍或 3 倍都不会意外。<br/>METR 是一家非营利机构，研究前沿 AI 有没有失控风险。这份报告评估的是“AI 研发加速”：AI 公司用 AI 写代码、跑实验、训练下一代 AI，会不会让能力进步得比历史趋势还快。担心在于，AI 越造越快，能力增长可能超出对齐和管控手段能应付的速度。<br/>【先说结论】<br/>METR 给了三条结论，都是团队的主观判断，团队内部也有分歧：<br/>• 速度：进步速度大约是过去的 2 倍，区间在 1.3 到 3 倍。<br/>• 原因：加速的大部分可能来自 Anthropic 大量用 AI 做研发，METR 猜测约占 8 成。METR 对此不确定，Anthropic 员工内部也没有共识。2025 年底那一波加速，AI 以外的因素可能起了很大作用。<br/>• 往后：METR 没看到明显瓶颈，也没看到收益明显递减，所以未来 12 个月有可能加速得更快。METR 也说自己视角有限，可能漏掉了瓶颈。<br/>报告里还有一个细节：比起以前，Anthropic 现在会把最新模型在内部多留一段时间再对外发布。<br/>【1.9 倍这个数字怎么来的】<br/>公开报告里最具体的证据是测试分数。METR 用的是 AECI，即 Anthropic 版的 Epoch 能力指数，这套方法由研究机构 Epoch AI 提出，把一堆测试成绩合成一个总分，方便看能力随时间怎么涨。<br/>2025 年 10 月以来，Anthropic 模型的 AECI 增速是此前的 1.9 倍（95% 置信区间 1.5 到 2.8 倍）。也就是说，过去一年的进步，相当于此前两年的进步，大约是从 Claude 2.1 到 Sonnet 4.5 的距离。这个数比 Anthropic 在 Haiku 5.5 系统卡里报的 1.7 倍高，主要因为 METR 算进了三个没发布的内部模型。<br/>这个数字受方法影响很大。换一种统计假设，结果在 1.1 倍到 2.9 倍之间；把其他公司的模型也放进来算，只有约 1.4 倍。最新内部模型在测过的每项测试上得分都超过 50%，难题快不够用了，METR 担心以后很难再这样测下去。<br/>【AI 到底帮了多少】<br/>METR 能确定的一点是，这次加速跟训练算力增长变快无关。招人、数据、算法突破等其他因素，很多细节被删掉了。<br/>METR 和 Anthropic 访谈了不少研究员，大家对自己领域被 AI 加速多少说法差别很大，大致集中在 2 倍。Anthropic 内部还在 Slack 上用表情投票，让员工估计最新模型让自己快了几倍，10 月的平均自评约 12 倍。METR 认为这种投票只是很粗的证据，并提醒个人干活快几倍，不能直接换算成公司整体进步快几倍。<br/>员工还说，现在 AI 主要是给人当帮手，训练模型最重要的环节还不能交给 AI 完全自己做。不过一些研究员说已经看到苗头，AI 独立做出重要贡献可能很快会出现。<br/>【大半证据被涂黑】<br/>METR 给 Anthropic 交了一份约 100 页的完整报告。按约定，公开版里的非公开信息 Anthropic 都能单方面要求删除。Anthropic 删掉了 METR 认为最有说服力的大部分证据，包括训练各环节的加速估算、算法进步估算、算力和数据各占多少功劳，以及对未来模型的预测。<br/>Anthropic 的理由是，这些机密可能帮其他 AI 公司加速。METR 认同删掉的内容属于这类信息，但没评价删得合不合理，理由是自己不适合在公司商业利益和公众知情之间做权衡。METR 说，结果就是公众没法自己核对证据，只能比理想状态更多地依赖 METR 的判断。10 月底 Anthropic 还收紧过一次删减标准，公开报告因此推迟了约 5 天。<br/>合同原本还包括核查 Anthropic 的算力分配，看多少算力用在提升能力、多少用在安全。项目做到一半，Anthropic 取消了这部分，当时 METR 还没得出实质结论。Anthropic 的说法是暂时集中做风险评估，以后再回头做。<br/>这次评估从 8 月中做到 10 月底，METR 投入相当于 2.5 个全职人员，没收 Anthropic 的钱。它和 Anthropic 10 月 15 日宣布、给 METR“类员工权限”的项目是两回事。这次 METR 要数据得主动申请，Anthropic 可批可拒，METR 说可能漏掉了自己不知道存在的信息。<br/>【Anthropic 的回应】<br/>Anthropic 联合创始人 Sam McCandlish 负责公司大部分安全工作。Sam 当天在 X 上说，METR 的很多结论和他的看法一致：AI 在加快 Anthropic 的研究，但很难说清快了多少；AI 还不能独立做出训练模型最重要的贡献，但默认情况下速度可能进一步加快。<br/>关于涂黑，Sam 承认删得多，让外界更难核查 METR 的工作。Sam 的理由是，公开到底是什么在推动加速，既涉及商业机密，也等于给别人一张加速路线图，会让 METR 担心的风险更严重。Sam 认为这个取舍是对的，Anthropic 还在继续评估利弊。<br/>Sam 说，未来几周 Anthropic 会发布自己的报告，分析内部 AI 进步有多快、对照 RSP 处在什么位置，以及新的安全措施。RSP 是 Anthropic 的“负责任扩展政策”，规定模型能力到了某些门槛，就必须配上相应级别的安全防护。AI 研发加速是 RSP 里的关键风险指标之一，但 METR 这次没有专门对照 RSP 的门槛，Anthropic 现在处在哪一级，要等它自己的报告。<br/>METR 报告： http://t.cn/AXYbJ9yO 网页链接<br/>METR 推文： http://t.cn/AXYb9bEH 网页链接<br/>Sam McCandlish 回应： http://t.cn/AXYb9bEQ 网页链接<br/>Anthropic 关于独立评估方的说明： http://t.cn/AXllcDBo 网页链接<br/>转发 @宝玉xp：METR 独立评估：Anthropic 模型能力的进步速度大约翻了一倍，大部分可能要归功于 AI 参与研发<br/>AI 安全评估机构 METR 11 月 5 日发布报告，判断截至 2026 年 10 月，Anthropic 在“目标明确的任务”上提升模型能力的速度，大约是 2024 年 3 月到 2025 年 10 月的 2 倍。METR 说这个判断很不确定，实际是 1.3 倍或 3 倍都不会意外。<br/>METR 是一家非营利机构，研究前沿 AI 有没有失控风险。这份报告评估的是“AI 研发加速”：AI 公司用 AI 写代码、跑实验、训练下一代 AI，会不会让能力进步得比历史趋势还快。担心在于，AI 越造越快，能力增长可能超出对齐和管控手段能应付的速度。<br/>【先说结论】<br/>METR 给了三条结论，都是团队的主观判断，团队内部也有分歧：<br/>• 速度：进步速度大约是过去的 2 倍，区间在 1.3 到 3 倍。<br/>• 原因：加速的大部分可能来自 Anthropic 大量用 AI 做研发，METR 猜测约占 8 成。METR 对此不确定，Anthropic 员工内部也没有共识。2025 年底那一波加速，AI 以外的因素可能起了很大作用。<br/>• 往后：METR 没看到明显瓶颈，也没看到收益明显递减，所以未来 12 个月有可能加速得更快。METR 也说自己视角有限，可能漏掉了瓶颈。<br/>报告里还有一个细节：比起以前，Anthropic 现在会把最新模型在内部多留一段时间再对外发布。<br/>【1.9 倍这个数字怎么来的】<br/>公开报告里最具体的证据是测试分数。METR 用的是 AECI，即 Anthropic 版的 Epoch 能力指数，这套方法由研究机构 Epoch AI 提出，把一堆测试成绩合成一个总分，方便看能力随时间怎么涨。<br/>2025 年 10 月以来，Anthropic 模型的 AECI 增速是此前的 1.9 倍（95% 置信区间 1.5 到 2.8 倍）。也就是说，过去一年的进步，相当于此前两年的进步，大约是从 Claude 2.1 到 Sonnet 4.5 的距离。这个数比 Anthropic 在 Haiku 5.5 系统卡里报的 1.7 倍高，主要因为 METR 算进了三个没发布的内部模型。<br/>这个数字受方法影响很大。换一种统计假设，结果在 1.1 倍到 2.9 倍之间；把其他公司的模型也放进来算，只有约 1.4 倍。最新内部模型在测过的每项测试上得分都超过 50%，难题快不够用了，METR 担心以后很难再这样测下去。<br/>【AI 到底帮了多少】<br/>METR 能确定的一点是，这次加速跟训练算力增长变快无关。招人、数据、算法突破等其他因素，很多细节被删掉了。<br/>METR 和 Anthropic 访谈了不少研究员，大家对自己领域被 AI 加速多少说法差别很大，大致集中在 2 倍。Anthropic 内部还在 Slack 上用表情投票，让员工估计最新模型让自己快了几倍，10 月的平均自评约 12 倍。METR 认为这种投票只是很粗的证据，并提醒个人干活快几倍，不能直接换算成公司整体进步快几倍。<br/>员工还说，现在 AI 主要是给人当帮手，训练模型最重要的环节还不能交给 AI 完全自己做。不过一些研究员说已经看到苗头，AI 独立做出重要贡献可能很快会出现。<br/>【大半证据被涂黑】<br/>METR 给 Anthropic 交了一份约 100 页的完整报告。按约定，公开版里的非公开信息 Anthropic 都能单方面要求删除。Anthropic 删掉了 METR 认为最有说服力的大部分证据，包括训练各环节的加速估算、算法进步估算、算力和数据各占多少功劳，以及对未来模型的预测。<br/>Anthropic 的理由是，这些机密可能帮其他 AI 公司加速。METR 认同删掉的内容属于这类信息，但没评价删得合不合理，理由是自己不适合在公司商业利益和公众知情之间做权衡。METR 说，结果就是公众没法自己核对证据，只能比理想状态更多地依赖 METR 的判断。10 月底 Anthropic 还收紧过一次删减标准，公开报告因此推迟了约 5 天。<br/>合同原本还包括核查 Anthropic 的算力分配，看多少算力用在提升能力、多少用在安全。项目做到一半，Anthropic 取消了这部分，当时 METR 还没得出实质结论。Anthropic 的说法是暂时集中做风险评估，以后再回头做。<br/>这次评估从 8 月中做到 10 月底，METR 投入相当于 2.5 个全职人员，没收 Anthropic 的钱。它和 Anthropic 10 月 15 日宣布、给 METR“类员工权限”的项目是两回事。这次 METR 要数据得主动申请，Anthropic 可批可拒，METR 说可能漏掉了自己不知道存在的信息。<br/>【Anthropic 的回应】<br/>Anthropic 联合创始人 Sam McCandlish 负责公司大部分安全工作。Sam 当天在 X 上说，METR 的很多结论和他的看法一致：AI 在加快 Anthropic 的研究，但很难说清快了多少；AI 还不能独立做出训练模型最重要的贡献，但默认情况下速度可能进一步加快。<br/>关于涂黑，Sam 承认删得多，让外界更难核查 METR 的工作。Sam 的理由是，公开到底是什么在推动加速，既涉及商业机密，也等于给别人一张加速路线图，会让 METR 担心的风险更严重。Sam 认为这个取舍是对的，Anthropic 还在继续评估利弊。<br/>Sam 说，未来几周 Anthropic 会发布自己的报告，分析内部 AI 进步有多快、对照 RSP 处在什么位置，以及新的安全措施。RSP 是 Anthropic 的“负责任扩展政策”，规定模型能力到了某些门槛，就必须配上相应级别的安全防护。AI 研发加速是 RSP 里的关键风险指标之一，但 METR 这次没有专门对照 RSP 的门槛，Anthropic 现在处在哪一级，要等它自己的报告。<br/>METR 报告： http://t.cn/AXYbJ9yO 网页链接<br/>METR 推文： http://t.cn/AXYb9bEH 网页链接<br/>Sam McCandlish 回应： http://t.cn/AXYb9bEQ 网页链接<br/>Anthropic 关于独立评估方的说明： http://t.cn/AXllcDBo 网页链接 <a href="https://weibo.com/1727858283/Rq4uBCT7C">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f2cc8bf3b47436cc.jpg"/></description>
-    </item>
-    <item>
-      <title>LoneSchicksal: 一年以前 现在看更觉得有趣… [摊手][摊手][摊手]</title>
-      <link>https://weibo.com/1645776681/RqiZp2neG</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RqiZp2neG</guid>
-      <pubDate>Sat, 07 Nov 2026 14:34:18 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <description>一年以前 现在看更觉得有趣… [摊手][摊手][摊手]<br/>转发 @LoneSchicksal：一年以前 现在看更觉得有趣… [摊手][摊手][摊手]<br/>转发 @LoneSchicksal：如果上下游之间互相投资就是💊💊 那么下游长期占用上游的资金就是good business? [doge][doge] 没有盈利闭环的投资是泡沫, 那么靠补贴形成盈利闭环的投资就不是泡沫? [求饶][求饶]其实都是靠财政, 支撑企业预算软约束的游戏而已.[吃瓜]<br/>转发 @LoneSchicksal：如果上下游之间互相投资就是💊💊 那么下游长期占用上游的资金就是good business? [doge][doge] 没有盈利闭环的投资是泡沫, 那么靠补贴形成盈利闭环的投资就不是泡沫? [求饶][求饶]其实都是靠财政, 支撑企业预算软约束的游戏而已.[吃瓜] <a href="https://weibo.com/1645776681/QcKP5oSTT">原微博</a></description>
     </item>
     <item>
       <title>小白哥乌拉诺斯: Four Horsemen Mythic Legions 四骑士神话军团 四款新品公布</title>
@@ -675,6 +948,17 @@
       <description>我是反对“全员营销”的，但都经历过，我也在科研单位干过，正常摊派任务而已。白老师太老实了，换个角度，他愿意吃市场饭吗？市场经济自然会给口饭吃（咸菜还是海鲜看能力和运气）<br/>转发 @sniper-china：我是反对“全员营销”的，但都经历过，我也在科研单位干过，正常摊派任务而已。白老师太老实了，换个角度，他愿意吃市场饭吗？市场经济自然会给口饭吃（咸菜还是海鲜看能力和运气）<br/>转发 @八大山债人：哎。。。<br/>转发 @搜狐新闻：（见 orig_text）<br/>转发 @搜狐新闻：11月2日，一封疑似延安大学鲁迅艺术学院副教授白保国“绝笔信”的长文在网络流传，引发关注。11月5日晚，《中国新闻周刊》联系上了“绝笔信”的发布者曹骏，他是白保国的学生，小学期间跟着白保国学了6年钢琴。曹骏证实，“绝笔信”的内容确为白保国本人所写。曹骏一家与白保国私交较好，“绝笔信”由白保国家属提供，并经家属同意后发布。<br/>前述“绝笔信”中提到，延安大学现行聘期考核制度对教授设置了横向科研经费到账额度、论文发表数量硬性指标。在实际执行中，绝大部分教师为完成上述考核指标，自筹资金，通过合作公司转账至学校，再由学校财务渠道将资金回流至本人，配套不实账务材料完成横向科研经费任务。<br/>《中国新闻周刊》从受访者处获取了一份延安大学政法与公共管理学院《2025年教师科研经费任务清单》。依据该清单，2025年学校下达科研经费总任务为340万元。该学院制定的教师个人经费任务标准为：副教授和近3年新入职的博士（学校按照副教授待遇人员）不少于5.5万元/年。该清单提到，未完成学院年度科研经费任务的教师，按照本人年度任务额的5%扣减津贴。<br/>曹骏表示，事情发酵后，多名延安大学教师匿名联系他，证实校内虚报横向科研经费是较为普遍的情况。据了解，近日，延安大学要求校内教师签署《横向科研经费承诺书》。依据该承诺书，教师本人要保证向学校提交的全部项目材料真实、准确、完整，如经查存在虚假申报、合同造假、经费不实等情形，本人自愿承担由此产生的一切责任。<br/>高校教师获得科研经费，有纵向和横向两种方式。同济大学教育评估研究中心主任樊秀娣介绍，目前不少高校通过攀比科研经费，证明办学水平。纵向经费来自政府部门，“往往集中在头部高校，普通地方高校想争取更多经费，只能从横向课题上想办法。”教师承接企业等单位委托的横向科研项目，可以获得横向科研经费。<br/>樊秀娣介绍，横向科研项目可以促进产学研合作，让高校教师了解并解决社会需求。但有些教师为了评职称，自己掏钱转给企业，再由企业以项目经费的名义转入学校账户。她认为，这种做法在理论上属于学术不端，学校若知情……高校制定指标时应考虑学科特点，考核周期也不宜过短。<br/>曹骏透露，一两年前，白保国就已患有抑郁症，还曾因抑郁症住过院。“在白老师离世的前几个月，他开始在纸上写‘苍天我该怎么办，救救我’这样的话，他身边的亲朋好友知道他有这个念头，都在劝他。”曹骏称，10月20日中午，趁家人午睡时，白保国将银行卡等物品放在妻子枕边，随后孤身一人打车前往陕西延安市的万花山，投湖自尽。这一天，陕西省气象台发布霜冻黄色预警，延安市最低气温降至0℃以下。更多详细内容请查看原文&gt;&gt; 网页链接 http://t.cn/AXYqMmNE</description>
     </item>
     <item>
+      <title>LoneSchicksal: 醒醒神儿… 完全睡不醒… [doge] [doge]</title>
+      <link>https://weibo.com/1645776681/RqegLrjyO</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RqegLrjyO</guid>
+      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ba90102b72ffd190.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ba90102b72ffd190.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ba90102b72ffd190.jpg"/><br/>醒醒神儿… 完全睡不醒… [doge] [doge]</description>
+    </item>
+    <item>
       <title>LoneSchicksal: 转发微博//@财联社APP:财联社11月6日电，特朗普称，100%支持人工智能，将与那些希望通过发展人工智能而致富的美国多州合作。</title>
       <link>https://weibo.com/1645776681/Rqehn1mQ0</link>
       <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rqehn1mQ0</guid>
@@ -685,17 +969,6 @@
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/fb767245ecefca61.jpg" type="image/jpeg" medium="image"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e732dc76f918eeb0.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/fb767245ecefca61.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e732dc76f918eeb0.jpg"/><br/>转发 @财联社APP：【特朗普称100%支持人工智能】财联社11月6日电，特朗普称，100%支持人工智能，将与那些希望通过发展人工智能而致富的美国多州合作。<br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e732dc76f918eeb0.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/fb767245ecefca61.jpg"/></description>
-    </item>
-    <item>
-      <title>LoneSchicksal: 醒醒神儿… 完全睡不醒… [doge] [doge]</title>
-      <link>https://weibo.com/1645776681/RqegLrjyO</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RqegLrjyO</guid>
-      <pubDate>Fri, 06 Nov 2026 23:43:38 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ba90102b72ffd190.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ba90102b72ffd190.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ba90102b72ffd190.jpg"/><br/>醒醒神儿… 完全睡不醒… [doge] [doge]</description>
     </item>
     <item>
       <title>评述员詹俊: #曼联[超话]# “时代”这两个字分量很重，个人轻易不会用。四十年前的今天，弗格森从苏格兰南下执教曼联，尽管开始的几年不</title>
@@ -753,17 +1026,6 @@
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/29b8cff5c0a5d35b.jpg"/><br/>我身边一堆这样的人，挺好的。我替他（她）们感谢新加坡。<br/>转发 @tombkeeper：这是典型的李氏精英主义。<br/>转发 @出版人周筱：一个朋友的孩子也选了这个路径去了新加坡<br/>转发 @程序员邹欣：<br/>转发 @数知实验室：我也有两个中学同学去了<br/>转发 @丁嵘基：我初三的同桌，他大一去了新加坡，公费留学。后来就留在新加坡了，从事芯片开发<br/>转发 @数知实验室：叫停是不对的，因为降低了高中生的人生选择空间，这是一种把高中生视作自有劳动力资源的奴隶主思维，正确的方法是推出更有吸引力的方案来竞争高中生的选择。<br/>转发 @白夜菌Dream：居安思危啊 <a href="https://weibo.com/7051157562/Rq8q088Rq">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/29b8cff5c0a5d35b.jpg"/></description>
     </item>
     <item>
-      <title>LoneSchicksal: 十几年过去了, 还是一样的问题…//@LoneSchicksal:量化模型本身的high correlation是一个无</title>
-      <link>https://weibo.com/1645776681/Rqa4P3MmI</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rqa4P3MmI</guid>
-      <pubDate>Fri, 06 Nov 2026 14:22:35 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/35f664fad5a6b0ef.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/35f664fad5a6b0ef.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/35f664fad5a6b0ef.jpg"/><br/>十几年过去了, 还是一样的问题…<br/>转发 @LoneSchicksal：量化模型本身的high correlation是一个无解的问题…这个问题面对流动性收缩会异常快的凸显出来… 最后是合成谬误… 风控措施成为彼此互啃的利刃<br/>转发 @LoneSchicksal：“We had some analytics to figure out the deterioration of Sharpe ratio due to more assets chasing the same strategy. Also, being the biggest boy on the block, people take shots at you, front-running you” 关于量化模型自身的correlation, 高盛资管匿名交易员的这段采访说的不错… <a href="https://weibo.com/1645776681/GfvnQeFYP">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/35f664fad5a6b0ef.jpg"/></description>
-    </item>
-    <item>
       <title>LoneSchicksal: 哈哈哈 BoJ也可以说了//@凤凰李淼:日本消费税要降了，食品从8%降到1%，却只降2年。两年后，真能涨回去吗？这里有你</title>
       <link>https://weibo.com/1645776681/Rq8ZatGxo</link>
       <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rq8ZatGxo</guid>
@@ -773,6 +1035,17 @@
       <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ab3cb683a3703cbf.jpg" type="image/jpeg"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ab3cb683a3703cbf.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ab3cb683a3703cbf.jpg"/><br/>哈哈哈 BoJ也可以说了<br/>转发 @凤凰李淼：日本消费税要降了，食品从8%降到1%，却只降2年。两年后，真能涨回去吗？这里有你必须要了解的五件事。 #微博视频号迎新计划# 凤凰李淼的微博视频<br/>转发 @凤凰李淼：日本消费税要降了，食品从8%降到1%，却只降2年。两年后，真能涨回去吗？这里有你必须要了解的五件事。 #微博视频号迎新计划# 凤凰李淼的微博视频 <a href="https://weibo.com/1916468595/Rq8VkFLB0">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ab3cb683a3703cbf.jpg"/></description>
+    </item>
+    <item>
+      <title>LoneSchicksal: 十几年过去了, 还是一样的问题…//@LoneSchicksal:量化模型本身的high correlation是一个无</title>
+      <link>https://weibo.com/1645776681/Rqa4P3MmI</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rqa4P3MmI</guid>
+      <pubDate>Fri, 06 Nov 2026 14:22:35 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/35f664fad5a6b0ef.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/35f664fad5a6b0ef.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/35f664fad5a6b0ef.jpg"/><br/>十几年过去了, 还是一样的问题…<br/>转发 @LoneSchicksal：量化模型本身的high correlation是一个无解的问题…这个问题面对流动性收缩会异常快的凸显出来… 最后是合成谬误… 风控措施成为彼此互啃的利刃<br/>转发 @LoneSchicksal：“We had some analytics to figure out the deterioration of Sharpe ratio due to more assets chasing the same strategy. Also, being the biggest boy on the block, people take shots at you, front-running you” 关于量化模型自身的correlation, 高盛资管匿名交易员的这段采访说的不错… <a href="https://weibo.com/1645776681/GfvnQeFYP">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/35f664fad5a6b0ef.jpg"/></description>
     </item>
     <item>
       <title>小白哥乌拉诺斯: 东京龙珠主题店官方店，一周年纪念商品公布，11/13起发售 #龙珠#</title>
@@ -1014,17 +1287,6 @@ CVR D ALAN Q</title>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f6cdbce9111bf529.jpg"/><br/>这两天x陷入了反思的海洋，华人反思，日本人反思（反思上车关门以至于润美日本人后继无人很有意思）......<br/><br/>关于新当选参议员穆罕默，不是，赛义德的讨论也很有意思。<br/><br/>赛义德是左派进步人士立场当选，但他的妻子着装并不开明，他的贷款投资也都是某教严选。<br/><br/>Jordoan Peterson曾说（他真的太敢说了，所以不管多少人说他是北美三条蛆之一，我都会关注他的言论）<br/><br/>Jordan Peterson在2017年左右，在一次讨论 SJW 潜意识的讲座/访谈中，提出了一个精神分析式的猜测，认为西方女性对男性权威的无意识渴望，在对来自穆斯林世界的移民的热情中找到了一个安全的出口……<br/><br/>不过他承认这是他弗洛伊德式的思考。“因为从理性上看，实在找不到其他理由。”（女权为什么不关注沙特女性状况）<br/><br/>毕竟左翼那些白痴享乐主义女性，笑死。<br/><br/>他明确表示这只是他思考的边缘地带，一种精神分析式的猜测，不是他坚定主张的事实。<br/><br/>事后还是轩然大波。</description>
     </item>
     <item>
-      <title>LoneSchicksal: 回复@熊猫看起来很哥特:[摊手][摊手]明年上半年一看, 還是算力不足//@熊猫看起来很哥特:我跟anth的人聊了他们特</title>
-      <link>https://weibo.com/1645776681/Rq6EC0aEV</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rq6EC0aEV</guid>
-      <pubDate>Fri, 06 Nov 2026 04:49:52 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg"/><br/>回复@熊猫看起来很哥特:[摊手][摊手]明年上半年一看, 還是算力不足<br/>转发 @LoneSchicksal：回复@熊猫看起来很哥特:[摊手][摊手]明年上半年一看, 還是算力不足<br/>转发 @熊猫看起来很哥特：我跟anth的人聊了他们特别bullish, 他们人为明年模型能力会有很大提升[doge]<br/>转发 @LoneSchicksal：RSI才是真的"技术加速"…<br/>转发 @nieuwfinder：华尔街日报：人工智能正开始构建更出色的人工智能，这种自我提升正在加速研发进程，同时也让所有人感到惊慌。<br/>转发 @nieuwfinder：华尔街日报：人工智能正开始构建更出色的人工智能，这种自我提升正在加速研发进程，同时也让所有人感到惊慌。 <a href="https://weibo.com/1025911070/Rq5L0DvGD">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg"/></description>
-    </item>
-    <item>
       <title>LoneSchicksal: RSI才是真的"技术加速"…//@nieuwfinder:华尔街日报：人工智能正开始构建更出色的人工智能，这种自我提升正</title>
       <link>https://weibo.com/1645776681/Rq5Me7qqE</link>
       <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rq5Me7qqE</guid>
@@ -1034,6 +1296,17 @@ CVR D ALAN Q</title>
       <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg" type="image/jpeg"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg"/><br/>RSI才是真的"技术加速"…<br/>转发 @LoneSchicksal：RSI才是真的"技术加速"…<br/>转发 @nieuwfinder：华尔街日报：人工智能正开始构建更出色的人工智能，这种自我提升正在加速研发进程，同时也让所有人感到惊慌。<br/>转发 @nieuwfinder：华尔街日报：人工智能正开始构建更出色的人工智能，这种自我提升正在加速研发进程，同时也让所有人感到惊慌。 <a href="https://weibo.com/1025911070/Rq5L0DvGD">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg"/></description>
+    </item>
+    <item>
+      <title>LoneSchicksal: 回复@熊猫看起来很哥特:[摊手][摊手]明年上半年一看, 還是算力不足//@熊猫看起来很哥特:我跟anth的人聊了他们特</title>
+      <link>https://weibo.com/1645776681/Rq6EC0aEV</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rq6EC0aEV</guid>
+      <pubDate>Fri, 06 Nov 2026 04:49:52 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg"/><br/>回复@熊猫看起来很哥特:[摊手][摊手]明年上半年一看, 還是算力不足<br/>转发 @LoneSchicksal：回复@熊猫看起来很哥特:[摊手][摊手]明年上半年一看, 還是算力不足<br/>转发 @熊猫看起来很哥特：我跟anth的人聊了他们特别bullish, 他们人为明年模型能力会有很大提升[doge]<br/>转发 @LoneSchicksal：RSI才是真的"技术加速"…<br/>转发 @nieuwfinder：华尔街日报：人工智能正开始构建更出色的人工智能，这种自我提升正在加速研发进程，同时也让所有人感到惊慌。<br/>转发 @nieuwfinder：华尔街日报：人工智能正开始构建更出色的人工智能，这种自我提升正在加速研发进程，同时也让所有人感到惊慌。 <a href="https://weibo.com/1025911070/Rq5L0DvGD">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4ac11f2684efcf2b.jpg"/></description>
     </item>
     <item>
       <title>linahu5415</title>
@@ -1181,16 +1454,13 @@ CVR D ALAN Q</title>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/90ba270ab675baea.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/fd7fb45eee6e5910.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5e64f770c04fd366.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/129c4d5df83a59f2.jpg"/><br/>靠近贵州的会同是个山区小县，比一般的内地县还要差一大截。城北约十公里的伏龙乡（现在叫坪村乡），有一个叫枫木树脚的村子。一九○七年八月十日清光绪年间，粟裕就是出生在这一户人家的西厢房。十年前我们曾专程前来，拜访了当年的老屋，今日重游故地。#粟裕故居#</description>
     </item>
     <item>
-      <title>LoneSchicksal: @华尔街见闻APP 英伟达指出，大模型和Agent推高内存压力，单纯增加HBM容量不够。针对模型权重占用大量HBM，英伟</title>
-      <link>https://weibo.com/1645776681/Rq5dFwGZw</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rq5dFwGZw</guid>
+      <title>LoneSchicksal: 目测大家认为Musk要被民主党人拿来祭旗了… 反AI最后约等于反Musk… [笑cry][笑cry]</title>
+      <link>https://weibo.com/1645776681/Rq1AhE9Co</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rq1AhE9Co</guid>
       <pubDate>Fri, 06 Nov 2026 01:00:15 +0000</pubDate>
       <author>LoneSchicksal</author>
       <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/23a46fca43ddc195.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/23a46fca43ddc195.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d9b2847ab7a53bc8.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/23a46fca43ddc195.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d9b2847ab7a53bc8.jpg"/><br/>转发 @华尔街见闻APP：英伟达指出，大模型和Agent推高内存压力，单纯增加HBM容量不够。针对模型权重占用大量HBM，英伟达提出通过NVFP4低精度格式压缩模型权重，NVLink将权重分布至72颗GPU。英伟达提出压缩与分层卸载、Vera CPU和Dynamo协同管理内存，应对KV Cache的挑战；还提出通过NeMo Retriever和cuVS分别优化向量数据及索引的存储，缓解RAG带来的内存压力。详见网页链接 <a href="https://weibo.com/1875034341/Rq5bd3mpk">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d9b2847ab7a53bc8.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/23a46fca43ddc195.jpg"/></description>
+      <description>目测大家认为Musk要被民主党人拿来祭旗了… 反AI最后约等于反Musk… [笑cry][笑cry]</description>
     </item>
     <item>
       <title>LoneSchicksal: 今晚上的美股, 简直就是在惩罚投票给民主党人的选民… 川普反全球化, 民主党人反AI, 右派和左派都是比着赛反智, 目测</title>
@@ -1202,13 +1472,16 @@ CVR D ALAN Q</title>
       <description>今晚上的美股, 简直就是在惩罚投票给民主党人的选民… 川普反全球化, 民主党人反AI, 右派和左派都是比着赛反智, 目测Warsh一帮人要紧急开会了…</description>
     </item>
     <item>
-      <title>LoneSchicksal: 目测大家认为Musk要被民主党人拿来祭旗了… 反AI最后约等于反Musk… [笑cry][笑cry]</title>
-      <link>https://weibo.com/1645776681/Rq1AhE9Co</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rq1AhE9Co</guid>
+      <title>LoneSchicksal: @华尔街见闻APP 英伟达指出，大模型和Agent推高内存压力，单纯增加HBM容量不够。针对模型权重占用大量HBM，英伟</title>
+      <link>https://weibo.com/1645776681/Rq5dFwGZw</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rq5dFwGZw</guid>
       <pubDate>Fri, 06 Nov 2026 01:00:15 +0000</pubDate>
       <author>LoneSchicksal</author>
       <category>微博</category>
-      <description>目测大家认为Musk要被民主党人拿来祭旗了… 反AI最后约等于反Musk… [笑cry][笑cry]</description>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/23a46fca43ddc195.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/23a46fca43ddc195.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d9b2847ab7a53bc8.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/23a46fca43ddc195.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d9b2847ab7a53bc8.jpg"/><br/>转发 @华尔街见闻APP：英伟达指出，大模型和Agent推高内存压力，单纯增加HBM容量不够。针对模型权重占用大量HBM，英伟达提出通过NVFP4低精度格式压缩模型权重，NVLink将权重分布至72颗GPU。英伟达提出压缩与分层卸载、Vera CPU和Dynamo协同管理内存，应对KV Cache的挑战；还提出通过NeMo Retriever和cuVS分别优化向量数据及索引的存储，缓解RAG带来的内存压力。详见网页链接 <a href="https://weibo.com/1875034341/Rq5bd3mpk">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d9b2847ab7a53bc8.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/23a46fca43ddc195.jpg"/></description>
     </item>
     <item>
       <title>bigdexcomics: 🦇 THE DAILY COVER FEATURE
@@ -1319,24 +1592,13 @@ Absolute Batman issue 18 ALAN QUAH Megacon Exclusive </title>
       <description>在上海漂满一年，小沪漂的山东父母，很焦虑来讨论是不是该给他在上海买个老破小，现在租房子一年6万打了水漂实在是肉疼，房租变成房贷也好啊。<br/><br/>[吃惊]，这个买房原因我有点没想到。<br/><br/>不消费刻在DNA里了，宁可给银行打工也不能花钱租房子……<br/><br/>山东的父母实在太操心了。</description>
     </item>
     <item>
-      <title>LoneSchicksal: 哈哈哈, 这周说的最多的就是, 想证明算力需求触顶, 证伪Scaling Laws即可, 但这恰恰是宏观🐶的知识盲区… </title>
-      <link>https://weibo.com/1645776681/Rq1ljvNGP</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rq1ljvNGP</guid>
+      <title>LoneSchicksal: 哈哈哈 Coreweave投的东西回报 比房地产高多了//@Sasha在南岸找底:现在看来Coreweave这些neoc</title>
+      <link>https://weibo.com/1645776681/RpZCC5DLy</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RpZCC5DLy</guid>
       <pubDate>Thu, 05 Nov 2026 14:37:50 +0000</pubDate>
       <author>LoneSchicksal</author>
       <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a9c53cac199c0da0.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a9c53cac199c0da0.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a9c53cac199c0da0.jpg"/><br/>哈哈哈, 这周说的最多的就是, 想证明算力需求触顶, 证伪Scaling Laws即可, 但这恰恰是宏观🐶的知识盲区… 同时, 从宏观债务杠杆周期角度看, 美国非金融企业债务杠杆还趴在地上… 宏观🐶的逻辑根本用不上…<br/>转发 @陈茜inTheValley：#硅谷101# “只要敢借，就有人敢贷”：投资者与建设者谈数据中心融资、电力和算力｜硅谷101年度线下大会<br/>去年，我们在大会上把数据中心比作“新的石油”。一年过去，AI基建热潮仍在继续，能够按时通电、交付算力的机房却十分稀缺。电力供应、设备短缺、建设许可与社区反对，都可能让规划中的算力迟迟无法上线。<br/>在硅谷101 Alignment 2026大会上，主持人Christina Xu与谷歌的Ethan Xu、GMI Cloud创始人兼CEO Alex Yeh、投资人Bruce Liu，从建设、运营与投资的不同视角，拆解数据中心的电力瓶颈、交付风险与融资难题。<br/>十多年的机房租约与四到六年的算力合同之间，存在怎样的融资错配？嘉宾们也分享了就地发电、全球布局，以及从出租GPU到销售Token的经营思路。这场讨论将持续增长的算力需求，与建设周期、资金成本和现金流的现实约束放在一起审视。<br/>嘉宾：<br/>Ethan（Yixing）Xu，谷歌数据中心规划与能源战略专家<br/>Alex Yeh，GMI Cloud创始人兼首席执行官<br/>Bruce Liu，Esoterica Capital首席执行官<br/>主持人：<br/>Christina Xu，Franchise Capital AI基础设施投资人<br/>#数据中心# #电力# #算力# #AI# #AI基建# #科技# #云计算# <a href="https://weibo.com/1801924214/RpYSQk3ys">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a9c53cac199c0da0.jpg"/></description>
-    </item>
-    <item>
-      <title>LoneSchicksal: 这纯粹是想多了 民主党人想搞强监管 比弹劾特朗普也容易不了多少//@华尔街见闻APP:【民主党横扫，AI投资刹车，科技巨</title>
-      <link>https://weibo.com/1645776681/RpZY59miC</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RpZY59miC</guid>
-      <pubDate>Thu, 05 Nov 2026 14:37:50 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <description>这纯粹是想多了 民主党人想搞强监管 比弹劾特朗普也容易不了多少<br/>转发 @华尔街见闻APP：【民主党横扫，AI投资刹车，科技巨头反而迎来利好！】核心逻辑在于：监管收紧有望迫使巨头削减数据中心资本支出，帮助亚马逊、Alphabet、Meta等自由现金流已转负的公司重回盈利轨道。分析师指出，这次“政府踩刹车”反成巨头减支的政治背书。 <a href="https://weibo.com/1875034341/RpZ20mOWW">原微博</a></description>
+      <description>哈哈哈 Coreweave投的东西回报 比房地产高多了<br/>转发 @Sasha在南岸找底：现在看来Coreweave这些neocould跟碧桂园恒大也差不多。还记得十年前的中国房地产高周转模式嘛？拿地-审批-预售-回款-再拿地。任何一个环节周转慢了都会导致整体链条脆弱性甚至崩塌。<br/>数据中心需求还在 VS 数据中心需求被以更高的代价和更延时地满足。结果可能截然不同。<br/>后者的错配更容易带来流动性的塌方。<br/>Anthropic这些后端再放缓的话更惨。。<br/>无奈钱只能去机器人了。但这原子要出业绩可比比特慢多了。。<br/>资本主义啊总是以一种钟摆运动的极端形式层层推进，每次都能精准导致这一结构的恰恰是人类亘古不变的欲望。 <a href="https://weibo.com/2010722272/RpYt0bKnq">原微博</a></description>
     </item>
     <item>
       <title>LoneSchicksal: 转发微博//@nieuwfinder:纳斯达克100指数的前瞻市盈率达到四年新低</title>
@@ -1350,13 +1612,24 @@ Absolute Batman issue 18 ALAN QUAH Megacon Exclusive </title>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7b57e6d8b0b27461.jpg"/><br/>转发 @nieuwfinder：纳斯达克100指数的前瞻市盈率达到四年新低 <a href="https://weibo.com/1025911070/RpXUe3UNt">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7b57e6d8b0b27461.jpg"/></description>
     </item>
     <item>
-      <title>LoneSchicksal: 哈哈哈 Coreweave投的东西回报 比房地产高多了//@Sasha在南岸找底:现在看来Coreweave这些neoc</title>
-      <link>https://weibo.com/1645776681/RpZCC5DLy</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RpZCC5DLy</guid>
+      <title>LoneSchicksal: 这纯粹是想多了 民主党人想搞强监管 比弹劾特朗普也容易不了多少//@华尔街见闻APP:【民主党横扫，AI投资刹车，科技巨</title>
+      <link>https://weibo.com/1645776681/RpZY59miC</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RpZY59miC</guid>
       <pubDate>Thu, 05 Nov 2026 14:37:50 +0000</pubDate>
       <author>LoneSchicksal</author>
       <category>微博</category>
-      <description>哈哈哈 Coreweave投的东西回报 比房地产高多了<br/>转发 @Sasha在南岸找底：现在看来Coreweave这些neocould跟碧桂园恒大也差不多。还记得十年前的中国房地产高周转模式嘛？拿地-审批-预售-回款-再拿地。任何一个环节周转慢了都会导致整体链条脆弱性甚至崩塌。<br/>数据中心需求还在 VS 数据中心需求被以更高的代价和更延时地满足。结果可能截然不同。<br/>后者的错配更容易带来流动性的塌方。<br/>Anthropic这些后端再放缓的话更惨。。<br/>无奈钱只能去机器人了。但这原子要出业绩可比比特慢多了。。<br/>资本主义啊总是以一种钟摆运动的极端形式层层推进，每次都能精准导致这一结构的恰恰是人类亘古不变的欲望。 <a href="https://weibo.com/2010722272/RpYt0bKnq">原微博</a></description>
+      <description>这纯粹是想多了 民主党人想搞强监管 比弹劾特朗普也容易不了多少<br/>转发 @华尔街见闻APP：【民主党横扫，AI投资刹车，科技巨头反而迎来利好！】核心逻辑在于：监管收紧有望迫使巨头削减数据中心资本支出，帮助亚马逊、Alphabet、Meta等自由现金流已转负的公司重回盈利轨道。分析师指出，这次“政府踩刹车”反成巨头减支的政治背书。 <a href="https://weibo.com/1875034341/RpZ20mOWW">原微博</a></description>
+    </item>
+    <item>
+      <title>LoneSchicksal: 哈哈哈, 这周说的最多的就是, 想证明算力需求触顶, 证伪Scaling Laws即可, 但这恰恰是宏观🐶的知识盲区… </title>
+      <link>https://weibo.com/1645776681/Rq1ljvNGP</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/Rq1ljvNGP</guid>
+      <pubDate>Thu, 05 Nov 2026 14:37:50 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a9c53cac199c0da0.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a9c53cac199c0da0.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a9c53cac199c0da0.jpg"/><br/>哈哈哈, 这周说的最多的就是, 想证明算力需求触顶, 证伪Scaling Laws即可, 但这恰恰是宏观🐶的知识盲区… 同时, 从宏观债务杠杆周期角度看, 美国非金融企业债务杠杆还趴在地上… 宏观🐶的逻辑根本用不上…<br/>转发 @陈茜inTheValley：#硅谷101# “只要敢借，就有人敢贷”：投资者与建设者谈数据中心融资、电力和算力｜硅谷101年度线下大会<br/>去年，我们在大会上把数据中心比作“新的石油”。一年过去，AI基建热潮仍在继续，能够按时通电、交付算力的机房却十分稀缺。电力供应、设备短缺、建设许可与社区反对，都可能让规划中的算力迟迟无法上线。<br/>在硅谷101 Alignment 2026大会上，主持人Christina Xu与谷歌的Ethan Xu、GMI Cloud创始人兼CEO Alex Yeh、投资人Bruce Liu，从建设、运营与投资的不同视角，拆解数据中心的电力瓶颈、交付风险与融资难题。<br/>十多年的机房租约与四到六年的算力合同之间，存在怎样的融资错配？嘉宾们也分享了就地发电、全球布局，以及从出租GPU到销售Token的经营思路。这场讨论将持续增长的算力需求，与建设周期、资金成本和现金流的现实约束放在一起审视。<br/>嘉宾：<br/>Ethan（Yixing）Xu，谷歌数据中心规划与能源战略专家<br/>Alex Yeh，GMI Cloud创始人兼首席执行官<br/>Bruce Liu，Esoterica Capital首席执行官<br/>主持人：<br/>Christina Xu，Franchise Capital AI基础设施投资人<br/>#数据中心# #电力# #算力# #AI# #AI基建# #科技# #云计算# <a href="https://weibo.com/1801924214/RpYSQk3ys">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a9c53cac199c0da0.jpg"/></description>
     </item>
     <item>
       <title>beyond_collectibles_: Original Cover for Transformers #21 (2025) by Simon Parr
@@ -1500,255 +1773,6 @@ Absolute Batman issue 18 ALAN QUAH Megacon Exclusive </title>
       <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e7f4f5e586587bda.jpg" type="image/jpeg"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e7f4f5e586587bda.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e7f4f5e586587bda.jpg"/><br/>有句话 我想问问打工的各位（包括我自己），是跟老钱老板干好点？还是跟新钱老板？这里新老是指富裕起来的时间长短不是指行业。<br/>转发 @闫夕：哈哈，资本家警告⚠️<br/>转发 @闫夕：哈哈，资本家警告⚠️ <a href="https://weibo.com/1560906700/RpXYntnkh">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e7f4f5e586587bda.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: 刚看了个老电影
-
-七月的看车人 范伟封神之作
-
-他本来…看停车场，有票二元，无票一元，也能小赚点过日子。这些都是我熟悉又</title>
-      <link>https://weibo.com/2215128543/RpYmQfdoQ</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RpYmQfdoQ</guid>
-      <pubDate>Thu, 05 Nov 2026 09:54:30 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/59305d7ee4579eee.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/59305d7ee4579eee.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/59305d7ee4579eee.jpg"/><br/>刚看了个老电影<br/><br/>七月的看车人 范伟封神之作<br/><br/>他本来…看停车场，有票二元，无票一元，也能小赚点过日子。这些都是我熟悉又鄙视的北京停车陋习。真不如粤港黑帮看场子。<br/><br/>因为和小花店老板娘相爱准备结婚。但是老板娘前夫从监狱假释出来了，欺负他、打他，他无能为力。<br/><br/>最后工作没了，孩子也被打了，忍无可忍，无需再忍。<br/><br/>这部电影牛逼之处是突出普通人的无力感！<br/><br/>停车场被人砸车了，按道理老大要出面查清摆平，但影片中只能向下追责！距离黑帮弱了几个数量级。<br/><br/>小人物能有啥办法<br/><br/>国家机器战无不胜是肯定的。小人物也没能力使用公权解决自己困境啊。</description>
-    </item>
-    <item>
-      <title>sniper-china: 见一朋友，他籍贯是梅州大埔，我说了句“大埔无潮（福） 澄海无客”，他表示没听说。
-
-中国革命的转折点是三河坝阻击战，即南</title>
-      <link>https://weibo.com/2215128543/RpYDSC5pY</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RpYDSC5pY</guid>
-      <pubDate>Thu, 05 Nov 2026 09:54:30 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>见一朋友，他籍贯是梅州大埔，我说了句“大埔无潮（福） 澄海无客”，他表示没听说。<br/><br/>中国革命的转折点是三河坝阻击战，即南昌起义主力部队跟随周叶等南下潮州，从大埔的韩江顺流而下，占领潮州汕头，去迎接海上运来的大量苏联重武器。但敌钱大钧部紧追不舍，于是朱德率孤军死守三天三夜。历史就是这么好诡异，主力南下全军覆没，孤军死战不退后残余上了井冈山会师。<br/><br/>扯远了，说说潮州九邑 · 潮府八邑 · 民系谚语 · 下南洋与《给阿婆的情书》<br/><br/>一、潮州府九邑（清乾隆三年定型 · 行政版图）<br/>古县 现今大致范围 民系底色 下南洋 / 侨情<br/><br/>海阳 潮州市湘桥区、潮安区 潮语（福佬）核心 老牌侨乡，红头船时代重要出发地<br/><br/>潮阳 汕头潮阳、潮南、濠江 潮语 出洋极盛，南洋潮侨大社群<br/><br/>揭阳 揭阳榕城、揭东、大部揭西 潮语为主，揭西山区客家 平原多潮侨，山区客家另一条出洋线<br/><br/>饶平 饶平县 潮语为主，北部山区客家 靠近闽边，一部分往漳州、南洋双线迁移<br/><br/>澄海 汕头澄海区 潮语大本营 侨批重镇，樟林古港就是近代下南洋核心码头<br/><br/>普宁 普宁市 潮语为主，西部山区客家 大量侨民落脚泰国、马来西亚<br/><br/>惠来 惠来县 潮语 沿海渔农，分批渡海过番<br/><br/>大埔 大埔县 客家大本营 客家出洋主力，多走马来西亚、印尼；侨批体系独立，不是传统潮侨八邑主线<br/><br/>丰顺 丰顺县 潮客交错（县城潮语、北部客家） 一半纳入潮侨圈，北部客家自成一脉<br/><br/>一句话记：九邑是官府一张完整行政地图，把潮语平原与客家山区大埔一起包进去。<br/><br/>二、潮府八邑（民间文化、侨乡概念）<br/><br/>八邑＝九邑去掉大埔：海阳、潮阳、揭阳、饶平、澄海、普宁、惠来、丰顺。<br/><br/>• 大埔根基是客家民系，虽然同样大量下南洋，但语言、乡土认同、侨乡社群传统和潮语圈分开；<br/>• 为什么留丰顺：县城、平原主区潮语占优，长期融入潮侨网络，所以民间侨乡传统把它留在八邑；<br/>• 本质：不是朝廷官名，是百年侨乡、红头船、侨批网络自然形成的「潮语侨乡共同体」。<br/><br/>九邑＝潮州府 八邑＝当年一张跨洋寄侨批、讲潮语、一起下南洋的乡愁网络。<br/><br/>三、老话：「澄海无客，大埔无福」（口传常叫「大埔无潮，澄海无客」）<br/><br/>• 澄海无客：旧时澄海平原几乎没有成片客家聚居，是潮语（福佬）大本营；樟林古港就在这片土地，无数人从这里登红头船奔赴南洋；<br/>• 大埔无福：「福」＝福佬，也就是潮语民系；老大埔山区几乎没有成片潮语聚居，是客家地盘；大埔人也下南洋，但走的是客家侨路；<br/>• 口传版「大埔无潮，澄海无客」：后人直接把「福佬」转成「潮」，通俗好记；<br/><br/>这条谚语，其实就是一条「侨乡分界线」：一边是沿海潮语平原、红头船码头、庞大潮侨侨批网；一边是山区客家，自有一套迁移与侨汇脉络。<br/><br/>四、电影《给阿婆的情书》背后的时代<br/><br/>1. 什么叫「过番」<br/><br/>近代潮汕背山面海，地少人多，加上灾荒战乱，一代代人坐船「过番」去东南亚（暹罗 / 泰国、新加坡、马来西亚、印尼为主）。史料统计，仅 1864–1911，潮汕地区约 294 万人 渡海谋生。不是旅游，是赌命：老话「过番三分生」，风浪、疫病、苦力，很多人一去多年，甚至再也回不来。<br/><br/>侨批（银信）：就是这套迁移里的生命线。「批」就是信；侨批＝家书 + 汇款单，银信合一，靠水客、银信局跨洋递送，报平安、养家、托寄念想，入选联合国《世界记忆名录》，饶宗颐称「侨史敦煌」「海邦剩馥」。<br/><br/>2. 电影《给阿婆的情书》<br/><br/>故事扎根这套百年侨批传统：阿婆一辈子守着一摞从泰国寄回来的侨批，以为是当年下南洋的阿公持续寄信寄钱；直到孙子跑去暹罗寻亲，才揭开秘密——真正的寄信汇款人早已不是阿公，是另一位陌生人，默默托住这份跨越半世纪的信义与牵挂。<br/><br/>电影里那些泛黄侨批、「平安批」（上岸第一封报平安信）、南洋与唐山故土之间长长的牵挂，不是虚构浪漫，是八邑潮侨代代真实的生存图景：男人出海，女人留守故土，一纸侨批就是全家生计与精神寄托。<br/><br/>3. 八邑、大埔，两条下南洋脉络<br/><br/>• 潮府八邑：以澄海樟林、汕头为主要出海口，潮语相通，侨批网络密集，大量落脚泰国（这也是电影选泰国作为南洋落脚点的原因）；侨汇回流，修路、办学、建祠堂，塑造整个潮汕乡土；<br/>• 大埔：虽然不在「潮府八邑」文化圈，但同样是重量级客家侨乡；大埔客家走南洋多往马来西亚、印尼，也有自己的水客、侨批渠道，只是不并入潮语侨乡那一张大网；<br/>• 丰顺：卡在中间，一半跟着潮侨网络，一半跟着客家迁移线，是潮客侨融合。<br/><br/>一句「澄海无客，大埔无福」划开山海民系边界；《给阿婆的情书》，就是从这漫长下南洋史里，摘出来的一封做人要有情有义的侨批故事。<br/><br/>补几句，海陆丰是惠州府管辖，南澳岛这些靠近福建是漳州府 梅州清代是嘉应府<br/><br/>#给阿婆的情书##大埔无潮澄海无客##潮州九县##潮府八邑#</description>
-    </item>
-    <item>
-      <title>sniper-china: 此地风景优美，更显当年血战之惨烈。</title>
-      <link>https://weibo.com/2215128543/RpYHSsMYP</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RpYHSsMYP</guid>
-      <pubDate>Thu, 05 Nov 2026 09:54:30 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c7c1c8a9945c30e8.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c7c1c8a9945c30e8.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/18a73799d347c101.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c7c1c8a9945c30e8.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/18a73799d347c101.jpg"/><br/>此地风景优美，更显当年血战之惨烈。<br/>转发 @sniper-china：没有三河坝之战，就木有井冈山会师。<br/><br/>就像巴菲特说过，如果亏了五成后不能心平气和冷静策划，你就不适合做投资。<br/><br/>八一起义部队南下潮汕后仅剩残半，大约胜2-3%。（二万到朱德陈毅余部三五百人）。其中有个连长姓林。<br/>转发 @sniper-china：没有三河坝之战，就木有井冈山会师。<br/><br/>就像巴菲特说过，如果亏了五成后不能心平气和冷静策划，你就不适合做投资。<br/><br/>八一起义部队南下潮汕后仅剩残半，大约胜2-3%。（二万到朱德陈毅余部三五百人）。其中有个连长姓林。 <a href="https://weibo.com/2215128543/JtqQLkuZF">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/18a73799d347c101.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c7c1c8a9945c30e8.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: 我一般不评价美国这摊事儿，也不懂。但是，总不能让特朗普的粗鄙化下流化持续长久。人之所以为人，是要脸的。</title>
-      <link>https://weibo.com/2215128543/RpZu9hUMw</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RpZu9hUMw</guid>
-      <pubDate>Thu, 05 Nov 2026 09:54:30 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ed522d6299a9996d.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ed522d6299a9996d.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ed522d6299a9996d.jpg"/><br/>我一般不评价美国这摊事儿，也不懂。但是，总不能让特朗普的粗鄙化下流化持续长久。人之所以为人，是要脸的。<br/>转发 @TheCuriosityProject：美国需要更多James Talarico这样年轻有为温和的中间派。他打破了德州38年来是共和党深红区的历史记录。他出身草根，单亲妈妈为了躲避家暴带着还是小baby的他逃了出去，恳求她工作的酒店收留他们一夜。没有育儿设施，妈妈就在柜子里给他做了一个摇篮。任何时候，都看到希望。他说：金钱收买不了德州人民，权力属于人民。他说当初自己是个underdog, 无权无势没有很大获胜几率的人，获得了选举的胜利。他在德州最贫穷的学区做过老师，也有教会背景，他真正代表了美国传统的保守派，温文尔雅，秉持正义。 http://t.cn/AXY2SRsw<br/>转发 @TheCuriosityProject：美国需要更多James Talarico这样年轻有为温和的中间派。他打破了德州38年来是共和党深红区的历史记录。他出身草根，单亲妈妈为了躲避家暴带着还是小baby的他逃了出去，恳求她工作的酒店收留他们一夜。没有育儿设施，妈妈就在柜子里给他做了一个摇篮。任何时候，都看到希望。他说：金钱收买不了德州人民，权力属于人民。他说当初自己是个underdog, 无权无势没有很大获胜几率的人，获得了选举的胜利。他在德州最贫穷的学区做过老师，也有教会背景，他真正代表了美国传统的保守派，温文尔雅，秉持正义。 http://t.cn/AXY2SRsw <a href="https://weibo.com/1261531020/RpSQ1dZRg">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ed522d6299a9996d.jpg"/></description>
-    </item>
-    <item>
-      <title>青祙素: 我觉得短剧大部分替代的是从前地摊儿小报的需求。Ai短剧降低了技术门槛，使短剧的供给扩大了。
-
-但是做出好剧的艺术门槛并没</title>
-      <link>https://weibo.com/2109928873/RpYekamVJ</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2109928873/RpYekamVJ</guid>
-      <pubDate>Thu, 05 Nov 2026 09:54:30 +0000</pubDate>
-      <author>青祙素</author>
-      <category>微博</category>
-      <description>我觉得短剧大部分替代的是从前地摊儿小报的需求。Ai短剧降低了技术门槛，使短剧的供给扩大了。<br/><br/>但是做出好剧的艺术门槛并没有变。<br/><br/>只不过很多人很多时候不需要很高的艺术门槛，地摊儿小报的艺术水平可以满足很多需求。<br/><br/>披个ai外衣还能去掉看地摊儿小报的羞耻感。<br/><br/>没有说短剧没有上品的意思。</description>
-    </item>
-    <item>
-      <title>LoneSchicksal: [摊手][摊手][摊手]</title>
-      <link>https://weibo.com/1645776681/RpXYyqAwy</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RpXYyqAwy</guid>
-      <pubDate>Thu, 05 Nov 2026 09:54:30 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <description>[摊手][摊手][摊手]<br/>转发 @LoneSchicksal：USDT的发行商Tether买了一堆黄金, 黄金要是涨起来没完没了, 同时比特币又涨不起来, 一旦超额准备金耗尽, 其兑付能力是要打问号的. <br/><br/>如同当年雷曼兄弟破产以后, Break The Buck风险的扩散, 引发美元流动性短缺, 黄金被抛售一样, 一旦USDT被挤兑, Tether也面临抛售黄金的压力.<br/>转发 @LoneSchicksal：USDT的发行商Tether买了一堆黄金, 黄金要是涨起来没完没了, 同时比特币又涨不起来, 一旦超额准备金耗尽, 其兑付能力是要打问号的. <br/><br/>如同当年雷曼兄弟破产以后, Break The Buck风险的扩散, 引发美元流动性短缺, 黄金被抛售一样, 一旦USDT被挤兑, Tether也面临抛售黄金的压力. <a href="https://weibo.com/1645776681/QpNyLvd3I">原微博</a></description>
-    </item>
-    <item>
-      <title>LoneSchicksal: [摊手][摊手]</title>
-      <link>https://weibo.com/1645776681/RpXUazmHx</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RpXUazmHx</guid>
-      <pubDate>Thu, 05 Nov 2026 09:54:30 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <description>[摊手][摊手]<br/>转发 @华尔街见闻APP：【大买家撤了！“稳定币老大”Tether也开始卖黄金了】Tether三季度小幅减持约3吨黄金，为近期首次环比下降，也是继二季度加速买入之后的一次明显停顿。Jefferies认为，鉴于其现有持仓规模（165吨），Tether买入活动的变化可能对黄金市场产生重大影响。http://t.cn/AXjvYEaO<br/>转发 @华尔街见闻APP：【大买家撤了！“稳定币老大”Tether也开始卖黄金了】Tether三季度小幅减持约3吨黄金，为近期首次环比下降，也是继二季度加速买入之后的一次明显停顿。Jefferies认为，鉴于其现有持仓规模（165吨），Tether买入活动的变化可能对黄金市场产生重大影响。http://t.cn/AXjvYEaO <a href="https://weibo.com/1875034341/RpPBlmp5h">原微博</a></description>
-    </item>
-    <item>
-      <title>梁斌penny: 这么搞下去，古法拍戏怎么弄？真人演员怎么吃饭呢？惨啊</title>
-      <link>https://weibo.com/1497035431/RpWINkB97</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RpWINkB97</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>梁斌penny</author>
-      <category>微博</category>
-      <description>这么搞下去，古法拍戏怎么弄？真人演员怎么吃饭呢？惨啊<br/>转发 @甜枣枣T：#持械入宋为何能成现象级AI短剧#《持械入宋》掀翻实拍，靠的绝不只是把成本打下来，而是它把省下来的钱，全砸在了传统爽剧不敢碰的剧情上。<br/><br/>先说产业逻辑这本账。真人短剧单分钟实拍成本上万，AI短剧一集三分钟只要一两千。但它不是瞎省钱，而是用AI建好宋代村落的数字资产，反复使用，边际成本一季比一季低。省下来的钱干嘛？全砸进攻城戏这种传统剧组一天烧几十万的大场面。更致命的是迭代速度：传统剧组立项选角看天吃饭，AI团队今晚想到分镜，明天就能抽卡看效果。一周一季的产能，直接把传统影视工业按在地上摩擦。<br/><br/>但真正让它成“现象级”的，是剧情。<br/><br/>绝大多数穿越剧，主角自带系统外挂，子弹无限、神功护体，一路平推。但《持械入宋》偏不。五人特战小队穿到北宋末年，落地第一件事不是大开杀戒，是落户、搞钱、买书、考科举。子弹有限，汽油会耗尽，没有系统兜底。队长林昭从第一季的乡村社头熬到第十季的边军统帅，靠的是一场场硬仗。<br/><br/>它最狠的地方，是敢让主角“输”。重要配角说没就没，首季登场的女将秦红缨在第六季战死，队友为此打了队长一巴掌——因为他娶了她，却没能护住她。这一巴掌，打的是所有不敢让角色付出代价的“虚假爽剧”。<br/><br/>正是这种“不圆满”，撑起了一种比打脸复仇高级得多的“大爽”：五人各管一摊，一点点楔入大宋秩序，去碰那个让人意难平的靖康之耻。岳飞、李清照这些真实历史人物的登场，把整部剧从“男频爽文”直接抬到了“家国文明自守”的层面。<br/><br/>实拍剧不敢冒的险，AI短剧冒了；实拍剧不敢让主角吃的苦，它吃了。 《持械入宋》掀翻的，是那些靠堆量、拼速度、吃平台补贴的低质流水线。当一部AI剧开始跟你认真讲历史的代价时，留给“速成真人剧”的时间，真的不多了。<br/>#微博视频精选大赏#|#二创有戏# http://t.cn/AXY2qXJH<br/>转发 @甜枣枣T：#持械入宋为何能成现象级AI短剧#《持械入宋》掀翻实拍，靠的绝不只是把成本打下来，而是它把省下来的钱，全砸在了传统爽剧不敢碰的剧情上。<br/><br/>先说产业逻辑这本账。真人短剧单分钟实拍成本上万，AI短剧一集三分钟只要一两千。但它不是瞎省钱，而是用AI建好宋代村落的数字资产，反复使用，边际成本一季比一季低。省下来的钱干嘛？全砸进攻城戏这种传统剧组一天烧几十万的大场面。更致命的是迭代速度：传统剧组立项选角看天吃饭，AI团队今晚想到分镜，明天就能抽卡看效果。一周一季的产能，直接把传统影视工业按在地上摩擦。<br/><br/>但真正让它成“现象级”的，是剧情。<br/><br/>绝大多数穿越剧，主角自带系统外挂，子弹无限、神功护体，一路平推。但《持械入宋》偏不。五人特战小队穿到北宋末年，落地第一件事不是大开杀戒，是落户、搞钱、买书、考科举。子弹有限，汽油会耗尽，没有系统兜底。队长林昭从第一季的乡村社头熬到第十季的边军统帅，靠的是一场场硬仗。<br/><br/>它最狠的地方，是敢让主角“输”。重要配角说没就没，首季登场的女将秦红缨在第六季战死，队友为此打了队长一巴掌——因为他娶了她，却没能护住她。这一巴掌，打的是所有不敢让角色付出代价的“虚假爽剧”。<br/><br/>正是这种“不圆满”，撑起了一种比打脸复仇高级得多的“大爽”：五人各管一摊，一点点楔入大宋秩序，去碰那个让人意难平的靖康之耻。岳飞、李清照这些真实历史人物的登场，把整部剧从“男频爽文”直接抬到了“家国文明自守”的层面。<br/><br/>实拍剧不敢冒的险，AI短剧冒了；实拍剧不敢让主角吃的苦，它吃了。 《持械入宋》掀翻的，是那些靠堆量、拼速度、吃平台补贴的低质流水线。当一部AI剧开始跟你认真讲历史的代价时，留给“速成真人剧”的时间，真的不多了。<br/>#微博视频精选大赏#|#二创有戏# http://t.cn/AXY2qXJH <a href="https://weibo.com/2717686313/RpS8pBz9z">原微博</a></description>
-    </item>
-    <item>
-      <title>梁斌penny: 好是好，必然是好。但是现在全民AI漫剧，还在扎根文本，这种坚持实属难得。//@糊涂庙的糊涂仙:@梁斌penny 点评</title>
-      <link>https://weibo.com/1497035431/RpWHwpFNz</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RpWHwpFNz</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>梁斌penny</author>
-      <category>微博</category>
-      <description>好是好，必然是好。但是现在全民AI漫剧，还在扎根文本，这种坚持实属难得。<br/>转发 @糊涂庙的糊涂仙：@梁斌penny 点评<br/>转发 @DeepSeekHarness：大家好，这里是 DeepSeek Harness，正式入驻微博啦～<br/>DeepSeek Harness 是一款 AI 的个人秘书和办公助理，也是 Harness 在日常工作中最顺手的工具，它能全权处理你交给它的任务：<br/>1、自动处理日常：能处理邮件、整理文档、安排日程、进行调研。<br/>2、解决难题：擅长解决复杂任务，如规划旅行、对比产品、写代码。<br/>3、你也可以随时介入查看和修改它的每一步，始终把控全局。<br/>你想为自己的 Harness 加点什么？点击链接即可下载 DeepSeek Harness 桌面端<br/>转发 @DeepSeekHarness：大家好，这里是 DeepSeek Harness，正式入驻微博啦～<br/>DeepSeek Harness 是一款 AI 的个人秘书和办公助理，也是 Harness 在日常工作中最顺手的工具，它能全权处理你交给它的任务：<br/>1、自动处理日常：能处理邮件、整理文档、安排日程、进行调研。<br/>2、解决难题：擅长解决复杂任务，如规划旅行、对比产品、写代码。<br/>3、你也可以随时介入查看和修改它的每一步，始终把控全局。<br/>你想为自己的 Harness 加点什么？点击链接即可下载 DeepSeek Harness 桌面端 <a href="https://m.weibo.cn/detail/5361173710242484">原微博</a></description>
-    </item>
-    <item>
-      <title>梁斌penny: 阿福是上来了，我身边不少人用阿福了</title>
-      <link>https://weibo.com/1497035431/RpWaI7ZSC</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RpWaI7ZSC</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>梁斌penny</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d71e470c095b35ca.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d71e470c095b35ca.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d71e470c095b35ca.jpg"/><br/>阿福是上来了，我身边不少人用阿福了<br/>转发 @李成东：9月，增长最快的AI原生APP是千问和蚂蚁阿福 #电商资讯#<br/>转发 @李成东：9月，增长最快的AI原生APP是千问和蚂蚁阿福 #电商资讯# <a href="https://m.weibo.cn/detail/5361604416339922">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/d71e470c095b35ca.jpg"/></description>
-    </item>
-    <item>
-      <title>梁斌penny: 这么搞不影响别人出车吗？万一遇到哪家有个病人要过这个通道怎么办。。//@牛叔:[允悲][允悲]//@野狐巉:[生病][生</title>
-      <link>https://weibo.com/1497035431/RpWar8yeV</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RpWar8yeV</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>梁斌penny</author>
-      <category>微博</category>
-      <description>这么搞不影响别人出车吗？万一遇到哪家有个病人要过这个通道怎么办。。<br/>转发 @牛叔：[允悲][允悲]<br/>转发 @野狐巉：[生病][生病][生病]<br/>转发 @笑部长：啥意思呀，趁车主不在的时候自己练习倒库<br/>转发 @笑部长：啥意思呀，趁车主不在的时候自己练习倒库 <a href="https://m.weibo.cn/detail/5361718450192852">原微博</a></description>
-    </item>
-    <item>
-      <title>梁斌penny: 这一点我也体会到了[允悲]//@桂曙光:#势能命运之命#只挑选，不教育，价值观最重要。能力越强，价值观不同时，对组织的破</title>
-      <link>https://weibo.com/1497035431/RpW9SlTZl</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RpW9SlTZl</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>梁斌penny</author>
-      <category>微博</category>
-      <description>这一点我也体会到了[允悲]<br/>转发 @桂曙光：#势能命运之命#只挑选，不教育，价值观最重要。能力越强，价值观不同时，对组织的破坏力越大～<br/>转发 @梁斌penny：张雪是对的，挑选能延迟满足的人[允悲]<br/>转发 @鍋盖頭司令：张雪招聘这事，更验证了一个道理：别教育只筛选。<br/>你跟那些嫌弃工资低的讲什么长期发展、脚踏实地、前进广阔、努力拼搏、先苦后甜……都没啥用。你就是直接他20万50万100万也没用，这人也不会靠谱。很多人都说给我足够的钱，我就能如何如何，纯属扯淡，一个岗位上的人是需要沉淀历练的，就算是给你同样资源同样待遇，你也干不好[挖鼻]。<br/>那些有共同价值观和目标的，你不用苦口婆心教育，也能找到同行人，越走越好越干越顺。深厚的友谊一定是在革命的道路上建立的。<br/>人家没逼你来工作，你也不能逼人家涨工资，相互的。你看不上10万，你去找多的就行，没必要喷人家张雪。<br/>转发 @鍋盖頭司令：张雪招聘这事，更验证了一个道理：别教育只筛选。<br/>你跟那些嫌弃工资低的讲什么长期发展、脚踏实地、前进广阔、努力拼搏、先苦后甜……都没啥用。你就是直接他20万50万100万也没用，这人也不会靠谱。很多人都说给我足够的钱，我就能如何如何，纯属扯淡，一个岗位上的人是需要沉淀历练的，就算是给你同样资源同样待遇，你也干不好[挖鼻]。<br/>那些有共同价值观和目标的，你不用苦口婆心教育，也能找到同行人，越走越好越干越顺。深厚的友谊一定是在革命的道路上建立的。<br/>人家没逼你来工作，你也不能逼人家涨工资，相互的。你看不上10万，你去找多的就行，没必要喷人家张雪。 <a href="https://m.weibo.cn/detail/5361526793830596">原微博</a></description>
-    </item>
-    <item>
-      <title>sniper-china: 早
-吃了一大盘打包的江西米粉。
-不过吃之前，我花了点时间，把小红椒圈全部夹出来。犬子在餐厅打工时，有两天工作就是切辣椒，</title>
-      <link>https://weibo.com/2215128543/RpWwWyUIA</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RpWwWyUIA</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>早<br/>吃了一大盘打包的江西米粉。<br/>不过吃之前，我花了点时间，把小红椒圈全部夹出来。犬子在餐厅打工时，有两天工作就是切辣椒，切到他哭。<br/>小红椒圈这种一般不吃，是调味增味的。绿色椒圈的通常可以吃。</description>
-    </item>
-    <item>
-      <title>sniper-china: 👍，一曲忠诚的赞歌！</title>
-      <link>https://weibo.com/2215128543/RpWy03lDR</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RpWy03lDR</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/99a19e2cbee8f957.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/99a19e2cbee8f957.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/99a19e2cbee8f957.jpg"/><br/>👍，一曲忠诚的赞歌！<br/>转发 @财新网：【珠海国资委表态争取多方协同 协助华发集团应对阶段性挑战】珠海华发集团有限公司近期流动性承压，属地政府设法展开救助，部分纾困措施正逐步落地。<br/>据《21世纪经济报道》2026年11月4日报道，珠海市通过整合重组资源、市场化运作等方式，已落地支持资金超过400亿元；后续还将统筹各类资源近700亿元，全力支持华发集团应对阶段性挑战，推动业务转型升级。珠海市国资委主任邹晖称，珠海持续深化国资国企改革，推进国资布局优化与资源统筹，夯实国有经济压舱石作用。他指出，华发集团当前面临的是阶段性挑战，由行业周期下行叠加历史包袱所造成。珠海国资委不仅要用足用好现有资源，也将积极争取多方协同，全力支持华发集团优化经营结构、加快转型发展，有信心、有决心共同应对好当前的挑战。<br/>华发集团董事长郭瑾同时表示，各方为华发集团应对阶段性挑战提供了有力支撑。华发集团自身也主动作为，在销售端，旗下珠海华发实业股份有限公司抢抓政策窗口期加速去化。2026年前三季度，华发股份实现商品房销售额294.7亿元；在经营端，华发股份加快低效闲置土地盘活与资金回笼，坚决守住保交付、保民生的底线。<br/>据财新此前了解，现阶段，属地政府纾困华发集团主要聚焦两方面，一是安排华发集团出售旗下资产给其他国资企业，尽快筹集资金；另外是协调金融机构为华发集团提供支持。后续，珠海还计划为华发集团提供一定的财政支持，比如通过专项债额度的倾斜，推动存量土地回收等。<br/>转发 @财新网：【珠海国资委表态争取多方协同 协助华发集团应对阶段性挑战】珠海华发集团有限公司近期流动性承压，属地政府设法展开救助，部分纾困措施正逐步落地。<br/>据《21世纪经济报道》2026年11月4日报道，珠海市通过整合重组资源、市场化运作等方式，已落地支持资金超过400亿元；后续还将统筹各类资源近700亿元，全力支持华发集团应对阶段性挑战，推动业务转型升级。珠海市国资委主任邹晖称，珠海持续深化国资国企改革，推进国资布局优化与资源统筹，夯实国有经济压舱石作用。他指出，华发集团当前面临的是阶段性挑战，由行业周期下行叠加历史包袱所造成。珠海国资委不仅要用足用好现有资源，也将积极争取多方协同，全力支持华发集团优化经营结构、加快转型发展，有信心、有决心共同应对好当前的挑战。<br/>华发集团董事长郭瑾同时表示，各方为华发集团应对阶段性挑战提供了有力支撑。华发集团自身也主动作为，在销售端，旗下珠海华发实业股份有限公司抢抓政策窗口期加速去化。2026年前三季度，华发股份实现商品房销售额294.7亿元；在经营端，华发股份加快低效闲置土地盘活与资金回笼，坚决守住保交付、保民生的底线。<br/>据财新此前了解，现阶段，属地政府纾困华发集团主要聚焦两方面，一是安排华发集团出售旗下资产给其他国资企业，尽快筹集资金；另外是协调金融机构为华发集团提供支持。后续，珠海还计划为华发集团提供一定的财政支持，比如通过专项债额度的倾斜，推动存量土地回收等。 <a href="https://m.weibo.cn/detail/5361824406325111">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/99a19e2cbee8f957.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: //@正牌瞎溜达:八元盒饭五元面，毁人不倦毁完散——上次俺在北京听人家说的，而且具有同样功能的还有麻辣烫15元吃到饱等等</title>
-      <link>https://weibo.com/2215128543/RpWE9m4S7</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RpWE9m4S7</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>转发 @正牌瞎溜达：八元盒饭五元面，毁人不倦毁完散——上次俺在北京听人家说的，而且具有同样功能的还有麻辣烫15元吃到饱等等。那人告诉我，或者一起躺平或者同业互相坑害，廉食小门脸已经没有第三条路了。因为什么呢，人家反问：只是因为吃这个的那些低端兄弟姐妹人口们已经不再农村包围城市好几年了还不够吗？<br/>转发 @米瑞蓉：应该还是要卖点其他的吃食，不然真的不好维持了[流汗]<br/>转发 @樊建川：最近，邛崃、大邑冒出的5元一碗的面条，有肉臊子、有鸡蛋、你还可以续面。默其成本: 面条费、鸡蛋费、肉臊费、调料费、铺面租金、人工费用、水费、电费、气费、物管费、餐具费、家具费、装修摊销费还有洗涤、纸巾、牙签、工具等等乱七八糟的杂费。又默，利润肯定还是有的，只是需要走量，量大的话，也许有点搞头。早上好，吃饭了没有？<br/>转发 @樊建川：最近，邛崃、大邑冒出的5元一碗的面条，有肉臊子、有鸡蛋、你还可以续面。默其成本: 面条费、鸡蛋费、肉臊费、调料费、铺面租金、人工费用、水费、电费、气费、物管费、餐具费、家具费、装修摊销费还有洗涤、纸巾、牙签、工具等等乱七八糟的杂费。又默，利润肯定还是有的，只是需要走量，量大的话，也许有点搞头。早上好，吃饭了没有？ <a href="https://m.weibo.cn/detail/5361804747737397">原微博</a></description>
-    </item>
-    <item>
-      <title>sniper-china: 不羡慕不向往，爱谁谁。//@闲猫子:旱的旱死，涝的涝死。大多数人找一个组成俩都怪难的呢…//@乡下宁宁:我说也是，人家三</title>
-      <link>https://weibo.com/2215128543/RpWJnbt7V</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RpWJnbt7V</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0f1d9585f7a99eeb.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0f1d9585f7a99eeb.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/93fb22f7e5cf434d.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0b1648e8fdf36352.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0f1d9585f7a99eeb.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/93fb22f7e5cf434d.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0b1648e8fdf36352.jpg"/><br/>不羡慕不向往，爱谁谁。<br/>转发 @闲猫子：旱的旱死，涝的涝死。大多数人找一个组成俩都怪难的呢…<br/>转发 @乡下宁宁：我说也是，人家三人四人的碍着谁了？吃你家米了？<br/>转发 @JuliaD婷：与此同时，像亿万富翁征收一次性 5% 的财富税（涵盖股票、债券、商业资产等）的法案没有通过。加州人民：我们不要钱，要多人婚姻自由[doge]<br/>转发 @Google一下下：OMG‼️加州创造历史：允许三人行、四人行组合登记为伴侣。 #加州允许三人行四人行登记伴侣#<br/>转发 @Google一下下：OMG‼️加州创造历史：允许三人行、四人行组合登记为伴侣。 #加州允许三人行四人行登记伴侣# <a href="https://m.weibo.cn/detail/5361822833049801">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0b1648e8fdf36352.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/93fb22f7e5cf434d.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/0f1d9585f7a99eeb.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: 我要去试试！</title>
-      <link>https://weibo.com/2215128543/RpWNx8gNK</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RpWNx8gNK</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>我要去试试！<br/>转发 @青松古藤：上海复兴公园一家夜店靠 288 元通票，一年营收做到 1.5 亿美元 彭博商业周刊（Bloomberg Businessweek）刚发了一篇深度特写，主角是上海复兴公园里的七层夜生活综合体 INS 新乐园（INS Land）。<br/>白天，INS 新乐园里有瑜伽馆、咖啡店和健身房。一到夜里，它就变成夜店、电音现场和KTV的集合体。客人花 288 元买一张通票，就能玩遍整栋楼里的所有娱乐项目。<br/>这种模式抓住了关键人群：中国经济增速放缓，年轻人收入承压，许多人开始找更便宜的娱乐方式。288 元通票就成了完美的“穷鬼套餐”。<br/>INS 创始人朱啸虎算过一笔账：一个人在里面玩一晚花的钱，差不多就等于一张通票。很多人一进去就出不来，消费自然就上去了。去年，INS 的营收达到了 1.5 亿美元。<br/>在年轻人消费降级的背景下，通票模式意外地火了。彭博在文章里提到，这可能成为中国夜生活的一个新模式，甚至可能影响到美国的夜店。<br/>更有意思的是，INS 的目标不是夜店常客，而是那些平时不去夜店的人。288 元通票降低了门槛，让更多人愿意来尝试。<br/>不过，这种模式也有风险。通票虽然便宜，但如果客人太多，体验会变差。而且，夜店行业竞争激烈，INS 能不能一直火下去，还不好说。<br/>彭博在文章最后说，INS 的成功证明了一个道理：在经济不好的时候，便宜反而是一种竞争力。只要价格够低，体验够好，年轻人还是愿意花钱的。<br/>转发 @青松古藤：上海复兴公园一家夜店靠 288 元通票，一年营收做到 1.5 亿美元 彭博商业周刊（Bloomberg Businessweek）刚发了一篇深度特写，主角是上海复兴公园里的七层夜生活综合体 INS 新乐园（INS Land）。<br/>白天，INS 新乐园里有瑜伽馆、咖啡店和健身房。一到夜里，它就变成夜店、电音现场和KTV的集合体。客人花 288 元买一张通票，就能玩遍整栋楼里的所有娱乐项目。<br/>这种模式抓住了关键人群：中国经济增速放缓，年轻人收入承压，许多人开始找更便宜的娱乐方式。288 元通票就成了完美的“穷鬼套餐”。<br/>INS 创始人朱啸虎算过一笔账：一个人在里面玩一晚花的钱，差不多就等于一张通票。很多人一进去就出不来，消费自然就上去了。去年，INS 的营收达到了 1.5 亿美元。<br/>在年轻人消费降级的背景下，通票模式意外地火了。彭博在文章里提到，这可能成为中国夜生活的一个新模式，甚至可能影响到美国的夜店。<br/>更有意思的是，INS 的目标不是夜店常客，而是那些平时不去夜店的人。288 元通票降低了门槛，让更多人愿意来尝试。<br/>不过，这种模式也有风险。通票虽然便宜，但如果客人太多，体验会变差。而且，夜店行业竞争激烈，INS 能不能一直火下去，还不好说。<br/>彭博在文章最后说，INS 的成功证明了一个道理：在经济不好的时候，便宜反而是一种竞争力。只要价格够低，体验够好，年轻人还是愿意花钱的。 <a href="https://m.weibo.cn/detail/5361291348940061">原微博</a></description>
-    </item>
-    <item>
-      <title>青祙素: 第三个受访者是William Eckhardt，是第一个把交易从‘凭感觉与直觉’给彻底数学化的大师。他本来在芝大读数理逻</title>
-      <link>https://weibo.com/2109928873/RpWLx30JQ</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2109928873/RpWLx30JQ</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>青祙素</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/87a7432cb533369f.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/87a7432cb533369f.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/87a7432cb533369f.jpg"/><br/>第三个受访者是William Eckhardt，是第一个把交易从‘凭感觉与直觉’给彻底数学化的大师。他本来在芝大读数理逻辑博士，中间换了个导师需要从头再来，他一怒之下到了业界创立了新的门派。<br/>被逐出华山反而成就了他[跪了]。<br/>唉，他可真是个大聪明。他说，价格分布属于“病态分布”，方差远大于正态分布理论所预期的水平。随着你不断加入更多历史数据，算出来的样本方差只会越变越大。<br/>如果这样，绝大多数标准统计方法，在处理价格数据时都是失效的。我们平时用的回归、夏普比率、t 检验，全都默认收益率是正态分布，大涨大跌极其罕见；只要数据足够多，算出来的波动率最后会稳定收敛到一个固定数字。<br/>但金融是厚尾市场，黑天鹅远比正态模型预测的频繁，传统正态假设严重低估尾部风险。（然而那些统计方法我们还在用......）<br/>Eckhardt还认为，大部分的图表规律都是人类的幻觉，比如k线图什么的[揣手]。<br/>真正的图表规律，原则上都可以写成算法被回测；如果没法写成规则交给电脑，那它很大概率只是人的一厢情愿。<br/>市场是厚尾，潜在极端事件没有被穷尽。人类找到的规律，很多只是这一段历史碰巧长这样。<br/>很多量化赚钱，其实是承担了风险，而不是预测了趋势。<br/>但Eckhardt本身就是靠系统化趋势交易赚钱的，没有全盘否定系统，只不过他对系统的认可很苛刻，包括放弃精准风险估值，所以风控要极度保守；不追求解释市场，只是抓住一类反复出现的粗糙倾向/趋势。<br/>#读书少# 《新金融怪杰》（The New Market Wizards） #美股史诗级暴涨#</description>
-    </item>
-    <item>
-      <title>LoneSchicksal: [摊手][摊手]然后跌到了4.8%…//@LoneSchicksal:二季度美国名义GDP同比6.6%… 10年期美债利</title>
-      <link>https://weibo.com/1645776681/RpWxgmTp9</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RpWxgmTp9</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ee4a9c8ed83e13ee.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ee4a9c8ed83e13ee.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ee4a9c8ed83e13ee.jpg"/><br/>[摊手][摊手]然后跌到了4.8%…<br/>转发 @LoneSchicksal：二季度美国名义GDP同比6.6%… 10年期美债利率到5%以上, 隐含的美国实际GDP增速只有不到1%, 低于潜在GDP增速, 这个定价有什么合理性呢? 遑论什么要到6%的逻辑…[摊手][摊手][摊手]<br/>转发 @LoneSchicksal：上周写的一些结论~~<br/>转发 @LoneSchicksal：上周写的一些结论~~ <a href="https://m.weibo.cn/detail/5341931389586089">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ee4a9c8ed83e13ee.jpg"/></description>
-    </item>
-    <item>
-      <title>LoneSchicksal: 民主党人掌控国会, 外交领域是反以, 反俄, 反东大… 地缘政治风险, 可能从中东转到其他方向, 这个是2027年比较大</title>
-      <link>https://weibo.com/1645776681/RpWkS1RiZ</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RpWkS1RiZ</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <description>民主党人掌控国会, 外交领域是反以, 反俄, 反东大… 地缘政治风险, 可能从中东转到其他方向, 这个是2027年比较大的潜在风险…</description>
-    </item>
-    <item>
-      <title>LoneSchicksal: 民主党人掌控国会，可以搞AI产业的具体个人，但是搞不了AI产业本身，因为国会可以通过立法，但是民主党人只是过半，而非达到</title>
-      <link>https://weibo.com/1645776681/RpVN2jQlx</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RpVN2jQlx</guid>
-      <pubDate>Thu, 05 Nov 2026 04:12:01 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <description>民主党人掌控国会，可以搞AI产业的具体个人，但是搞不了AI产业本身，因为国会可以通过立法，但是民主党人只是过半，而非达到三分之二，无法否决总统的否决权。数据中心在美国建不了，可以去海外建，这个在技术上没什么障碍，Anthropic就在澳洲搞数据中心。民主党人大胜是现实经济困境的结果，不代表美国社会向右转的趋势终结，民主党的各路少数族裔，甚至穆斯林背景的候选人当选，只是短期的经济议题超越了其他议题。当然这种情况能持续多久很难说，因为共和党搞关税推高通胀，民主党反AI CAPEX也可能推高失业…</description>
-    </item>
-    <item>
-      <title>松松發文物君: 250元，掀翻韩国国立博物馆馆</title>
-      <link>https://www.xiaohongshu.com/user/profile/5e8754080000000001006d58/6aeb3a4900000000030013a3</link>
-      <guid isPermaLink="false">xhs:6aeb3a4900000000030013a3</guid>
-      <pubDate>Thu, 05 Nov 2026 04:03:16 +0000</pubDate>
-      <author>松松發文物君</author>
-      <category>小红书</category>
-      <description>250元，掀翻韩国国立博物馆馆<br/><br/>250元，掀翻韩国国立博物馆馆长。<br/>他花250元买了幅字，然后丢掉了韩国国立中央博物馆馆长的职位。。。<br/>#博物馆 #文物 #韩国博物馆 #书法<br/>点赞: 8</description>
-    </item>
-    <item>
-      <title>JZClub爵士酒吧(上海店): 一秒进入《猫和老鼠》的世界！经</title>
-      <link>https://www.xiaohongshu.com/user/profile/5fd32f51000000000101e9cd/6ae305b0000000000f01f249</link>
-      <guid isPermaLink="false">xhs:6ae305b0000000000f01f249</guid>
-      <pubDate>Thu, 05 Nov 2026 04:03:16 +0000</pubDate>
-      <author>JZClub爵士酒吧(上海店)</author>
-      <category>小红书</category>
-      <description>一秒进入《猫和老鼠》的世界！经<br/><br/>一秒进入《猫和老鼠》的世界！经典爵士时代<br/>超80年欧洲老牌乐团Dutch Swing College Band现场演出精彩依旧！<br/>#JZClub #上海爵士酒吧 #爵士乐 #爵士 #萨克斯 #上海爵士乐 #汤姆和杰瑞 #猫和老鼠 #爵士音乐会<br/>点赞: 28</description>
-    </item>
-    <item>
-      <title>评述员詹俊: #利物浦[超话]##费内巴切vs利物浦#  费内巴切斗志顽强配得上这场胜利。利物浦两次领先都是五分钟内被扳平，心态和布防</title>
-      <link>https://weibo.com/1664207987/RpUc1cqjP</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1664207987/RpUc1cqjP</guid>
-      <pubDate>Wed, 04 Nov 2026 23:11:25 +0000</pubDate>
-      <author>评述员詹俊</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3942c402918b9805.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3942c402918b9805.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5e81b5db39332d0c.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/55f44fc0aa970577.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3942c402918b9805.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5e81b5db39332d0c.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/55f44fc0aa970577.jpg"/><br/>#利物浦[超话]##费内巴切vs利物浦#  费内巴切斗志顽强配得上这场胜利。利物浦两次领先都是五分钟内被扳平，心态和布防都有问题导致最后被逆转，六次欧冠做客土耳其从未获胜。唯一值得肯定的是19岁小将尼奥尼的表现。伊劳拉执教下的红军仍然有太多缺陷有待改进，进攻不连贯，后防线缺少联系与保护。连续三场欧冠单场丢三球，后场长传球失误多，原来左路防守就薄弱，轮换之下没有阿劳霍右边也成了“漏勺”。本季首次两连败，周末客战水晶宫要小心了！</description>
     </item>
   </channel>
 </rss>
