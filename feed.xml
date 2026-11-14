@@ -4,7 +4,179 @@
     <title>博主更新追踪 (Instagram + 小红书 + 微博)</title>
     <link>https://www.instagram.com/</link>
     <description>Dayou 追踪的 Instagram、小红书与微博博主更新</description>
-    <lastBuildDate>Sat, 14 Nov 2026 00:36:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:59:13 +0000</lastBuildDate>
+    <item>
+      <title>梁斌penny: 小厂不用调整了？躺平等x？[允悲]//@八大山债人:大厂海军先打死小厂厂长？。。。#债见# 。。。</title>
+      <link>https://weibo.com/1497035431/RrjlhtSik</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RrjlhtSik</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>小厂不用调整了？躺平等x？[允悲]<br/>转发 @梁斌penny：海军打法的核心是什么？我思考了两天，大厂都海军打法了，我们小厂怎么配合？ 群众怎么办？ 战士们怎么调整？大家思考了吗[允悲]<br/>转发 @八大山债人：大厂海军先打死小厂厂长？。。。#债见# 。。。<br/>转发 @梁斌penny：海军打法的核心是什么？我思考了两天，大厂都海军打法了，我们小厂怎么配合？ 群众怎么办？ 战士们怎么调整？大家思考了吗[允悲] <a href="https://weibo.com/1497035431/Rrj6O6BpV">原微博</a></description>
+    </item>
+    <item>
+      <title>梁斌penny: 海军打法的核心是什么？我思考了两天，大厂都海军打法了，我们小厂怎么配合？ 群众怎么办？ 战士们怎么调整？大家思考了吗[允</title>
+      <link>https://weibo.com/1497035431/Rrj6O6BpV</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/Rrj6O6BpV</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>海军打法的核心是什么？我思考了两天，大厂都海军打法了，我们小厂怎么配合？ 群众怎么办？ 战士们怎么调整？大家思考了吗[允悲]</description>
+    </item>
+    <item>
+      <title>梁斌penny: 评估的价值非常大，我们自己也评估了，花了好几万，原因和春哥一样[允悲]//@agentzh:回复@visualangle</title>
+      <link>https://weibo.com/1497035431/Rriy1gwbl</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/Rriy1gwbl</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7dd750a5eb11f589.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7dd750a5eb11f589.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9e46565c15cedba0.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a04a122b88139532.jpg" type="image/jpeg" medium="image"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/09db027cea560620.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7dd750a5eb11f589.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9e46565c15cedba0.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a04a122b88139532.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/09db027cea560620.jpg"/><br/>评估的价值非常大，我们自己也评估了，花了好几万，原因和春哥一样[允悲]<br/>转发 @agentzh：Gemini 4 Carbon 的最新评测来了！比 Argon 进步很明显，再和 Claude 放在一起看看。<br/><br/>这次重点看 Google 新版 Carbon，把它与 Argon，以及 Claude Fable 5.2、Opus 5.5 放到我司的 OpenResty Coding Evals（写新代码）和 Bug-Hunting Evals（修困难 bug）两套私有评测中比较质量评分和平均用时。以下数字均以这组六配置对照图为准，和上一篇 Fable 新旧版对照分开看。<br/><br/>1）Carbon 相比 Argon，两项都涨分，也都更费时间。<br/><br/>同为 high，写新代码从 62.6% 提高到 82.6%，增加 20 个百分点；修 bug 从 82.0% 提高到 87.5%，增加 5.5 个百分点。平均用时分别从 14.5、36.3 分钟增至 18.8、49.3 分钟，约多花 30% 和 36% 的时间。<br/><br/>至少在我们这轮任务里，Carbon 的进步相当明显，尤其是写新代码。不过，这些提升也伴随着更长的等待。<br/><br/>2）和 Claude 比，Opus 5.5 xhigh 的质量和用时组合仍然很亮眼。<br/><br/>Opus xhigh 写新代码是 86.8%、14.3 分钟，修 bug 是 88.1%、43.7 分钟，两项都是评分高于 Carbon，用时还更短。Carbon 修 bug 的评分已经比较接近它，写新代码则还有差距。Fable 5.2 xhigh 的两项评分也都高于 Carbon，但用时更长。<br/><br/>3）Fable 5.2 max 写代码拿高分，修 bug 则受超时影响。<br/><br/>Fable 5.2 max 写新代码拿到本组最高的 91.6%，平均用时 76.2 分钟；修 bug 的评分为 79.9%，主要是超时拖低了分数，任务平均耗时至少 116.1 分钟。它的 xhigh 则分别是 87.2%、28.6 分钟，以及 90.6%、74.8 分钟。修 bug 的评分与 Opus max 的 90.6% 相同，用时也几乎一样（Opus max 为 75.0 分钟）。<br/><br/>这次 Carbon 比 Argon 前进了一大步，而 Claude 的不同档位也各有取舍。新模型和更高推理强度，到底能换来多少质量提升、要多等多久，还是得用自己的任务来验证呀 [笑cry]<br/><br/>#Gemini##大模型评测##AI编程#<br/>转发 @agentzh：回复@visualangle:用于公司内部模型的选型。我们的 token 预算很大，这些评测花不了太多 token 的。同时也不用我花时间，连这几条微博都是我的 AI agent 自动发的，模仿我的语气。[哈哈]<br/>转发 @visualangle：春哥，花时间精力金钱，一直做这个评估的意义是什么？一直没有明白[嘻嘻]<br/>转发 @agentzh：Gemini 4 Carbon 的最新评测来了！比 Argon 进步很明显，再和 Claude 放在一起看看。<br/><br/>这次重点看 Google 新版 Carbon，把它与 Argon，以及 Claude Fable 5.2、Opus 5.5 放到我司的 OpenResty Coding Evals（写新代码）和 Bug-Hunting Evals（修困难 bug）两套私有评测中比较质量评分和平均用时。以下数字均以这组六配置对照图为准，和上一篇 Fable 新旧版对照分开看。<br/><br/>1）Carbon 相比 Argon，两项都涨分，也都更费时间。<br/><br/>同为 high，写新代码从 62.6% 提高到 82.6%，增加 20 个百分点；修 bug 从 82.0% 提高到 87.5%，增加 5.5 个百分点。平均用时分别从 14.5、36.3 分钟增至 18.8、49.3 分钟，约多花 30% 和 36% 的时间。<br/><br/>至少在我们这轮任务里，Carbon 的进步相当明显，尤其是写新代码。不过，这些提升也伴随着更长的等待。<br/><br/>2）和 Claude 比，Opus 5.5 xhigh 的质量和用时组合仍然很亮眼。<br/><br/>Opus xhigh 写新代码是 86.8%、14.3 分钟，修 bug 是 88.1%、43.7 分钟，两项都是评分高于 Carbon，用时还更短。Carbon 修 bug 的评分已经比较接近它，写新代码则还有差距。Fable 5.2 xhigh 的两项评分也都高于 Carbon，但用时更长。<br/><br/>3）Fable 5.2 max 写代码拿高分，修 bug 则受超时影响。<br/><br/>Fable 5.2 max 写新代码拿到本组最高的 91.6%，平均用时 76.2 分钟；修 bug 的评分为 79.9%，主要是超时拖低了分数，任务平均耗时至少 116.1 分钟。它的 xhigh 则分别是 87.2%、28.6 分钟，以及 90.6%、74.8 分钟。修 bug 的评分与 Opus max 的 90.6% 相同，用时也几乎一样（Opus max 为 75.0 分钟）。<br/><br/>这次 Carbon 比 Argon 前进了一大步，而 Claude 的不同档位也各有取舍。新模型和更高推理强度，到底能换来多少质量提升、要多等多久，还是得用自己的任务来验证呀 [笑cry]<br/><br/>#Gemini##大模型评测##AI编程#<br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/09db027cea560620.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a04a122b88139532.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9e46565c15cedba0.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7dd750a5eb11f589.jpg"/></description>
+    </item>
+    <item>
+      <title>梁斌penny: 国内随便买</title>
+      <link>https://weibo.com/1497035431/RrivlcycO</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RrivlcycO</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>梁斌penny</author>
+      <category>微博</category>
+      <description>国内随便买<br/>转发 @八大山债人：美国机房建得太猛了，我想在网上找一个 30 口的 PDU 电源都很难找到，连二手的都难找……好不容易在一家厂商官网上下了单，结果过几天又给我取消了，说是没现货了……[泪]<br/>转发 @八大山债人：美国机房建得太猛了，我想在网上找一个 30 口的 PDU 电源都很难找到，连二手的都难找……好不容易在一家厂商官网上下了单，结果过几天又给我取消了，说是没现货了……[泪]</description>
+    </item>
+    <item>
+      <title>sniper-china: #伟大的长征# 第五十九集
+
+张国焘还在做最后的努力，试图在甘肃西进青海，打通到新疆的国际援助通道，而不是北上陕北。
+
+</title>
+      <link>https://weibo.com/2215128543/RrkcLghxp</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RrkcLghxp</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>#伟大的长征# 第五十九集<br/><br/>张国焘还在做最后的努力，试图在甘肃西进青海，打通到新疆的国际援助通道，而不是北上陕北。<br/><br/>电视剧里，他单独约了陈昌浩谈话、陈强烈反对、无果。张仰天长啸，我，D的创始人呢之一，如今这个下场！<br/><br/>以上是电视剧表达。<br/><br/>真实的历史，确有其事，徐向前同志同意西进，提出走河西走廊（大致类似西路军路线），这个和张提议只是策略差别。陈昌浩反而激烈反对，朱德亲自勘探，说大雪封山，无法西渡黄河。红四将领们是站张的，这个容易理解。<br/><br/>电视剧里说，张说他们会开除我党籍、审判我，枪毙我！<br/><br/>陈昌浩表情你们自己看。<br/><br/>真实的历史是，张出走西安，再去武汉，最终投蒋。<br/><br/>陈呢，西路军失败后过了段时间才回延安，退出一线。建国后当过副部长，运动前夕自杀。</description>
+    </item>
+    <item>
+      <title>sniper-china: 回复@涂暖安宁:并不是 针对你的贵得离谱 蛇口确实不是深圳核心区//@涂暖安宁:蛇口都不在里面。蛇口房子贵的离谱[二哈]</title>
+      <link>https://weibo.com/2215128543/Rrk9gnRab</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rrk9gnRab</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/84baff06bd26d74c.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/84baff06bd26d74c.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/84baff06bd26d74c.jpg"/><br/>回复@涂暖安宁:并不是 针对你的贵得离谱 蛇口确实不是深圳核心区<br/>转发 @涂暖安宁：蛇口都不在里面。蛇口房子贵的离谱[二哈]<br/>转发 @sniper-china：是的，深圳内环线。<br/>转发 @桌总：深圳核心区。。。<br/>转发 @午后狂睡：哈哈哈哈哈<br/>转发 @馮偉文：[柯基]新深圳市中心以及买房范围指南<br/>转发 @馮偉文：[柯基]新深圳市中心以及买房范围指南<br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/84baff06bd26d74c.jpg"/></description>
+    </item>
+    <item>
+      <title>sniper-china: 警告：多人运动违法。</title>
+      <link>https://weibo.com/2215128543/Rrk2gqV8R</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/Rrk2gqV8R</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>警告：多人运动违法。<br/>转发 @八大山债人：stand with jensen！！ fcuk with jensen！！。。。黄仁勋千岁！！。。#债见# 。。。<br/>转发 @八大山债人：stand with jensen！！ fcuk with jensen！！。。。黄仁勋千岁！！。。#债见# 。。。</description>
+    </item>
+    <item>
+      <title>sniper-china: 他找了黄乐就是为了学中文！//@绍兴黄酒:哈哈哈哈哈哈哈第一次听老黄讲这么多中文[笑cry][笑cry]，其实他的发音很</title>
+      <link>https://weibo.com/2215128543/RrjFvhswU</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RrjFvhswU</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/701c9cb7aa332d85.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/701c9cb7aa332d85.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/701c9cb7aa332d85.jpg"/><br/>他找了黄乐就是为了学中文！<br/>转发 @52赫兹实验室：回顾英伟达首次全中文显卡发布会，对比黄仁勋如今中文水平 http://t.cn/AXYmpX7p<br/>转发 @绍兴黄酒：哈哈哈哈哈哈哈第一次听老黄讲这么多中文[笑cry][笑cry]，其实他的发音很好啊，完全是母语级别的发音，但是语法里面好多台湾语法和英语语法，比如“给我帮忙”(就是英文的give me some help的逐字翻译[笑cry][笑cry]<br/>转发 @52赫兹实验室：回顾英伟达首次全中文显卡发布会，对比黄仁勋如今中文水平 http://t.cn/AXYmpX7p<br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/701c9cb7aa332d85.jpg"/></description>
+    </item>
+    <item>
+      <title>sniper-china: 儿子把卤好五花肉吃了很多。给面子，肥肠他不怎么吃，正好我留着自己慢慢享用。卤蛋他也不吃，反正是我最爱，我自己来。
+
+我回</title>
+      <link>https://weibo.com/2215128543/RrjEe3PsK</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RrjEe3PsK</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>sniper-china</author>
+      <category>微博</category>
+      <description>儿子把卤好五花肉吃了很多。给面子，肥肠他不怎么吃，正好我留着自己慢慢享用。卤蛋他也不吃，反正是我最爱，我自己来。<br/><br/>我回到燕园读书第一年，先严来北京出差、给我带了些地方水果，我们那冰糖柑出名，如今不行了，没错、张雪机车那一片湘西。<br/><br/>给我一个大搪瓷缸子，里面有十个卤蛋，是先慈手作的，他嘀咕了一句，跟别人学的作卤菜。是啊，印象里，家里没做过卤菜，甚至也没怎么买过，我也不记得中学时街上有卖卤菜的，那个年代普遍穷。<br/><br/>冬天，几十个小时火车折腾，卤蛋倒也不会坏，<br/><br/>我陪先严去食堂吃饭，并没有买1.6元的小炒，就是普通大锅菜，干烧肉，四毛一份。想想两年后未来岳父岳母一家人来，我顿顿请小炒或外面下馆子，一次好几个菜，觉得有点对不住老爹。<br/><br/>晚上正常自习，睡了后，醒了，想起还有十个卤蛋，叫醒上铺上海同学，两人各吃了两个。次日早上，同宿舍六人一人一个。over。<br/><br/>那是我吃过最好的卤蛋。香气馥郁，卤香渗入鸡蛋蛋黄，冬天气温低，一点卤水凝固附在鸡蛋上，形成有滋味的薄膜，一口咬下去增味增香。</description>
+    </item>
+    <item>
+      <title>LoneSchicksal: 致NVIDIA董事会的一封公开信 | Stand with Jensen http://t.cn/AXYuHo8u</title>
+      <link>https://weibo.com/1645776681/RrjXCDnKj</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RrjXCDnKj</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <description>致NVIDIA董事会的一封公开信 | Stand with Jensen http://t.cn/AXYuHo8u</description>
+    </item>
+    <item>
+      <title>LoneSchicksal: Repost</title>
+      <link>https://weibo.com/1645776681/RrjUs8nYq</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RrjUs8nYq</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <description>转发 @华尔街见闻APP：【英伟达物色新CEO，接触Arm CEO Rene Haas，其曾是黄仁勋门生】据报道，Arm首席执行官Rene Haas因曾在英伟达任职七年、与黄仁勋关系密切而成为热门候选人。内部候选人包括代理CEO Colette Kress及CUDA之父Ian Buck，外部候选人涵盖苏姿丰、Sanjay Mehrotra等。<br/>http://t.cn/AXY1zxQi<br/>转发 @华尔街见闻APP：【英伟达物色新CEO，接触Arm CEO Rene Haas，其曾是黄仁勋门生】据报道，Arm首席执行官Rene Haas因曾在英伟达任职七年、与黄仁勋关系密切而成为热门候选人。内部候选人包括代理CEO Colette Kress及CUDA之父Ian Buck，外部候选人涵盖苏姿丰、Sanjay Mehrotra等。<br/>http://t.cn/AXY1zxQi</description>
+    </item>
+    <item>
+      <title>LoneSchicksal: 转发微博</title>
+      <link>https://weibo.com/1645776681/RriLxBeYg</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RriLxBeYg</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/94317e8d80b4202e.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/94317e8d80b4202e.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/94317e8d80b4202e.jpg"/><br/>转发 @财联社APP：#前十个月住户存款增加8.47万亿##非银行业金融机构存款增加5.99万亿#【央行：前十个月住户存款增加8.47万亿元 非银行业金融机构存款增加5.99万亿元】财联社11月13日电，央行发布数据，10月末，本外币存款余额358.81万亿元，同比增长7.8%。月末人民币存款余额350.65万亿元，同比增长7.7%。前十个月人民币存款增加21.97万亿元。其中，住户存款增加8.47万亿元，非金融企业存款增加1.91万亿元，财政性存款增加3.03万亿元，非银行业金融机构存款增加5.99万亿元。10月末，外币存款余额1.22万亿美元，同比增长16.9%。前十个月外币存款增加1553亿美元。<br/>转发 @财联社APP：#前十个月住户存款增加8.47万亿##非银行业金融机构存款增加5.99万亿#【央行：前十个月住户存款增加8.47万亿元 非银行业金融机构存款增加5.99万亿元】财联社11月13日电，央行发布数据，10月末，本外币存款余额358.81万亿元，同比增长7.8%。月末人民币存款余额350.65万亿元，同比增长7.7%。前十个月人民币存款增加21.97万亿元。其中，住户存款增加8.47万亿元，非金融企业存款增加1.91万亿元，财政性存款增加3.03万亿元，非银行业金融机构存款增加5.99万亿元。10月末，外币存款余额1.22万亿美元，同比增长16.9%。前十个月外币存款增加1553亿美元。<br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/94317e8d80b4202e.jpg"/></description>
+    </item>
+    <item>
+      <title>LoneSchicksal: 转发微博</title>
+      <link>https://weibo.com/1645776681/RriJHigoe</link>
+      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RriJHigoe</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:59 +0000</pubDate>
+      <author>LoneSchicksal</author>
+      <category>微博</category>
+      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b15b00496d12093a.jpg" type="image/jpeg"/>
+      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b15b00496d12093a.jpg" type="image/jpeg" medium="image"/>
+      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b15b00496d12093a.jpg"/><br/>转发 @华尔街见闻APP：【通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队】OpenAI称，公司研究人员原本认为，推进机器人技术的最佳方式是建立在Sora等模型的研究成果之上，但此后发现GPT-6 Astra等通用前沿模型已经展现出直接应用于机器人领域的能力，这促使公司解散独立机器人团队，将相关研究人员转移至更广泛的通用AI模型研发团队。详见网页链接<br/>转发 @华尔街见闻APP：【通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队】OpenAI称，公司研究人员原本认为，推进机器人技术的最佳方式是建立在Sora等模型的研究成果之上，但此后发现GPT-6 Astra等通用前沿模型已经展现出直接应用于机器人领域的能力，这促使公司解散独立机器人团队，将相关研究人员转移至更广泛的通用AI模型研发团队。详见网页链接<br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b15b00496d12093a.jpg"/></description>
+    </item>
+    <item>
+      <title>爵士上海JZ Music（悦色演艺）: 徐之曈和小黑猫的对话</title>
+      <link>https://www.xiaohongshu.com/explore/6af2f3b80000000016018981</link>
+      <guid isPermaLink="false">xhs:https://www.xiaohongshu.com/explore/6af2f3b80000000016018981</guid>
+      <pubDate>Sat, 14 Nov 2026 04:11:55 +0000</pubDate>
+      <author>爵士上海JZ Music（悦色演艺）</author>
+      <category>小红书</category>
+      <description>徐之曈和小黑猫的对话<br/><br/>为什么一只小黑猫要去面对大怪兽？徐之曈想和大家用音乐讲这个故事，快来听听他和“小黑猫”的对话。<br/><br/>Why does a little black cat have to face a giant monster?<br/>I want to tell this story through music.<br/>Come listen to the conversation between me and the “little black cat.”<br/><br/>JZ Records from JZ Music呈现<br/>#徐之曈 #迷路的猫LostCat #徐之曈鼓诗 #JZRecords #中国爵士力量 #JZMusic #有音乐真好 #去见耳机里的人 #新歌已送达 #我的宝藏歌单<br/>点赞: 11</description>
+    </item>
+    <item>
+      <title>爵士上海JZ Music（悦色演艺）: 中国首位爵士鼓博士🥁首张专辑先行曲释出❗</title>
+      <link>https://www.xiaohongshu.com/explore/6aed86e00000000009002650</link>
+      <guid isPermaLink="false">xhs:https://www.xiaohongshu.com/explore/6aed86e00000000009002650</guid>
+      <pubDate>Sat, 14 Nov 2026 04:11:55 +0000</pubDate>
+      <author>爵士上海JZ Music（悦色演艺）</author>
+      <category>小红书</category>
+      <description>中国首位爵士鼓博士🥁首张专辑先行曲释出❗<br/><br/>🐈⬛ 当一只迷路的黑猫决定反抗：<br/>中国爵士鼓演奏家、作曲家@徐之曈ZhitongXu 携乐队Zhitong Xu·X SHAPE，推出全新单曲『迷路的猫Lost Cat』及MV正式上线！<br/><br/>作为首张原创专辑『X SHAPE·逍遥盼 Unfettered Hope』的先行作品，『迷路的猫Lost Cat』以当代爵士讲述关于迷失、勇气与希望的“成人童话”✨<br/><br/>💿 11月20日，全专正式发行<br/>🪄 或许我们都会迷路，但这一次让我们选择勇敢。<br/><br/>#JZMusic #JZRecords #徐之曈 #爵士乐 #新歌上线 #音乐分享 #迷路的猫LostCat #徐之曈鼓诗 #中国爵士力量<br/>点赞: 16</description>
+    </item>
+    <item>
+      <title>JZClub爵士酒吧(上海店): 英国爵士钢琴家新世代拉丁爵士明晚登场！</title>
+      <link>https://www.xiaohongshu.com/explore/6af6cb28000000002a012efa</link>
+      <guid isPermaLink="false">xhs:https://www.xiaohongshu.com/explore/6af6cb28000000002a012efa</guid>
+      <pubDate>Sat, 14 Nov 2026 04:11:55 +0000</pubDate>
+      <author>JZClub爵士酒吧(上海店)</author>
+      <category>小红书</category>
+      <description>英国爵士钢琴家新世代拉丁爵士明晚登场！<br/><br/>Daniel Costa的原创爵士音乐中，积淀着与世界顶尖爵士乐手合作的厚实，更能觅得其遍布六大洲演奏经历的丰富，其《Encaminho》曾由All About Jazz评为年度最受欢迎爵士乐曲之一；<br/>与John Patitucci, Mike Stern, Dave Liebman 等爵士传奇共同录制的《Beams》更在2024年全球音乐奖上荣获金牌<br/>为其在世界级的钢琴家及作曲家之中，占领了一席之地。<br/><br/>世界级爵士钢琴家Daniel Costa即将在2026年底首次将其踏遍六大洲的足迹扩至亚洲开启<br/>「丹尼尔·科斯塔 拉丁四重奏专辑巡演：“新世代拉丁爵士声响”」<br/>其中11月14日 19:00-21:00<br/>Daniel将携四重奏<br/>在上海JZ Club启动上海站巡演<br/>#jazz #jzclub #爵士酒吧 #爵士钢琴 #上海第一爵士乐现场 #有音乐真好 #我的宝藏歌单<br/>点赞: 2</description>
+    </item>
+    <item>
+      <title>JZClub爵士酒吧(上海店): 再回顾！欧洲爵士乐坛传奇WolfgangHaffner</title>
+      <link>https://www.xiaohongshu.com/explore/6af6baab0000000016032e14</link>
+      <guid isPermaLink="false">xhs:https://www.xiaohongshu.com/explore/6af6baab0000000016032e14</guid>
+      <pubDate>Sat, 14 Nov 2026 04:11:55 +0000</pubDate>
+      <author>JZClub爵士酒吧(上海店)</author>
+      <category>小红书</category>
+      <description>再回顾！欧洲爵士乐坛传奇WolfgangHaffner<br/><br/>#jzclub #jazz #爵士酒吧 #爵士大师 #上海第一爵士乐现场 #看con计划 #爵士乐 #有音乐真好 #去见耳机里的人<br/>点赞: 7</description>
+    </item>
     <item>
       <title>小白哥乌拉诺斯: 欧洲真的很全面的在宣传给他爱[doge]
 R星最新款给他爱，11/18发售</title>
@@ -1684,212 +1856,6 @@ Three Big Dex exclusives across ABSOLUTE BATMAN </title>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b1361802d65adc04.jpg" type="image/jpeg" medium="image"/>
       <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c4f845c50004182d.jpg" type="image/jpeg" medium="image"/>
       <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b1361802d65adc04.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c4f845c50004182d.jpg"/><br/>传说黄乐女士毕业于此。她比我们年轻点。但江南机器厂勾起点回忆，<br/><br/>这个地方啊，我还算熟悉。王老师家是湘潭下面县城，她姐姐姐夫医学院毕业后都在湘潭工作。我自己的一个发小，也在这。这个是当地重点最大的国企之一！除了湘钢就是这家了。我在湘潭小住过几次，尤其是暑假寒假。最后还是说吧，我发小和这个厂领导的女儿谈过恋爱！小女生哭哭滴滴的找我哥们，深夜也不走！那个年代纯真啊！时隔多年我问发小，他竟然说，现在她很胖了！男人啊，也是不同的，我旁观者都，我见犹怜！</description>
-    </item>
-    <item>
-      <title>青祙素: ……并没有什么出轨。 </title>
-      <link>https://weibo.com/2109928873/RqRSky4ZS</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2109928873/RqRSky4ZS</guid>
-      <pubDate>Wed, 11 Nov 2026 05:22:10 +0000</pubDate>
-      <author>青祙素</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/fda79bce80a9358b.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/fda79bce80a9358b.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/07aad4afc7823092.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/fda79bce80a9358b.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/07aad4afc7823092.jpg"/><br/>……并没有什么出轨。 </description>
-    </item>
-    <item>
-      <title>青祙素: 在红皇后的国度里，你必须拼命奔跑才能留在原地。
-
-对初代量化大神的访谈，继续。h</title>
-      <link>https://weibo.com/2109928873/RqRsUwzEq</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2109928873/RqRsUwzEq</guid>
-      <pubDate>Wed, 11 Nov 2026 05:22:10 +0000</pubDate>
-      <author>青祙素</author>
-      <category>微博</category>
-      <description>在红皇后的国度里，你必须拼命奔跑才能留在原地。<br/><br/>对初代量化大神的访谈，继续。http://t.cn/AXYWZPiw<br/><br/>现在越来越多专业资金扎堆做量化交易，会不会把这个策略给卷死。<br/><br/>埃克哈特：这个问题很难回答，因为有两类证据，指向完全相反结论：<br/><br/>1. 定量统计证据：历史回测显示，这类交易系统至今仍然有效；<br/><br/>2. 定性逻辑证据：如果量化交易者足够多，本身就会改变市场，让这套办法再也赚不到钱。<br/><br/>两套证据没法放到同一个标尺里比较权重，所以不能简单说哪一方赢。<br/><br/>不过两个说法未必互相排斥。量化交易者还有一个老朋友：人性。人的本能没变，永远有人凭感觉，凭情绪交易；但这场游戏，毫无疑问是越来越难了。<br/><br/>现实正如《爱丽丝梦游仙境》，在红皇后的国度，你必须拼命奔跑才能留在原地。<br/><br/>量化赛道内卷极其激烈。你也要不停地迭代打磨你的策略，才能保住你原有的位置，不至于被其他人卷出局。<br/><br/>#读书少# 《新金融怪杰》（The New Market Wizards）<br/>转发 @青祙素：上次说到对广义量化大神William Eckhardt 的访谈，Eckhardt表示K线图之类的图表没什么用。http://t.cn/AXY48JM8<br/><br/>他接着说，很多交易系统也没什么用，如果有用，做系统的直接用来炒股就发财了，用不着苦哈哈地卖系统。<br/><br/>给逆向投资和超买/超卖技术指标都泼了冷水[期待]。<br/><br/>关于“逆向投资（Contrary Opinion）”：<br/><br/>很多人信奉“别人贪婪我恐惧，别人恐惧我贪婪”，喜欢在市场极度乐观时做空，极度悲观时抄底。<br/><br/>反直觉的实证结果是顺势往往胜过盲目逆势。 极端看多往往意味着强劲趋势的延续，而不是马上见顶。 <br/><br/>RSI（相对强弱指数），Stochastics（随机指标）这类散户最爱用的超买/超卖指标基本一文不值。因为在真正的趋势行情中，市场可以长期处于“超买而不跌”或“超卖而不涨”的状态，机械地根据这些指标进出场，只会让交易员在震荡中频繁割肉，在趋势中过早下车。 <br/><br/>还批判了市场周期分析（Cyclical Analysis）。（所有的技术预测手段就没有个靠谱的…...[努力]）<br/><br/>Eckhardt 说，自 19世纪末法国数学家Louis Bachelier开创性地将傅里叶分析引入市场价格研究以来，历经多次尝试，科学界始终未能从价格数据中发现任何系统性的循环成分。 <br/><br/>如果你允许周期随意伸缩跳拍甚至反转，就像那些周期狂热者做的那样，你完全可以把纯粹随机的波形强行套进任何正弦波里。从严谨的统计学角度来看，这些所谓的周期规律和随机噪音没有任何区别。 <br/><br/>关于“AI能否成功用于交易”。<br/><br/>Eckhardt 说，AI 终将全面超越人类。 硅基能够实现人类无法企及的计算能力，且完美摆脱了人类生理和情绪上的局限性。<br/><br/>这是上世纪 90 年代初。<br/><br/>#读书少# 《新金融怪杰》The New Market Wizards<br/><br/> #英伟达市值一夜蒸发1.29万亿元# <a href="https://weibo.com/2109928873/RqHNB9x9U">原微博</a></description>
-    </item>
-    <item>
-      <title>LoneSchicksal: Walller直言需要收回去年三次预防性降息… 但是这不意味着要加息100-20</title>
-      <link>https://weibo.com/1645776681/RqQkT6bfo</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RqQkT6bfo</guid>
-      <pubDate>Wed, 11 Nov 2026 05:22:10 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/775596827b2c42e7.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/775596827b2c42e7.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/775596827b2c42e7.jpg"/><br/>Walller直言需要收回去年三次预防性降息… 但是这不意味着要加息100-200bps. 如果9月份加息25bps, 12月份加息25bps, 那么2027年就只有一次加息, 如果12月份加息50个基点, 那么2027年就是全年hold. 如同2025年上半年, 各个期限的实际利率大幅回落以后, 继续降息一样, 2026年下半年, 各个期限的实际利率大幅走高以后, 继续加息, 可能未来也要撤回… [摊手][摊手] CPI数据+Waller的发言, 促使2年期美债利率回升到4.7%以上, 10年期美债利率回升到5%附近, 但是后者和前者的利差只有26bps, 上周五还有34bps… 加息操作对于长端利率的带动作用其实更弱了…</description>
-    </item>
-    <item>
-      <title>bloodydale2026: Happy Birthday &amp; 16th Anniversary 小朋友生日快乐呀🎊 #shanghailife</title>
-      <link>https://www.instagram.com/p/DfmkDhxGBpI/</link>
-      <guid isPermaLink="false">ig:18139181974636343</guid>
-      <pubDate>Wed, 11 Nov 2026 05:14:06 +0000</pubDate>
-      <author>Bloodydale Yang</author>
-      <category>Instagram</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/8631669e7de5a3dd.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/8631669e7de5a3dd.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/8631669e7de5a3dd.jpg"/><br/>Happy Birthday &amp; 16th Anniversary 小朋友生日快乐呀🎊 #shanghailife</description>
-    </item>
-    <item>
-      <title>bloodydale2026: #shanghailife</title>
-      <link>https://www.instagram.com/p/DfmGL7kGAn8/</link>
-      <guid isPermaLink="false">ig:17976795588160991</guid>
-      <pubDate>Wed, 11 Nov 2026 00:53:07 +0000</pubDate>
-      <author>Bloodydale Yang</author>
-      <category>Instagram</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b9f566632a56662f.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b9f566632a56662f.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b9f566632a56662f.jpg"/><br/>#shanghailife</description>
-    </item>
-    <item>
-      <title>小白哥乌拉诺斯: 见证历史[doge] Takara Tomy宣布了重新设计的品牌Logo。目前的</title>
-      <link>https://weibo.com/1918541453/RqMMPhvNG</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1918541453/RqMMPhvNG</guid>
-      <pubDate>Tue, 10 Nov 2026 23:34:51 +0000</pubDate>
-      <author>小白哥乌拉诺斯</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a3d5cd04df5340fc.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a3d5cd04df5340fc.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/cb9762d76562f929.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e1170382972edbc3.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b8813545a8df9f96.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a3d5cd04df5340fc.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/cb9762d76562f929.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/e1170382972edbc3.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b8813545a8df9f96.jpg"/><br/>见证历史[doge] Takara Tomy宣布了重新设计的品牌Logo。目前的标志在使用21年后将于2027年4月1日退役。图案是“Asobi”的变体，指的是Takara的旧口号あそびは文化（玩就是文化）。</description>
-    </item>
-    <item>
-      <title>小白哥乌拉诺斯: 万代分分钟教你做人[doge] BANDAI 2026年11月13日发售：DX超</title>
-      <link>https://weibo.com/1918541453/RqMKpvR1d</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1918541453/RqMKpvR1d</guid>
-      <pubDate>Tue, 10 Nov 2026 23:34:51 +0000</pubDate>
-      <author>小白哥乌拉诺斯</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/91a97bfb1c7c3eac.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/91a97bfb1c7c3eac.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b4cdbd960558615e.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a0ecd875ef356d38.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/48a7636fabff92f7.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a645644ca8beb7ba.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7164a396796eb7c9.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c02eeedb3c364bc7.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5fbd2fedb785eeb9.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a12aabbbcee7e39b.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7125f64dd5a5b574.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f906b24ae44d9365.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ebbdf174493ad1c1.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/91a97bfb1c7c3eac.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/b4cdbd960558615e.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a0ecd875ef356d38.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/48a7636fabff92f7.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a645644ca8beb7ba.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7164a396796eb7c9.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c02eeedb3c364bc7.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/5fbd2fedb785eeb9.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/a12aabbbcee7e39b.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/7125f64dd5a5b574.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/f906b24ae44d9365.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/ebbdf174493ad1c1.jpg"/><br/>万代分分钟教你做人[doge] BANDAI 2026年11月13日发售：DX超合金 1/2000 TV版《超时空要塞》SDF-1 Macross 母舰… 定价90,000日元</description>
-    </item>
-    <item>
-      <title>梁斌penny: 按照我对xx的理解，夫妻两人不赔个10万事情结束不了，太冲动了[泪]</title>
-      <link>https://weibo.com/1497035431/RqPhkjRuj</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1497035431/RqPhkjRuj</guid>
-      <pubDate>Tue, 10 Nov 2026 23:34:51 +0000</pubDate>
-      <author>梁斌penny</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c3f31f39fef1c5ab.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c3f31f39fef1c5ab.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c3f31f39fef1c5ab.jpg"/><br/>按照我对xx的理解，夫妻两人不赔个10万事情结束不了，太冲动了[泪]<br/>转发 @百姓关注：#女子争执后朝孩子吐口水遭家长暴打# 11月9日（发布），江苏南京建邺吾悦广场，一名黑衣女子与一对带着孩子的夫妻发生争执。保安上前调停后，夫妻俩准备带孩子离开。没想到黑衣女子竟追上来，先朝夫妻俩吐口水，见对方没理会，女子竟弯腰朝旁边的小朋友吐口水。这一下彻底激怒了孩子的父母，两人冲上去与该女子扭打在一起，旁边保安赶紧上前拉架。（来源：阳信融媒） [百姓关注的微博视频] <a href="https://weibo.com/1647210043/RqLpEAn78">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c3f31f39fef1c5ab.jpg"/></description>
-    </item>
-    <item>
-      <title>sniper-china: 😄就喜欢看正佬训二货//@正牌瞎溜达:您胡扯。那个词是Volkspolizei。</title>
-      <link>https://weibo.com/2215128543/RqMWgc2di</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqMWgc2di</guid>
-      <pubDate>Tue, 10 Nov 2026 23:34:51 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3fbef50182c20a7b.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3fbef50182c20a7b.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3fbef50182c20a7b.jpg"/><br/>😄就喜欢看正佬训二货<br/>转发 @sniper-china：😄就喜欢看正佬训二货<br/>转发 @正牌瞎溜达：您胡扯。那个词是Volkspolizei。是用Volks和polizei辍合的，怎么翻译成您以为的“公民民兵”？Volks是人民（包括非公民）的，polizei警察（有半执法权的社会秩序维护者），没有放“公民民兵”的地方。还直译呢，您连起码的德文都不会，爬。<br/>转发 @亚德里亚海边的新兵：如果是直译的话，应该是东德公民民兵。<br/>转发 @正牌瞎溜达：斯大爷时代批准拥有大炮，装甲车，突击步枪和机关枪及手雷的东德人民警察；赫鲁小秃时代决定将警衔与军衔直接平行互换但是制服颜色必须不同的东德人民警察；勃列日涅夫时代要求准尉以上警官必须都是党员，所有非党员必须公开宣誓忠于党和忠于主义及忠于工农，然后才是忠于国家的人民警察。<br/>转发 @塔影巷：1960年代，东德人民警察<br/>转发 @正牌瞎溜达：@正牌瞎溜达:您胡扯。那个词是Volkspolizei。是用Volks和polizei辍合的，怎么翻译成您以为的“公民民兵”？Volks是人民（包括非公民）的，polizei警察（有半执法权的社会秩序维护者），没有放“公民民兵”的地方。还直译呢，您连起码的德文都不会，爬。//@亚德里亚海边的新兵:如果是直译的话，应该是东德公民民兵。//@正牌瞎溜达:斯大爷时代批准拥有大炮，装甲车，突击步枪和机关枪及手雷的东德人民警察；赫鲁小秃时代决定将警衔与军衔直接平行互换但是制服颜色必须不同的东德人民警察；勃列日涅夫时代要求准尉以上警官必须都是党员，所有非党员必须公开宣誓忠于党和忠于主义及忠于工农，然后才是忠于国家的人民警察。//@塔影巷:1960年代，东德人民警察 <a href="https://weibo.com/5623180299/RqMht0HIu">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3fbef50182c20a7b.jpg"/></description>
-    </item>
-    <item>
-      <title>bloodydale2026: #shanghailife #scaletrains #trainweatheing</title>
-      <link>https://www.instagram.com/p/Dfl7DchGLv-/</link>
-      <guid isPermaLink="false">ig:17987348007092624</guid>
-      <pubDate>Tue, 10 Nov 2026 23:15:50 +0000</pubDate>
-      <author>Bloodydale Yang</author>
-      <category>Instagram</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/99be42399aea9147.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/99be42399aea9147.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/99be42399aea9147.jpg"/><br/>#shanghailife #scaletrains #trainweatheing</description>
-    </item>
-    <item>
-      <title>linahu5415</title>
-      <link>https://www.instagram.com/p/Dflo8EDhXFCFfoZYTn-XQ4TsYRVBU5ZTrlL6FU0/</link>
-      <guid isPermaLink="false">ig:18416590609090191</guid>
-      <pubDate>Tue, 10 Nov 2026 20:37:36 +0000</pubDate>
-      <author>Mia</author>
-      <category>Instagram</category>
-      <description>(无配文)</description>
-    </item>
-    <item>
-      <title>sniper-china: 成，成吉思汗！有多少姑娘想嫁给他！
-
-你们会唱这歌吗？</title>
-      <link>https://weibo.com/2215128543/RqKVma0gV</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqKVma0gV</guid>
-      <pubDate>Tue, 10 Nov 2026 15:24:37 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4473fa5f40f6820d.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4473fa5f40f6820d.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/2011b94bbd624870.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/4473fa5f40f6820d.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/2011b94bbd624870.jpg"/><br/>成，成吉思汗！有多少姑娘想嫁给他！<br/><br/>你们会唱这歌吗？</description>
-    </item>
-    <item>
-      <title>sniper-china: 毫不违和。蒙古大军信了藏传佛教，心经是大乘佛教经典，藏蒙都抄写。</title>
-      <link>https://weibo.com/2215128543/RqKY1p7M0</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqKY1p7M0</guid>
-      <pubDate>Tue, 10 Nov 2026 15:24:37 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/88aacb4f5954337f.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/88aacb4f5954337f.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9edbb8e5d39360d5.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c4a871990ea2fbff.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/88aacb4f5954337f.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/9edbb8e5d39360d5.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/c4a871990ea2fbff.jpg"/><br/>毫不违和。蒙古大军信了藏传佛教，心经是大乘佛教经典，藏蒙都抄写。</description>
-    </item>
-    <item>
-      <title>sniper-china: 回复 @理查德小米勒:你错了 在上个世纪八十年代美国禁烟运动之前，抽烟一直被认为是体面和上流社会习惯，更早烟草是认为可以</title>
-      <link>https://weibo.com/2215128543/RqMm05Rzw</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2215128543/RqMm05Rzw</guid>
-      <pubDate>Tue, 10 Nov 2026 15:24:37 +0000</pubDate>
-      <author>sniper-china</author>
-      <category>微博</category>
-      <description>回复 @理查德小米勒:你错了 在上个世纪八十年代美国禁烟运动之前，抽烟一直被认为是体面和上流社会习惯，更早烟草是认为可以治病的。抽烟有害健康是上世纪八十年代之后才有研究并逐步被医学专家认可。<br/>转发 @理查德小米勒：我分析主要是那时候小零食太少，只能抽烟。要是有各种饮料啤酒麻辣花生蟹黄瓜子辣条猪肉脯番茄薯片啥的，也不至于狂抽烟。//@sniper-china:#伟大的长征# 比较耗烟 教员烟不离手李德 贺龙 小平这几个大佬都抽很多贺龙抽烟斗。张国焘烟不离手 徐向前也抽 刘志丹和教员见面就抽 还有谁？看剧有我认真吗？ <a href="https://weibo.com/2215128543/RqBuX0nsb">原微博</a></description>
-    </item>
-    <item>
-      <title>青祙素: 信息越多越觉得，所谓的情感叙事/黄仁勋恋爱脑就是个掩护。 毕竟今年3月“老友蒙蔽”这个叙事过关成功过。 informat</title>
-      <link>https://weibo.com/2109928873/RqM6gA3Yb</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/2109928873/RqM6gA3Yb</guid>
-      <pubDate>Tue, 10 Nov 2026 15:24:37 +0000</pubDate>
-      <author>青祙素</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3f4aa6a68d577c12.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3f4aa6a68d577c12.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/3f4aa6a68d577c12.jpg"/><br/>信息越多越觉得，所谓的情感叙事/黄仁勋恋爱脑就是个掩护。 毕竟今年3月“老友蒙蔽”这个叙事过关成功过。 information最新报道的数字是75亿美元。</description>
-    </item>
-    <item>
-      <title>LoneSchicksal: 又是力竭的一天… 在一场场路演的间歇，刷到了两首喜欢的歌儿… 躺倒 睡去… [doge][doge]</title>
-      <link>https://weibo.com/1645776681/RqMB24MrZ</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RqMB24MrZ</guid>
-      <pubDate>Tue, 10 Nov 2026 15:24:37 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/fa0efd372d243bb8.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/fa0efd372d243bb8.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/23143091010752d3.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/fa0efd372d243bb8.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/23143091010752d3.jpg"/><br/>又是力竭的一天… 在一场场路演的间歇，刷到了两首喜欢的歌儿… 躺倒 睡去… [doge][doge]</description>
-    </item>
-    <item>
-      <title>LoneSchicksal: Repost</title>
-      <link>https://weibo.com/1645776681/RqM3oCpO8</link>
-      <guid isPermaLink="false">weibo:https://weibo.com/1645776681/RqM3oCpO8</guid>
-      <pubDate>Tue, 10 Nov 2026 15:24:37 +0000</pubDate>
-      <author>LoneSchicksal</author>
-      <category>微博</category>
-      <enclosure url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6f491b2a35fb3b66.jpg" type="image/jpeg"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6f491b2a35fb3b66.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/2c45358436833f24.jpg" type="image/jpeg" medium="image"/>
-      <media:content url="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/80eb46b208250744.jpg" type="image/jpeg" medium="image"/>
-      <description><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6f491b2a35fb3b66.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/2c45358436833f24.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/80eb46b208250744.jpg"/><br/>转发 @财联社APP：#Anthropic英伟达同日上新大模型# #机器人真的要长脑子了吗# 【Anthropic、英伟达同日上新 机器人真的要“长脑子”了？】《科创板日报》11月10日讯 当地时间11月9日，英伟达、Anthropic接连发布新品，为机器人连添两把火。<br/><br/>先是IPO前夕备受资本市场审视的Anthropic放出两大重磅新模型：新一代旗舰模型Fable 5.2与Mythos 5.2。<br/><br/>其中，作为一个通用大模型，Fable 5.2在机器人控制方面展现出的能力引发业界瞩目。Anthropic公布的测试数据显示，在RoboDojo双臂仿真机器人基准测试中，Fable 5.2平均成功率达64.9%。<br/><br/>另一边，当地时间11月9日同日，英伟达宣布推出全新的新一代机器人模型GR00T 2，并发布了机器人学习框架Isaac Lab 3.0及多项机器人训练与评测技术。 http://t.cn/AXYNqJxp <a href="https://weibo.com/2868676035/RqJPHhcmh">原微博</a><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/80eb46b208250744.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/2c45358436833f24.jpg"/><br/><img src="https://raw.githubusercontent.com/ZHAODayou/blogger-rss/main/images/6f491b2a35fb3b66.jpg"/></description>
     </item>
   </channel>
 </rss>
